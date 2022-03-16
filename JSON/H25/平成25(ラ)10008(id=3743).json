@@ -1,0 +1,100 @@
+{
+  "decision": [
+    {
+      "fig": "1",
+      "text": "本件抗告を棄却する。"
+    },
+    {
+      "fig": "2",
+      "text": "抗告費用は抗告人の負担とする。"
+    },
+    {
+      "fig": "3",
+      "text": "この決定に対する特別抗告及び許可抗告の申立てのための付加期間を30日と定める。"
+    },
+    {
+      "fig": "1",
+      "text": "原決定を取り消す。"
+    },
+    {
+      "fig": "2",
+      "text": "相手方は，別紙物件目録記載の製品を生産し，譲渡し，貸し渡し，輸入し，又はその譲渡若しくは貸渡しの申出（譲渡若しくは貸渡しのための展示を含む。）をしてはならない。"
+    },
+    {
+      "fig": "3",
+      "text": "相手方は，別紙物件目録記載の製品に対する占有を解いて，これを執行官に引き渡さなければならない。"
+    },
+    {
+      "fig": "4",
+      "text": "手続費用は，原審，抗告審を通じて，相手方の負担とする。"
+    },
+    {
+      "fig": "1",
+      "text": "事案の要旨"
+    },
+    {
+      "fig": "2",
+      "text": "争いのない事実等（疎明資料の摘示のない事実は，公知事実若しくは争いのない事実又は審尋の全趣旨により認められる事実である。）"
+    },
+    {
+      "fig": "6",
+      "text": "IPRに適用される「必須」とは，（商業的ではなく）技術的な理由で，標準化の時点で一般に利用可能な通常の技術慣行および最新技術を考慮し，IPRに抵触せずに規格に準拠する機器または方法を製造または販売，賃貸，処分，修理，使用または動作できないことを意味する。疑義を回避するため，規格が技術的な解決策でのみ実行可能で，すべてがIPRに抵触する例外的な場合で，当該のすべてのIPRは必須とみなされるものとする。"
+    },
+    {
+      "fig": "7",
+      "text": "「IPR」とは，商標以外の知的財産権の適用を含む，法律により参照された知的財産権を意味するものとする。疑義を回避するため，体裁に関連する権利または機密情報，企業秘密，同様のものは，IPRの定義から除外される。・・・"
+    },
+    {
+      "fig": "9",
+      "text": "「会員」とは，ETSIの会員または賛助会員を意味するものとする。会員の参照は，文脈が許す場合には常に，その会員およびその関連会社と解釈されるものとする。・・・"
+    },
+    {
+      "fig": "13",
+      "text": "「特許ファミリー」とは，優先順位の高い文書それ自体を含む，一般に1つ以上の優先順位のあるすべての文書を意味するものとする。疑義を回避するため，「文書」は特許および実用新案，その応用を表す。」"
+    },
+    {
+      "fig": "3",
+      "text": "当事者の主張"
+    },
+    {
+      "fig": "1",
+      "text": "本件製品についての本件発明1の技術的範囲の属否について"
+    },
+    {
+      "fig": "2",
+      "text": "権利濫用の成否について"
+    },
+    {
+      "fig": "3",
+      "text": "結論"
+    },
+    {
+      "fig": "1",
+      "text": "「4.2.1.2  Unacknowledged mode (UM) RLC entities Figure 4.3 below shows the model of two unacknowledged mode peer RLC entities when duplicate avoidance and reordering is not configured.」"
+    },
+    {
+      "fig": "3",
+      "text": "「9.2.1.3  UMD PDU The UMD PDU is used to transfer user data when RLC is operating in unacknowledged mode. The length of the data part shall be a multiple of 8 bits. The UMD PDU header consists of the first octet, which contains the \"Sequence Number\". The RLC header consists of the first octet and all the octets that contain \"Length Indicators\".  」"
+    },
+    {
+      "fig": "1",
+      "text": "The next field is Length Indicator and E bit 」"
+    },
+    {
+      "fig": "0",
+      "text": "次のフィールドは，データ，ピギーバックされたステータスPDU，又はパディング"
+    },
+    {
+      "fig": "1",
+      "text": "次のフィールドは，長さインジケータとEビット"
+    },
+    {
+      "fig": "0",
+      "text": "次のフィールドは，分割，連結，パディングされていない完全なSDU 1  次のフィールドは，長さインジケータとEビット"
+    },
+    {
+      "fig": "5",
+      "text": "(1)  「9.2.2.8  Length Indicator (LI)"
+    }
+  ]
+}

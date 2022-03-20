@@ -1,0 +1,992 @@
+{
+  "conclusion": [
+    {
+      "fig": "1",
+      "text": "原告の請求を棄却する。"
+    },
+    {
+      "fig": "2",
+      "text": "訴訟費用は原告の負担とする。"
+    }
+  ],
+  "reason": [
+    {
+      "fig": "第1",
+      "subject": "請求",
+      "text": [
+        "特許庁が不服2005-6291号事件について平成18年3月14日にし",
+        "た審決を取り消す。"
+      ]
+    },
+    {
+      "fig": "第2",
+      "subject": "争いのない事実",
+      "content": [
+        {
+          "fig": "1",
+          "subject": "特許庁における手続の経緯",
+          "text": [
+            "原告は，平成16年5月10日，「TOKYO IP FIRM」の文字",
+            "(標準文字による)を書してなる商標(以下「本願商標」という。)について，第42類「工業所有権に関する手続の代理又は鑑定その他の事務，訴訟事件その他に関する法律事務，登記又は供託に関する手続の代理」を指定役務として，商標登録出願(商願2004-42451号，以下「本願」という。)したが，平成17年3月28日付けの拒絶査定を受けたので，同年4月8日，これに対する不服の審判を請求した。特許庁は，上記請求を不服2005-6291号事件として審理し，平成17年10月24日付けの拒絶理由通知をした上，平成18年3月14日，「本件審判の請求は，成り立たない。」との審決をし，同年3月28日，その謄本を原告に送達した。"
+          ]
+        },
+        {
+          "fig": "2",
+          "subject": "審決の理由",
+          "text": [
+            "別紙審決書の写しのとおりである。要するに，「TOKYO IP FIRM」の文字からなる本願商標は，これをその指定役務について使用するときは，これに接する取引者，需要者をして，その構成全体から「東京に在る知的財産を取り扱う事務所」，すなわち，役務の提供場所又は役務を提供する者の所在を表したものと理解，認識するにとどまり，自他役務の識別標識としての機能を果たし得ないものであって，需要者が何人かの業務に係る役務であることを認識することができないものであるから，商標法3条1項6号に該当し，商標登録を受けることができない，とするものである。"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "第3",
+      "subject": "原告主張の取消事由の要点",
+      "text": [
+        "審決は，本願商標の自他役務の識別力の評価を誤り，本願商標が商標法3条1項6号に該当すると誤って判断したものであるから，違法として取り消されるべきである。"
+      ],
+      "content": [
+        {
+          "fig": "1",
+          "subject": "証拠評価の誤り",
+          "content": [
+            {
+              "fig": "(1)",
+              "subject": "審決は，「添付資料1ないし9(判決注：甲1～6，28～30)によれば，『東京都中央区京橋3丁目3番4号』に『TOKYO IP FIRM",
+              "text": [
+                "(又はTokyo IP Firm)』と称する者(事務所)が存すること",
+                "及び当該者(事務所)に宛てて外国郵便が送られてきたこと……を窺い知ることはできるが，これらをもって直ちに本願商標『TOKYO IP FIRM』が自他役務の識別標識として機能する証左とは認め難」いと判断したが，誤りである。",
+                "原告が審判において提出した甲1(東京三菱銀行(日本)からの外国送金計算書)，甲2(フェデラルエクスプレス(日本)からの請求書)，甲3(米国の特許事務所であるLAW OFFICE MILLEN, WHITE, ZELANO & BRANIGAN,P.C.からの封筒)，甲4(カナダの特許事務所であるMARKS & CLERKからの封筒)，甲5(英国の特許事務所であるWILSON GUNNからの封筒)，甲6(インドの特許事務所であるH. K. ACHARYA & COMPANYからの封筒)はもとより，本訴において新たに提出する甲7(米国の特許事務所であるDrinker Biddle& Reath LLPからの封筒)，甲8(米国の特許事務所であるNath & Associates PLLCからの封筒)，甲9(米国の特許事務所であるGary C. Cohn PLLCからの手紙)，甲10(中国の特許事務所であるNTD Patent & Trademark Agency Limitedからの封筒)，甲11(インドの特許事務所であるK&S Partnersからの手紙)，甲31(米国の特許事務所であるLAW OFFICE MILLEN, WHITE, ZELANO & BRANIGAN, P.C.からの手紙)，甲32(カナダの特許事務所であるMARKS & CLERKからの手紙)，甲33(インドの特許事務所であるH. K.ACHARYA & COMPANYからの手紙)は，いずれも本願の指定役務の需要者である各国の特許事務所などを差出人とするものであり，これら需要者が，「TOKYO IP FIRM」という商標によって，宛先である特定の事務所(当該事務所の弁理士)が提供するサービスが，特定人の業務に係るものと認識していることを示している。すなわち，これら需要者が，「TOKYOIP FIRM」を宛先とした郵便物を躊躇なく差し出し，それらが毎日のように大量に宛先に届いている事実は，本願商標が自他役務の識別標識として機能していることを示すものである。"
+              ]
+            },
+            {
+              "fig": "(2)",
+              "text": [
+                "被告は，「TOKYO」の文字と事務所等を表示する文字とを結合した例(後記第4，1(4)ア～ケ)を挙げるが，これらは東京支店や東京営業所を意味する英文であって，会社や機関名に付随するものであり，これらだけで識別力を持つものではないし，本願商標はこれらと同一ではないから，本願商標が識別力を持つか否かとは関係がない。",
+                "被告は，また，地名等と「IP FIRM」とを結合した例(後記第4，1(5)ア～コ)を挙げるが，これらがその所在地において知的財産を取り扱う事務所を表しているからといって，特定の事務所を表示する名称として識別力を持たないということを意味するものではないし，本願商標はこれらと同一ではないから，本願商標が識別力を持つか否かとは関係がない。"
+              ]
+            },
+            {
+              "fig": "(3)",
+              "text": [
+                "したがって，本願商標が商標法3条1項6号に該当するとした審決の判断は，誤りである。"
+              ]
+            }
+          ]
+        },
+        {
+          "fig": "2",
+          "subject": "商標登録が認められた事例との不均衡",
+          "text": [
+            "特許庁は，①審決では「『IP FIRM』の文字……が，特許等の知的財産を取り扱う事務所を意味する語として普通に用いられている」としているにもかかわらず，「IP FIRM」を商標として登録し(甲12)，②審決では「『TOKYO IP FIRM』の文字からなる本願商標は，その構成全体から『東京に在る知的財産を取り扱う事務所』といった意味合いを容易に看取，認識させる」としているにもかかわらず，同様の事情にある「東京国際特許事務所」，「東京シティ国際特許事務所」，「東京IP特許事務所」をいずれも商標として登録し(甲14～16)，③東京と同じように日本の地名として一般に広く親しまれた語である「日本」，「名古屋」，「富士」などを普通名称と判断される「国際特許事務所」に付した「日本国際特許事務所」，「名古屋国際特許事務所」，「富士国際特許事務所」をいずれも商標として登録している(甲17～19)。",
+            "審決の判断が正しいのであれば上記の商標はいずれも登録されるはずがないから，特許庁が上記商標を登録したことは，本願商標を拒絶すべきものとした審決の判断が恣意的であり，違法であることを示している。"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "第4",
+      "subject": "被告の反論の要点",
+      "text": [
+        "審決の認定・判断は正当であって，原告主張の誤りはない。"
+      ],
+      "content": [
+        {
+          "fig": "1",
+          "subject": "商標法3条1項6号該当性について",
+          "content": [
+            {
+              "fig": "(1)",
+              "subject": "本願商標の構成中の「IP」の文字は，審決が引用した新聞記事(甲20，27，乙3の1)のほか，書籍，辞典及びインターネット上の記載(乙3の2～8)に照らせば，本願の指定役務との関係においては，「知的財産(権)」を意味する英語「intellectual property」",
+              "text": [
+                "の略語として，一般に広く知られている語ということができる。"
+              ]
+            },
+            {
+              "fig": "(2)",
+              "text": [
+                "本願商標の構成中の「FIRM」の文字は，辞典やインターネット上の記載(甲21，乙4の1～3)に照らせば，本来，「会社，商会」といった語義を有する英語及び外来語として慣れ親しまれている語ということができるが，辞典の中には「a law ～ 法律事務所」という記載があるものがあること(乙4の1)に加え，法律事務所や特許等の知的財産を取り扱う事務所の名称の例(甲22，24，乙5の1～5)に照らせば，本願の指定役務との関係においては，「事務所」を意味する英語としても，一般に広く知られているということができる。"
+              ]
+            },
+            {
+              "fig": "(3)",
+              "subject": "わが国において，法律事務所等の名称の例と同様に，特許等の知的財産を取り扱う事務所が，自己の名称の一部に，その業種，業態を表す語として「IP FIRM」(甲23)又は「Intellectual Prop",
+              "text": [
+                "erty Firm」(乙6の1～3)の語を用いているものがあり，また，「IP FIRM」若しくはこれに通ずる「IPファーム」(甲25，2",
+                "6)又は「Intellectual Property Firm」(乙",
+                "7)の語が，特許等の知的財産を取り扱う事務所を意味する語として記述的に用いられているものも少なからずあること，並びに，わが国の取引者，需要者でも容易にアクセスできる諸外国のインターネット記事において，特許等の知的財産を取り扱う事務所を表す記述的な表現として，「IP FIRM」，「Intellectual Property Firm」，「I",
+                "P Law Firm」又は「Intellectual Propert"
+              ],
+              "content": [
+                {
+                  "fig": "y",
+                  "subject": "Law Firm」の語が，多数用いられている(乙8の1～24)こ",
+                  "text": [
+                    "とからすれば，本願商標の構成中の「IP FIRM」の文字部分は，本願商標に接する取引者，需要者，すなわち，わが国における工業所有権の取得を希望するか又はこれらの権利に関する紛争解決を希望する個人又は法人をして，「知的財産を取り扱う事務所」を意味するものであると認識させるものであり，本願の指定役務との関係においては，その役務を提供する事務所であることを記述的に表したものと理解，認識させるにとどまるものであるから，自他役務の識別標識としての機能を果たし得ないものというべきである。"
+                  ]
+                }
+              ]
+            },
+            {
+              "fig": "(4)",
+              "text": [
+                "本願商標は，「TOKYO IP FIRM」の文字からなるところ，これよりは，日本の首都であって，政治，経済，文化の中枢である「東京」を欧文字表記したものとして一般に慣れ親しまれている「TOKYO」の文字と，上記のとおり，自他役務の識別標識としては認識され得ない「IP FIRM」の文字とを結合したものと容易に理解，認識されるものである。このように，有名な地名表示である「TOKYO」(又は「Tokyo」)の文字と事務所，営業所等を表示する他の文字とを結合して，単に，当該事務所等が行う役務の提供の場所や質(内容)を記述的に表している例は，下記アないしケなど，枚挙にいとまがない。"
+              ],
+              "content": [
+                {
+                  "content": [
+                    {
+                      "fig": "ア",
+                      "subject": "「国際連合開発計画(UＮDP)」の東京連絡事務所について，「Tok",
+                      "text": [
+                        "yo Liaison Office」と表示している例(乙9の1)"
+                      ]
+                    },
+                    {
+                      "fig": "イ",
+                      "subject": "「米国国立科学財団」の東京事務所について，「Tokyo Regio",
+                      "text": [
+                        "nal Office」と表示している例(乙9の2)"
+                      ]
+                    },
+                    {
+                      "fig": "ウ",
+                      "subject": "「長崎県」の東京事務所について，「Tokyo Branch Off",
+                      "text": [
+                        "ice」と表示している例(乙9の3)"
+                      ]
+                    },
+                    {
+                      "fig": "エ",
+                      "subject": "「財団法人海外技術者研修協会」の東京研修センターについて，「Tok",
+                      "text": [
+                        "yo Kenshu Center」と表示している例(乙9の4)"
+                      ]
+                    },
+                    {
+                      "fig": "オ",
+                      "subject": "「双日エアロスペース株式会社」の東京本社について，「Tokyo H",
+                      "text": [
+                        "ead Office」と表示している例(乙9の5)"
+                      ]
+                    },
+                    {
+                      "fig": "カ",
+                      "subject": "「城北宣広株式会社」の東京営業所について，「Tokyo SalesOffice」と表示している例(乙9の6)"
+                    },
+                    {
+                      "fig": "キ",
+                      "subject": "「東ソー株式会社」の東京研究センターについて，「Tokyo Res",
+                      "text": [
+                        "earch Center」と表示している例(乙9の7)"
+                      ]
+                    },
+                    {
+                      "fig": "ク",
+                      "subject": "「Google」の東京研究開発センターについて，「Tokyo R＆D Center」と表示している例(乙9の8)"
+                    },
+                    {
+                      "fig": "ケ",
+                      "subject": "「Kashiwagi Sogo Law Office」について，",
+                      "text": [
+                        "「Kashiwagi Sogo Law Offices is a T",
+                        "okyo law firm……」と紹介している例(乙9の9)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "fig": "(5)",
+              "subject": "地名(地域名)を表す文字と「IP firm」又は「Intellec",
+              "text": [
+                "tual Property Law Firm」の文字とを結合して，役",
+                "務の提供の場所や所在を含めて知的財産を取り扱う事務所であることを記述的に表している例も，下記アないしコのとおり，相当数ある。"
+              ],
+              "content": [
+                {
+                  "content": [
+                    {
+                      "fig": "ア",
+                      "subject": "「2005年11月2日，金杜律師事務所は……2005年度最優秀知的財産権事務所賞(China IP Firm of the Year",
+                      "text": [
+                        "2005)を受賞しました。」(乙10の1)"
+                      ]
+                    },
+                    {
+                      "fig": "イ",
+                      "subject": "「Japan IP Firm of 2004：Ｎakamura ＆",
+                      "text": [
+                        "Partners」(乙10の2)"
+                      ]
+                    },
+                    {
+                      "fig": "ウ",
+                      "subject": "「GLOBAL IP Counselors，LLP is a US",
+                      "text": [
+                        "intellectual property law firm……」",
+                        "(乙10の3)"
+                      ]
+                    },
+                    {
+                      "fig": "エ",
+                      "subject": "「……Liu，Shen ＆ Associates(LSA)，the",
+                      "text": [
+                        "Beijing IP firm……」(乙10の4)"
+                      ]
+                    },
+                    {
+                      "fig": "オ",
+                      "subject": "「Mallesons Stephen Jaques named A",
+                      "text": [
+                        "ustralia IP Firm of the Year」(乙10の"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fig": "5)",
+          "content": [
+            {
+              "content": [
+                {
+                  "content": [
+                    {
+                      "fig": "カ",
+                      "subject": "「MIＮＮESOTA IＮTELLECTUAL PROPERTY",
+                      "text": [
+                        "LAW FIRMS」(乙10の6)"
+                      ]
+                    },
+                    {
+                      "fig": "キ",
+                      "subject": "「……“Canadian IP Firm of the Year”",
+                      "text": [
+                        "for 2006……」(乙10の7)"
+                      ]
+                    },
+                    {
+                      "fig": "ク",
+                      "subject": "「Thailand IP Firm of 2004」(乙10の8)"
+                    },
+                    {
+                      "fig": "ケ",
+                      "subject": "「Chicago IP Firm Awards Three Sch",
+                      "text": [
+                        "olarships」(乙10の9)"
+                      ]
+                    },
+                    {
+                      "fig": "コ",
+                      "subject": "「Ranked ＃1 U．S．IP Firm in 2006……」",
+                      "text": [
+                        "(乙10の10)"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "fig": "(6)",
+              "text": [
+                "以上を総合すれば，「TOKYO IP FIRM」の文字を標準文字で書してなる本願商標は，審決時(平成18年3月14日)においては，本願商標に接する需要者等をして，その構成全体から，「東京に在る知的財産を取り扱う事務所」を意味するものであると認識されていたものというべきであり，その指定役務との関係においても，役務を提供する東京の事務所であることを一般的に説明しているにすぎず，自他役務の識別標識として理解，認識されないものであるから，結局，本願商標は，需要者が何人かの業務に係る役務であることを認識することができないものというべきである。",
+                "したがって，本願商標が商標法3条1項6号に該当するとした審決の認定，判断に誤りはない。"
+              ]
+            }
+          ]
+        },
+        {
+          "fig": "2",
+          "subject": "証拠評価の誤りについて",
+          "text": [
+            "甲1～11，31～33はいずれも特定の外国顧客とおぼしき者との間で発出，受領された手紙等であり，これらに記載されている「TOKYO IPFIRM」又は「Tokyo IP Firm」の文字は，手紙の宛先等とし",
+            "て，住所等とともに記載されているにすぎず，このような記載がされていることと，本願商標をその指定役務について使用した場合に，これに接する取引者，需要者が，「TOKYO IP FIRM」の文字からなる本願商標を自他役務の識別標識として理解，認識するか否かとは別異のことであるから，これらの証拠をもってしては，本願商標が，その指定役務の取引者，需要者間において，自他役務の識別標識として機能していると認めることはできない。"
+          ]
+        },
+        {
+          "fig": "3",
+          "subject": "商標登録が認められた事例との不均衡について",
+          "text": [
+            "登録出願に係る商標が登録され得るものであるか否かの判断は，当該商標の全体の構成に基づいて個々の商標ごとに個別具体的に検討，判断されるべきものであり，本願商標が商標法3条1項6号に該当するか否かについての判断が，その全体の構成を異にする他の登録例に拘束されるものではないから，原告の挙げた登録例によって，本願商標における判断が左右されるものではない(なお，原告が挙げる登録例のうち「IP FIRM」(甲12)については，東京地方裁判所平成17年(ワ)第768号事件の判決(甲13)において，商標法3条1項6号に該当し，権利行使は許されない旨判断されている。)。",
+            "本願商標が商標法3条1項6号に該当することは上記のとおりであり，原告主張のような登録例があることをもって，審決の判断が恣意的，かつ，違法であるということはできず，また，本願商標の登録を拒絶することが不公正になるということもできない。"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "第5",
+      "subject": "当裁判所の判断",
+      "content": [
+        {
+          "fig": "1",
+          "subject": "商標法3条1項6号該当性について",
+          "content": [
+            {
+              "fig": "(1)",
+              "text": [
+                "審決は，①本願商標の構成中の「TOKYO」の文字は，日本の首都であって，政治，経済，文化の中枢である「東京」を欧文字表記したものとして一般に広く慣れ親しまれた語であり，様々な分野において，その所在地「東京」を表す語として普通に用いられているものであること，②本願商標の構成中の「IP」の文字は，本願に係る指定役務との関係において，「知的財産」を指称する語として，一般に広く知られているものであること，③本願商標の構成中の「FIRM」の文字は，本来，「会社，商会」の語義を有する英語及び外来語として慣れ親しまれている語であるが，本願に係る指定役務との関係において，「事務所」を指称する語としても，一般に広く知られているものであることを認定しているところ(審決書「4 当審の判断」の第1～第3段落)，この審決の認定事実については原告も認めるところである(原告の平成18年5月23日付け準備書面1枚目)。"
+              ]
+            },
+            {
+              "fig": "(2)",
+              "content": [
+                {
+                  "fig": "ア",
+                  "subject": "証拠(甲23，24，乙6の1～3)及び弁論の全趣旨によれば，審決時(平成18年3月14日)ないしこれと近接する被告の調査時(平成18年6月)に，次の(ア)ないし(オ)のとおり，わが国において，「IPFIRM」，「IP LAW FIRM」又は「Intellectua",
+                  "content": [
+                    {
+                      "fig": "l",
+                      "subject": "Property Firm」を自己の名称の英語表記に用いる特許",
+                      "text": [
+                        "等の知的財産を取り扱う複数の事務所が存在することが認められる。"
+                      ],
+                      "content": [
+                        {
+                          "fig": "(ア)",
+                          "subject": "プレシオ国際特許事務所〔Prezio IP Firm〕(甲2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fig": "3)",
+          "content": [
+            {
+              "content": [
+                {
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "fig": "(イ)",
+                          "subject": "RYUKA国際特許事務所〔RYUKA IP LAW FIR",
+                          "text": [
+                            "M〕(甲24)"
+                          ]
+                        },
+                        {
+                          "fig": "(ウ)",
+                          "subject": "神原特許事務所〔Intellectual Property",
+                          "text": [
+                            "Firm KAMBARA ＆ ASSOCIATES〕(乙6の1)"
+                          ]
+                        },
+                        {
+                          "fig": "(エ)",
+                          "subject": "アーウェル国際特許事務所〔Aarwer Internatio",
+                          "text": [
+                            "nal Intellectual Property Firm〕",
+                            "(乙6の2)"
+                          ]
+                        },
+                        {
+                          "fig": "(オ)",
+                          "subject": "ハタ知的財産事務所〔Hata Intellectual Pr",
+                          "text": [
+                            "operty Firm〕(乙6の3)"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "fig": "イ",
+                  "subject": "証拠(甲25，26，乙8の1～24，10の1～10)及び弁論の全",
+                  "text": [
+                    "趣旨によれば，審決時(平成18年3月14日)ないしこれと近接する被告の調査時(平成18年6月)に，下記(ア)ないし(ユ)のとおり，インターネットのホームページにおいて，「IP Firm」，「IPファーム」，「Intellectual Property Firm」，",
+                    "「IP Law Firm」又は「Intellectual Prop",
+                    "erty Law Firm」の語が，特許等の知的財産を取り扱う事務",
+                    "所を意味する語として記述的に用いられている多数の例があることが認められる。"
+                  ],
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "fig": "(ア)",
+                          "subject": "「YOU ME特許法人……推薦したい韓国のIP Firm 第",
+                          "text": [
+                            "1位」(甲26)"
+                          ]
+                        },
+                        {
+                          "fig": "(イ)",
+                          "subject": "「Finnegan法律事務所はアメリカでも有数のIP(Int",
+                          "text": [
+                            "ellectual Property；知的財産権)専門の事務所で",
+                            "す。……総合事務所が何とかしてIPの領域に食い込もうと小さなIPファームを合併するなどしている……。」(甲25)"
+                          ]
+                        },
+                        {
+                          "fig": "(ウ)",
+                          "subject": "「鈴榮特許綜合事務所 SUZUYE ＆ SUZUYE」「In",
+                          "text": [
+                            "tellectual Property Firm Since 1",
+                            "910」(乙7)"
+                          ]
+                        },
+                        {
+                          "fig": "(エ)",
+                          "subject": "「Yuasa and Hara Ｎamed Top IP F",
+                          "text": [
+                            "irm in Japan〔ユアサハラは，日本における最上位の知的",
+                            "財産を取り扱う事務所(IP Firm)に指名された。〕」(乙8の"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fig": "1)",
+          "content": [
+            {
+              "content": [
+                {
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "fig": "(オ)",
+                          "subject": "「Seed is Top Rated IP Firm〔シード",
+                          "text": [
+                            "(Seed)は，最上位に評価される知的財産を取り扱う事務所(IPFirm)である。〕」(乙8の2)"
+                          ]
+                        },
+                        {
+                          "fig": "(カ)",
+                          "subject": "「Bustaman is one of the leadin"
+                        }
+                      ]
+                    },
+                    {
+                      "fig": "g",
+                      "subject": "Intellectual Property (“IP”) f",
+                      "text": [
+                        "irms in Malaysia……．〔ブスタマン(Bustam",
+                        "an)は，マレーシアにおける主要な知的財産を取り扱う事務所(In",
+                        "tellectual Property (“IP”) firm",
+                        "s)の1つであり……。〕」(乙8の3)"
+                      ],
+                      "content": [
+                        {
+                          "fig": "(キ)",
+                          "subject": "「Morgan Lewis named a “Top IP",
+                          "text": [
+                            "Firm” by IP Law ＆ Business〔モルガンル",
+                            "イス(Morgan Lewis)は，アイピー・ロー・アンド・ビジ",
+                            "ネス(IP Law ＆ Business)により，『最上位の知的",
+                            "財産を取り扱う事務所(IP Firm)』に指名された。〕」(乙8",
+                            "の4)"
+                          ]
+                        },
+                        {
+                          "fig": "(ク)",
+                          "subject": "「Kilpatrick Stockton Ranks as"
+                        }
+                      ]
+                    },
+                    {
+                      "fig": "a",
+                      "subject": "“Top IP Firm” in Annual “Who P",
+                      "text": [
+                        "rotects IP America”〔キルパトリック・ストック",
+                        "トン(Kilpatrick Stockton)は，年鑑『誰が知的",
+                        "財産アメリカを保護する(“Who Protects IP Ame",
+                        "rica”)』において，『最上位の知的財産を取り扱う事務所(IPFirm)』として位置づけられた。〕」(乙8の5)"
+                      ],
+                      "content": [
+                        {
+                          "fig": "(ケ)",
+                          "subject": "「Fortune 250 Ｎame Brooks Kushm",
+                          "text": [
+                            "an as a Top 10 IP Firm〔フォーチュン250",
+                            "(Fortune 250)は，ブルックス・クシュマン(Brook"
+                          ],
+                          "content": [
+                            {
+                              "fig": "s",
+                              "subject": "Kushman)を上位10の知的財産を取り扱う事務所(IP",
+                              "text": [
+                                "Firm)に指名する。〕」(乙8の6)"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "fig": "(コ)",
+                          "subject": "「Baker． ＆ Mckenzie is pleased",
+                          "text": [
+                            "to announce that it was awarded",
+                            "Asia Pacific IP Firm of the Year",
+                            "at the AsiaLaw IP Awards 2004．",
+                            "〔ベーカー・アンド・マッケンジー(Baker． ＆ Mckenz",
+                            "ie)は，アジアロー・アイピー・アワード2004(the Asi",
+                            "aLaw IP Awards 2004)で，2004年アジア太平",
+                            "洋地域の知的財産を取り扱う事務所(IP Firm)の賞を受賞したことを喜んで発表する。〕」(乙8の7)"
+                          ]
+                        },
+                        {
+                          "fig": "(サ)",
+                          "subject": "「Bereskin ＆ Parr is a leading",
+                          "text": [
+                            "intellectual property (IP) firm",
+                            "serving clients in over 100 coun",
+                            "tries worldwide．〔ベレスキン・アンド・パー(Be",
+                            "reskin ＆ Parr)は，世界100カ国以上に顧客を有する",
+                            "主要な知的財産を取り扱う事務所(Intellectual Pro",
+                            "perty (IP) firm)である。〕」(乙8の8)"
+                          ]
+                        },
+                        {
+                          "fig": "(シ)",
+                          "subject": "「MIP has for several years rec",
+                          "text": [
+                            "ognized Gowlings as a highly ran",
+                            "ked IP firm in trade marks， copy",
+                            "rights and patents．〔エム・アイ・ピー(MI",
+                            "P)は，数年来，ゴーリングス(Gowlings)を商標，著作権及",
+                            "び特許において上位に位置づけられる知的財産を取り扱う事務所(IPfirm)として認識している。〕」(乙8の9)"
+                          ]
+                        },
+                        {
+                          "fig": "(ス)",
+                          "subject": "「Gowlings Moscow Recognized as",
+                          "text": [
+                            "Leading IP Firm in Russia〔ゴーリング",
+                            "ス・モスクワ(Gowlings Moscow)は，ロシアにおける",
+                            "主要な知的財産を取り扱う事務所(IP Firm)として認識されている。〕」(乙8の10)"
+                          ]
+                        },
+                        {
+                          "fig": "(セ)",
+                          "subject": "「KＮOBBE MARTEＮS RAＮKED TOP IP",
+                          "text": [
+                            "FIRM HEADQUARTERED IＮ THE WEST〔ノ",
+                            "ブ・マーテンス(KＮOBBE MARTEＮS)は，西岸部に本部を",
+                            "置く最上位の知的財産を取り扱う事務所(IP FIRM)に位置づけられる。〕」(乙8の11)"
+                          ]
+                        },
+                        {
+                          "fig": "(ソ)",
+                          "subject": "「In 1990 we acquired a small I",
+                          "text": [
+                            "P firm in Pittsburgh， PA and in",
+                            "2001 we acquired another small I",
+                            "P firm in Baltimore， MD．〔1990年，我",
+                            "々は，ペンシルベニア州ピッツバーグに小さな知的財産を取り扱う事務所(IP firm〕を取得し，また，2001年，メリーランド州ボ",
+                            "ルティモアにもう1つの小さな知的財産を取り扱う事務所(IP firm)を取得した。〕」(乙8の12)"
+                          ]
+                        },
+                        {
+                          "fig": "(タ)",
+                          "subject": "「＃1 IP Litigators and ＃1 IP Fi",
+                          "text": [
+                            "rm - IP Law ＆ Business〔第1位の弁護士及び",
+                            "第1位の知的財産を取り扱う事務所(IP Firm)-アイピー・ロ",
+                            "ー・アンド・ビジネス(IP Law ＆ Business)〕」",
+                            "(乙8の13)"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(チ)",
+      "subject": "「Kenyon ＆ Kenyon LLP is one of",
+      "text": [
+        "the largest and most diversifie"
+      ],
+      "content": [
+        {
+          "fig": "d",
+          "subject": "intellectual property law firm",
+          "content": [
+            {
+              "fig": "s",
+              "subject": "in the country，……． 〔ケンヨン・アンド・ケ",
+              "text": [
+                "ンヨン・エルエルピー(Kenyon ＆ Kenyon LLP)は，",
+                "国内の知的財産を取り扱う事務所(intellectual pro",
+                "perty law firms)の中で最大規模かつ最も多角的なも",
+                "のの1つであり……。〕」(乙8の14)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(ツ)",
+      "subject": "「Baker ＆ Mckenzie has been nam",
+      "text": [
+        "ed Asia Pacific IP Firm of the Y",
+        "ear， for the second consecutive",
+        "year， at the AsiaLaw IP Awards 2",
+        "005．〔ベーカー・アンド・マッケンジー(Baker ＆ Mck",
+        "enzie)は，アジアロー・アイピー・アワード2005(the",
+        "AsiaLaw IP Awards 2005)で，2年連続して，",
+        "本年のアジア太平洋地域の知的財産を取り扱う事務所(IP Firm)に指名されている。〕」(乙8の15)"
+      ]
+    },
+    {
+      "fig": "(テ)",
+      "subject": "「Our interest is in IP-related",
+      "text": [
+        "issues as a premier IP law firm",
+        "in the United States．〔我々の関心は，米国",
+        "における第一級の知的財産を取り扱う事務所(IP law fir",
+        "m)としての知的財産関連事項にある。〕」(乙8の16)"
+      ]
+    },
+    {
+      "fig": "(ト)",
+      "subject": "「Fitzpatrick is regularly reco",
+      "text": [
+        "gnized as a top IP firm， by its",
+        "clients，……．〔フィッツパトリック(Fitzpatric",
+        "k)は，通常，顧客により最上位の知的財産を取り扱う事務所(IPfirm)として認識されており……。〕」(乙8の17)"
+      ]
+    },
+    {
+      "fig": "(ナ)",
+      "subject": "「Ｎowadays PAG is one of the le",
+      "text": [
+        "ading IP firms in Belarus．〔現在，ピー",
+        "・エー・ジー(PAG)は，ベラルーシにおける主要な知的財産を取り扱う事務所(IP firms)の1つである。〕」(乙8の18)"
+      ]
+    },
+    {
+      "fig": "(ニ)",
+      "subject": "「Ranked 8th for number of ment",
+      "text": [
+        "ions by Fortune 250 as primary I",
+        "P firm IP Law ＆ Business (July 2",
+        "003)〔主要な知的財産を取り扱う事務所(IP firm)として，",
+        "フォーチュン250(Fortune 250)により，第8位に位置",
+        "づけられた。アイピー・ロー・アンド・ビジネス(IP Law ＆",
+        "Business)(2003年7月)〕」(乙8の19)"
+      ]
+    },
+    {
+      "fig": "(ヌ)",
+      "subject": "「What could be duller than a l",
+      "text": [
+        "aw firm’s docketing system， espe",
+        "cially one for an intellectual p",
+        "roperty (IP) firm that has to ke",
+        "ep track of deadlines and facts",
+        "for hundreds of thousands of pat",
+        "ent and trademark filings in hun",
+        "dreds of countries？〔法律事務所の記録資料編成",
+        "システム，特に，何百という国において無数の特許及び商標出願についての期限及び事実の経過を追わなければならない知的財産を取り扱う事務所(intellectual property (IP) fi",
+        "rm)のそれより単調なものはあるだろうか。〕」(乙8の20)"
+      ]
+    },
+    {
+      "fig": "(ネ)",
+      "subject": "「A specialist IP firm， focusin",
+      "content": [
+        {
+          "fig": "g",
+          "subject": "exclusively on Intellectual Pr",
+          "text": [
+            "operty law， both on a domestic a",
+            "nd international level．〔国内及び国際的な",
+            "レベルで専ら知的財産法に焦点を合わせる，専門的な知的財産を取り扱う事務所(IP firm)〕」(乙8の21)"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(ノ)",
+      "subject": "「Allens Arthur Robinson’s Inte",
+      "text": [
+        "llectual Property Group has capp",
+        "ed off an impressive few months",
+        "by becoming the only Australian",
+        "IP firm to be nominated as a fin",
+        "alist for the International Inte",
+        "llectual Property Law Firm award",
+        "at the recent Chambers Global A",
+        "wards 2002．〔アレンズ・アーサー・ロビンソンの知的財産",
+        "グループ(Allens Arthur Robinson’s In",
+        "tellectual Property Group)は，チェンバ",
+        "ーズ・グローバル・アワード2002(Chambers Globa"
+      ],
+      "content": [
+        {
+          "fig": "l",
+          "subject": "Awards 2002)で，国際的な知的財産を取り扱う事務所",
+          "text": [
+            "(Intellectual Property Law Firm)",
+            "の賞の最終候補者として推薦された唯一のオーストラリアの知的財産を取り扱う事務所(IP firm)となることにより印象的な数ヶ月を締めくくった。〕」(乙8の22)"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(ハ)",
+      "subject": "「We， as a full service IP firm，",
+      "text": [
+        "have been practicing all aspect"
+      ],
+      "content": [
+        {
+          "content": [
+            {
+              "fig": "s",
+              "subject": "of intellectual property matte",
+              "text": [
+                "rs including prosecution of appl",
+                "ications for patent， utility mod",
+                "el， design， trademark and copyri",
+                "ght protection， as well as relat",
+                "ed trials， litigation and transa",
+                "ction matters．〔我々は，総合的なサービスを提供する",
+                "知的財産を取り扱う事務所(IP firm)として，特許，実用新案，意匠，商標及び著作権の保護のための出願手続を含む知的財産事項及びこれらに関する審判，訴訟及び商取引事項のあらゆる面で活動している。〕」(乙8の23)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(ヒ)",
+      "subject": "「TILLEKE ＆ GIBBIＮS AWARDED ASI",
+      "text": [
+        "ALAW’S THAILAＮD IP FIRM OF 2005",
+        "〔ティレケ・アンド・ギビンズ(TILLEKE ＆ GIBBIＮ",
+        "S)は，アジアローの2005年タイの知的財産を取り扱う事務所(IP FIRM)の賞を受賞した。〕」(乙8の24)"
+      ]
+    },
+    {
+      "fig": "(フ)",
+      "subject": "「金杜律師事務所はAsia Law ＆ Practice 雑",
+      "text": [
+        "誌から2005年度最優秀知的財産権事務所賞(China IP F",
+        "irm of the Year 2005)を受賞しました。」(乙",
+        "10の1)"
+      ]
+    },
+    {
+      "fig": "(ヘ)",
+      "subject": "「Japan IP Firm of 2004： Ｎakamu",
+      "text": [
+        "ra ＆ Partners〔2004年日本の知的財産を取り扱う事",
+        "務所(Japan IP Firm)：中村合同特許法律事務所〕」",
+        "(乙10の2)"
+      ]
+    },
+    {
+      "fig": "(ホ)",
+      "subject": "「GLOBAL IP Counselors， LLP is",
+      "content": [
+        {
+          "fig": "a",
+          "subject": "US intellectual property law f",
+          "text": [
+            "irm located in Washington， D．C．",
+            "〔グローバル・アイピー・カウンセラーズ・エルエルピー(GLOBAL IP Counselors， LLP)は，ワシントンD．C．",
+            "にあるアメリカの知的財産を取り扱う事務所(US intellec",
+            "tual property law firm)である。〕」(乙1",
+            "0の3)"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(マ)",
+      "subject": "「Accordingly， the excellent ge",
+      "text": [
+        "neral and commercial practice of",
+        "Li Wen ＆ Partners (LWP) nicely",
+        "compliments the outstanding inte",
+        "llectual property law and transa",
+        "ctions practice of Liu， Shen ＆ A",
+        "ssociates (LSA)， the Beijing IP",
+        "firm that became a member of Ter",
+        "raLex in Ｎovember of 2004．〔したがって，",
+        "優れた全般的かつ商業的な業務を行うリー・ウェン・アンド・パートナーズ(Li Wen ＆ Partners (LWP))は，200",
+        "4年11月にテラレックス(TerraLex)のメンバーになった，",
+        "傑出した知的財産法及び商取引の業務を行う北京の知的財産を取り扱う事務所(Beijing IP firm)であるリュウ・シェン・ア",
+        "ンド・アソシエイツ(Liu， Shen ＆ Associates",
+        "(LSA))を大いに賞賛している。〕」(乙10の4)"
+      ]
+    },
+    {
+      "fig": "(ミ)",
+      "subject": "「Mallesons Stephen Jaques name",
+      "content": [
+        {
+          "fig": "d",
+          "subject": "Australia IP Firm of the Year",
+          "text": [
+            "〔マレソンズ・ステファン・ジェイクス(Mallesons Ste",
+            "phen Jaques)は，本年のオーストラリアの知的財産を取り",
+            "扱う事務所(Australia IP Firm)に指名され",
+            "た。〕」(乙10の5)"
+          ]
+        }
+      ]
+    },
+    {
+      "fig": "(ム)",
+      "subject": "「MIＮＮESOTA IＮTELLECTUAL PROPER",
+      "text": [
+        "TY LAW FIRMS〔ミネソタ州の知的財産を取り扱う事務",
+        "所〕」(乙10の6)"
+      ]
+    },
+    {
+      "fig": "(メ)",
+      "subject": "「Gowling Lafleur Henderson LLP",
+      "text": [
+        "(Gowlings) has been named ”Cana",
+        "dian IP Firm of the Year” for 20",
+        "06 by U．K． publication Managing",
+        "Intellectual Property Magazine",
+        "(MIP)．〔ゴーリング・ラフロア・ヘンダーソン・エルエルピー(ゴーリングス)(Gowling Lafleur Henders",
+        "on LLP (Gowlings))は，英国の出版物であるマネー",
+        "ジング・インテレクチュアル・プロパティ・マガジン(U．K． pu",
+        "blication Managing Intellectual",
+        "Property Magazine (MIP))により，2006",
+        "年『本年のカナダの知的財産を取り扱う事務所(Canadian I",
+        "P Firm)』に指名された。〕」(乙10の7)"
+      ]
+    },
+    {
+      "fig": "(モ)",
+      "subject": "「Thailand IP Firm of 2004〔2004",
+      "text": [
+        "年タイの知的財産を取り扱う事務所〕」(乙10の8)"
+      ]
+    },
+    {
+      "fig": "(ヤ)",
+      "subject": "「Chicago IP Firm Awards Three",
+      "text": [
+        "Scholarships〔シカゴの知的財産を取り扱う事務所(Ch",
+        "icago IP Firm)は，3人に奨学金を授与する。〕」(乙",
+        "10の9)"
+      ]
+    },
+    {
+      "fig": "(ユ)",
+      "subject": "「Ranked ＃1 U．S． IP Firm in 200",
+      "content": [
+        {
+          "content": [
+            {
+              "content": [
+                {
+                  "fig": "6",
+                  "subject": "by Managing Intellectual Prope",
+                  "text": [
+                    "rty．〔マネージング・インテレクチュアル・プロパティにより，2006年米国の知的財産を取り扱う事務所(U．S． IP Fir",
+                    "m)第1位に位置づけられた。〕」(乙10の10)"
+                  ],
+                  "content": [
+                    {
+                      "fig": "ウ",
+                      "subject": "前記「IP」の語及び「FIRM」の語の意味(前記(1)②，③)，上記ア及びイの事実，並びに弁論の全趣旨によれば，審決時において，本願の指定役務の需要者等は，「IP」については「Intellectual",
+                      "text": [
+                        "Property」(知的財産)，「FIRM」については「事務所」",
+                        "を想起し，これらを結合した「IP FIRM」という語句については「知的財産を取り扱う事務所」を意味するものと認識していたというべきである。"
+                      ],
+                      "content": [
+                        {
+                          "fig": "(3)",
+                          "text": [
+                            "したがって，本願商標に係る「TOKYO IP FIRM」との語句は，本願の指定役務との関係で，役務の提供場所と理解される「TOKYO」という語と，役務の内容と理解されている「IP FIRM」という語句を単に結合させたものであるところ，前記(2)イ(ツ)，(ヒ)～(ユ)のとおり，地名あるいは地域名ないし国名を表す語と「IP FIRM」等とを結合して，その場所の知的財産を取り扱う事務所であることを記述的に表している例が少なくないことに鑑みれば，審決時において，本願の指定役務の需要者等は，これを「東京に存在する知的財産を取り扱う事務所」を意味するものと認識・理解するというべきである。",
+                            "原告は，地名等と「IP FIRM」とを結合した例について，これらがその所在地において知的財産を取り扱う事務所を表しているからといって，特定の事務所を表示する名称として識別力を持たないということを意味するものではないし，本願商標はこれらと同一ではないから，本願商標が識別力を持つか否かとは関係がない，と主張する。しかし，地名等と「IP FIRM」とを結合した語句が，記述的な表現であれ，その地で知的財産を扱う事務所という意味で多用されていることは，そのような語句が自他役務の識別標識としての機能を有しない根拠となるものである。また，そのような語句について独占的使用を許すことが相当でないことも明らかである。そして，「TOKYO」という語が「東京」という地を表す語として普通に用いられていることは前記のとおりであるから，この理は「TOKYO IP FIRM」という語句についても，同様に当てはまるというべきである。",
+                            "そうすると，「TOKYO IP FIRM」との語句は，東京において",
+                            "本願の指定役務を提供する事務所であることを一般的に説明しているにすぎず，本願の指定役務の需要者等において，指定役務について他人の同種役務と識別するための標識であるとは認識し得ないものというべきであって，本願の指定役務に使用されるときには，自他役務の識別機能を有しないものと認められる。",
+                            "したがって，本願商標は，商標法3条1項6号にいう「需要者が何人かの業務に係る……役務であることを認識することができない商標」に該当するものというべきであり，これと同旨の審決の判断に誤りはない。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "fig": "2",
+                  "subject": "証拠評価の誤りについて",
+                  "text": [
+                    "原告は，本願の指定役務の需要者である各国の特許事務所などを差出人とする手紙等(甲1～11，31～33)において「TOKYO IP FIR",
+                    "M」が宛先とされていることは，本願商標が自他役務の識別標識として機能していることを示すものである旨主張する。",
+                    "しかし，単に外国からの手紙等の宛先に「Tokyo IP Firm」又は「TOKYO IP FIRM」との記載がなされているとの事実のみをもって，直ちに，本願商標をその指定役務について使用した場合に，これに接する需要者等が自他役務の識別標識として認識していると認めることは困難であり，上記1の判断を覆すに足るものではない。原告の主張は採用することができない。"
+                  ]
+                },
+                {
+                  "fig": "3",
+                  "subject": "商標登録が認められた事例との不均衡について",
+                  "text": [
+                    "原告は，特許庁が商標登録を認めた事例(甲12，14～19)に照らせば，本願商標を拒絶すべきものとした審決の判断は恣意的であり，違法である旨主張する。"
+                  ],
+                  "content": [
+                    {
+                      "content": [
+                        {
+                          "fig": "(1)",
+                          "subject": "原告が挙げる登録例のうち，前記第3，2①のものは，「IP FIRM」の文字(標準文字による)を書してなり，第42類「工業所有権に関する手続の代理又は鑑定その他の事務，訴訟事件その他に関する法律事務，著作権の利用に関する契約の代理又は媒介」を指定役務として，平成15年11月20日に出願され，平成16年7月2日に登録された登録商標(以下「別件商標」という。)であるが(甲12)，前記認定事実及び弁論の全趣旨によれば，別件商標の登録査定時においても，「IP FIRM」との表示は，これに接する需要者等をして，「知的財産を取り扱う事務所」を意味するものと認識させるものであり，当該商標の指定役務との関係においては，その役務を提供する事務所であることを表したものと理解，認識させるにとどまるものであるから，自他役務の識別標識としての機能を果たし得ないものであったと認められるところであって，別件商標は商標法3条1項6号の規定に違反して登録されたものというべきである(なお，東京地方裁判所平成17年(ワ)第768号平成17年6月21日判決(甲13)は，別件商標",
+                          "text": [
+                            "が商標法3条1項6号に該当し，その商標権に基づく権利行使は許されない旨判示している。)。",
+                            "しかし，登録出願に係る商標が登録され得るものであるか否かの判断は，個々の商標ごとに個別具体的に検討，判断されるべきものであり，本願商標が商標法3条1項6号に該当するか否かについての判断が，無効とされるべき別件商標が誤って登録されたという事実によって左右されるものではない。"
+                          ]
+                        },
+                        {
+                          "fig": "(2)",
+                          "text": [
+                            "上記検討した別件商標を別にすれば，原告が挙げる登録例(前記第3，2②，③)は，いずれも本願商標と構成及び称呼を異にするものである。",
+                            "そして，上記のとおり，登録出願に係る商標が登録され得るものであるか否かの判断は，当該商標の全体の構成に基づいて個々の商標ごとに個別具体的に検討，判断されるべきものであるから，本願商標が商標法3条1項6号に該当するか否かについての判断が，その全体の構成及び称呼を異にする他の登録例に左右されることになるものではない。"
+                          ]
+                        },
+                        {
+                          "fig": "(3)",
+                          "text": [
+                            "以上検討したところによれば，原告が挙げる登録例があることをもって，本願商標を拒絶すべきものとした審決の判断が恣意的ないし違法であるということはできず，原告の主張は採用することができない。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "fig": "4",
+                  "subject": "結論",
+                  "text": [
+                    "以上のとおりであるから，原告主張の取消事由は理由がなく，他に審決を取り消すべき瑕疵は見当たらない。",
+                    "よって，原告の本件請求は理由がないから，これを棄却することとし，主文のとおり判決する。"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

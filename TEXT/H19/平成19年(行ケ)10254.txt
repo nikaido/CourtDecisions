@@ -1,0 +1,664 @@
+主文
+  原告の請求を棄却する。
+  訴訟費用(補助参加により生じたものを含む。)は，原告の負担とする。
+
+事実及び理由
+第1 原告の求めた裁判
+  「特許庁が訂正2006−39123号事件について平成19年5月31日にし
+  た審決を取り消す。」との判決
+第2 事案の概要
+  本件は，後記1(1)の本件特許の特許権者である原告が同(3)のとおり訂正審判の請求をしたところ，同請求は成り立たないとの審決(以下「本件審決」という。)がされたため，その取消しを求める事案である。
+  1 特許庁における手続の経緯等
+    (1) 本件特許(甲14)
+      特許権者：平成18年1月17日(移転登録日)までは原告外2名が共有者，同日から同年5月24日(移転登録日)までは原告外1名が共有者であったが，同日以降は，原告が単独の特許権者である(甲21)。
+      発明の名称：「移動通信体」
+      出願番号：特願2003−26489号
+      特許出願日：平成15年2月3日(分割前の原出願日：平成12年2月25日，国内優先権主張：平成11年2月25日(以下「本件優先日」という。))設定登録日：平成16年6月11日
+      特許番号：特許第3562647号
+    (2) 特許無効審判請求手続等(甲20)
+      審判請求日：平成17年4月7日(無効2005−80108号)
+      審判請求人：被告補助参加人
+      訂正請求日：平成17年11月21日
+      審決日：平成18年3月8日
+      審決の結論：「訂正を認める。特許第3562647号の請求項1ないし請求項3に係る発明についての特許を無効とする。審判費用は，被請求人の負担とする。」
+      審決謄本送達日：平成18年3月18日(原告に対し)
+      審決取消訴訟提起日：平成18年4月17日(知的財産高等裁判所平成18年(行ケ)第10171号事件として同裁判所に係属中)
+    (3) 本件訂正審判請求手続
+      審判請求日：平成18年7月18日(訂正2006−39123号)
+      審決日：平成19年5月31日
+      本件審決の結論：「本件審判の請求は，成り立たない。」
+      審決謄本送達日：平成19年6月12日
+  2 特許請求の範囲の記載
+    (1) 本件訂正審判請求前のもの
+      本件訂正審判請求前の請求項1ないし3(上記無効審判請求に対する審決が対象としたもの。以下，同請求項1を「訂正前の請求項1」という。)の記載は，次のとおりである。
+      「【請求項1】
+      基地局を介して無線通信を行う移動通信体であって，
+      前記基地局と無線通信を行う無線通信手段と，端末機と短距離通信を行う短距離通信手段と，電子マネー金額を記憶する電子マネー金額記憶手段とを有し，商店に支払う支払い金額を前記電子マネー金額から支払い処理する際には，前記端末機と短距離通信可能な状態で，前記移動通信体または前記端末機に前記支払い金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成され，前記電子マネー金額に所定の補充金額を補充処理する際には，前記端末機と短距離通信可能な状態で，前記移動通信体または前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成されたことを特徴とする移動通信体。
+      【請求項2】
+      前記電子マネー金額は，暗号化した電子マネー金額及び暗号化していない可読状態の電子マネー金額であることを特徴とする請求項1記載の移動通信体。
+      【請求項3】
+      所定の暗唱番号を記憶する暗唱番号記憶手段と，前記電子マネー金額記憶手段に記憶された電子マネー金額を表示する表示手段とを有し，
+      前記暗唱番号記憶手段に記憶された所定の暗唱番号と一致する番号が入力された場合に限り，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記表示手段によって表示するように構成されたことを特徴とする請求項1または2記載の移動通信体。」
+    (2) 本件訂正審判請求に係るもの
+      本件訂正審判請求に係る請求項1ないし3(以下，単に「請求項1」というときは，同請求に係る請求項1を指す。)の記載は，次のとおりである(以下，下記請求項1ないし3に係る発明をそれぞれ「訂正発明1」ないし「訂正発明3」という。
+      なお，下線部は，本件訂正審判請求に係る訂正部分である。)。
+      「【請求項1】
+      基地局を介して無線通信を行う移動通信体であって，
+      前記基地局と無線通信を行う無線通信手段と，端末機と短距離通信を行う短距離通信手段と，電子マネー金額を記憶する電子マネー金額記憶手段と，通話先電話番号，支払い処理を行う旨，及び補充処理を行う旨を入力するキーボードとを有し，商店に支払う支払い金額を前記電子マネー金額から支払い処理する際には，支払い処理を行う旨が前記キーボードを介して入力され，前記端末機と短距離通信可能な状態で，前記端末機に前記支払い金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成され，
+      前記電子マネー金額に所定の補充金額を補充処理する際には，補充処理を行う旨が前記キーボードを介して入力され，前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成されたことを特徴とする移動通信体。
+      【請求項2】
+      前記電子マネー金額は，暗号化した電子マネー金額及び暗号化していない可読状態の電子マネー金額であることを特徴とする請求項1記載の移動通信体。
+      【請求項3】
+      所定の暗唱番号を記憶する暗唱番号記憶手段と，文字及び画像を表示するものであって前記電子マネー金額記憶手段に記憶された電子マネー金額を表示する表示手段とを有し，
+      前記暗唱番号記憶手段に記憶された所定の暗唱番号と一致する番号が前記キーボードを介して入力された場合に限り，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記表示手段によって表示するように構成されたことを特徴とする請求項1または2記載の移動通信体。」
+  3 本件審決の要点
+    本件審決は，訂正発明1及び2は，いずれも，後記刊行物1に記載された発明(以下「刊行物発明」という。)に基づいて，後記刊行物2ないし10及び13の記載事項並びに周知技術の知識及び実務上の知識との組合せとして，訂正発明3は，刊行物発明に基づいて，後記刊行物2ないし13の記載事項並びに周知技術の知識及び実務上の知識との組合せとして，それぞれ当業者が容易に発明をすることができたものであるから，特許出願の際独立して特許を受けることができないものであるとした。
+    (1) 国際公開第96／09592号パンフレット(1996(平成8)年3月
+      28日国際公開。甲1の1(甲1の2は，その訳文に相当するものである。)。以下「刊行物1」という。)の記載事項
+      「刊行物1には，カード払いを組み入れた自動小売システム(automatic retail systemsincorporating card payment)に関連する発明についての開示がなされており，次の事項がそれらに関連する図面とともに記載されている。
+      ア 発明の背景の説明
+        (ア)「Present use of payment cards, in particular the use of electronic wallets, isassociated with many deficiencies, a few examples of which are provided herein below:」(2頁1～3行)
+        (イ)「a. Since electronic wallets are depleted at each payment, the customer mustexecute regularly purse replenishment transactions at suitable replenishment devices,
+        which is inconvenient.」(2頁4～6行)
+        (ウ)「e. Electronic purse operation requires setting up a costly infrastructure ofreplenishment devices, such as special ATMs (automatic teller machines), modified public
+        telephones or dedicated home terminals.」(2頁17～19行)
+      イ 用語の説明
+        (ア)「3. Point of sale (POS) - a part of a retail unit operating to determine thecontents of a purchase and to calculate its price.」(3頁8～9行)(イ)「4. Payment unit - a part of a retail unit operating to receive payment from thecustomer.」(3頁10～11行)
+        (ウ)「13. Electronic wallet - a smart card which includes inter alia an electronic
+        checkbook and an electronic purse.」(4頁15～16行)
+      ウ 図1に関連する説明
+        (ア)「Reference is made to Fig. 1 which illustrates a preferred embodiment of thepresent invention. The retail system of Fig. 1, generally referenced 1, incorporates apayment system 7 which is a substantially failure-free system for executing paymentorders received from a Point Of Sale (POS) 10. Non-limiting examples for POS 10 are asupermarket cash register, or a control unit of a vending machine, a public telephone or
+        the gas pump in a gas station.」(15頁3～8行)
+        (イ)「Payment system 7 comprises a payment unit 8 communicating with POS 10 forreceiving payment requests, interfacing with any one of electronic wallets 9A-9N forpayment therefrom and communicating as needed with transaction processing centers offinancial institutions 20A-20K to execute electronic checkbook transactions. At eachpurchase, payment unit 8 interfaces with an electronic wallet and automaticallydetermines the transactions to be executed for payment, i.e. a transaction operating topay by electronic purse of the electronic wallet or to first replenish the electronicpurse by payment from a remote account via the electronic checkbook and then to pay withthe electronic purse, or to pay from a remote account via the electronic checkbook as
+        described in detail hereinbelow.」(15頁9～18行)
+        (ウ)「Payment unit 8 communicates selectively with processing centers of financialinstitutions 20A−20K respective to the central accounts related to the electronic
+        wallets presented at the payment unit.」(15頁19～21行)
+        (エ)「Processing centers of financial institution 20A− 20K execute transactionsrelated to central accounts maintained by the respective financial institutions, e.g.credit accounts or bank accounts, the accounts being identified and accessible by theelectronic purses included in the electronic wallets.」(15頁22行～16頁1行)(オ)「It will be appreciated that the interface between an electronic wallet and paymentunit 8 may be by contact or by contactless communication or even from distance through acommunication link. The communication between payment unit 8 and a processing center of afinancial institution can be executed on line, or electronic checkbook transactions maybe recorded at payment unit 8 and transferred thereafter to processing centers offinancial institutions for batch processing, as will be described in more detailhereinbelow. Retail unit 2 is the combination of payment unit 8 and point of sale 10.」(16頁3～10行)
+      エ 図3に関連する説明
+        (ア)「Reference is made to Fig. 3 which is a detailed block diagram illustration of thepayment system 7. Electronic wallet 9 which is personal to a customer 12 who is making apurchase at POS 10, comprises an electronic purse 310 containing information identifyingthe amount of electronic cash stored in its register 311. The electronic wallet alsocomprises an electronic checkbook 320, which register 321 contains informationidentifying and authorizing transactions with at least one credit or bank account, madethrough processing centers of financial institutions 20. External interface 340 serves asan interface between the electronic wallet and payment units 8. External interface 340comprises communication hardware as well as secured protocols for reading or altering theinformation stored in the electronic wallet. These protocols preferably include arequirement for keying-in a secret PIN (personal identification number) code via customerinterface 352, as a precondition for any transaction with wallet 9.」(17頁8～20行)
+        (イ)「Electronic purse payment unit 363 communicates with electronic purse 310 ofelectronic wallet 9. When unit 363 is activated to pay a purchase sum required by POS 10,it operates to reduce the amount of electronic cash stored in register 311 by the purchasesum, while increasing the amount of electronic cash stored in an electronic cash drawer
+        364 by the same sum.」(18頁5～9行)
+        (ウ)「The electronic cash accumulated in electronic cash drawer 364 can be transformedinto money by settlement with cash pool units 384 of processing centers of suitablefinancial institutions, referenced collectively 20. Usually, this money will bedeposited in a bank account of the merchant 11.」(18頁10～13行)(エ)「Electronic checkbook payment unit 366 operates to transfer a specified sum from acustomer's account in financial institution 20 corresponding to customer's electroniccheckbook 320, either to the merchant's account when checkbook payment is executed, or tocash pool 384 for purchasing electronic cash for purse replenishment. POS interface 353is operative to receive payment requests from POS 10 and return payment acknowledgements
+        upon payment completion.」(18頁14～19行)
+        (オ)「Electronic purse loading unit 365 is capable of loading electronic cash intoelectronic purse 310, typically upon purchasing the electronic cash by the electroniccheckbook 320 from a cash pool 384 during a purse replenishment transaction.」(18頁20～22行)
+        (カ)「Card interface 351 includes hardware and protocols known in the art for securedcommunication with electronic wallet 9. It may include mechanical means operative toretain an electronic wallet during transaction and to release it upon the transactioncompletion. It may use contactless communication or even allow remote transactions byusing a suitable communication means. For example, a wireless communication link mayserve to collect payment in a toll road without stopping the car, or for collectingpayment for a card used with a cellular telephone.」(18頁23行～19頁5行)(キ)「Remote account interface 370 incorporates hardware and protocols known in the artfor secured communication with transaction processing centers of financial institutions20, respective to the accounts identified by register 321 of electronic checkbooks 320included in the customers' electronic wallets 9. The communication can be either on lineor off-line. Non limiting examples of on-line communication means include dial-uptelephone lines, dedicated lines or cellular data communication. A non limiting exampleof off-line communication means is a handheld terminal for unloading transactioninformation from payment unit 8 when visiting them, and downloading the informationthereafter to processing centers of financial institutions 20 by communicating with themfrom the merchant's office. These handheld terminals may work the other way, i.e.unloading information from the financial institutions thereinto at the merchant's officeand downloading this information into payment units 8 during a visit.」(19頁17行～20頁5行)
+        (ク)「Each of the transaction processing centers of financial institutions 20 comprisescustomers' credit and/or bank accounts referenced 381 and 382 and a cash pool 384.Customers' credit and/or bank accounts 381 and 382 correspond to electronic checkbooks,such as the electronic checkbook 320, are charged for payment transactions wherein thecharged amount is transferred to a bank account (not shown) of the merchant 11. Accounts381 and 382 are also charged for purse replenishment transactions wherein the chargedamount is transformed into electronic cash by cash pool 384 and transferred
+        electronically to the electronic purse 310.」(20頁11～18行)
+        (ケ)「Cash pool 384 is an accounting unit for transforming money paid by electroniccheckbooks 320 into electronic cash loaded into electronic purse 310, and fortransforming electronic cash received from electronic purse 310 or from electronic cashdrawers 364 into cash deposited to the merchant's bank account. Cash pool unit 384includes the protocols known in the art for transferring electronic cash to electronicpurse 310 and from electronic cash drawer 364.」(20頁19～24行)
+      オ 図5に関連する説明
+        (ア)「Reference is made now also to Fig. 5 which illustrates a preferred method ofoperating the automatic transaction manager 361 of Figs. 3 and 4. Block 451 indicates theidle state of the payment system 7, ready for starting a transaction. In block 452 anelectronic wallet 9 with a sum of $BALANCE of electronic cash stored in register 311 isreceived, and the customer is preferably prompted to key-in his PIN code through customerinterface 352. In block 453 a request for payment of $SUM is received from POS 10 throughPOS interface 353.」(21頁17～23行)
+        (イ)「In block 454 $SUM is compared to the minimal checkbook payment transaction sumreferenced $MINCP in order to determine whether checkbook payment is feasible. If theanswer is positive then, as indicated in block 458, $SUM is compared with $BALANCE todetermine whether a purse transaction is feasible as well. If the electronic pursetransaction is not feasible then the transaction is directed to the checkbook transaction
+        unit 366 as indicated by block 460.」(21頁24行～22頁5行)
+        (ウ)「If both checkbook and purse payment transactions are feasible, the transaction canbe executed either way so a logical switch 459 is provided to direct the transactioneither to the checkbook transaction unit 366 as indicated by block 460 or the pursepayment unit 363 as indicated by block 457. The switch setting in 459 to either C or Pposition is either predetermined by the merchant 11 through the merchant interface 362,or is made selectable by the customer during purchase through customer interface 352.」(22頁6～12行)
+        (エ)「If the answer in 454 is negative, i.e. the payment has been found unfeasible forcheckbook payment, it is checked for purse payment feasibility as indicated in block 455.In block 457 the payment is found feasible through the purse, i.e. $SUM is smaller orequal to $BALANCE, and therefore payment is executed through purse payment unit 363.」(22頁13～17行)
+        (オ)「However, if $SUM is larger than $BALANCE, the electronic purse must be replenishedto enable payment. As indicated by block 456, the electronic purse 310 is replenished viathe electronic checkbook 320 through units 366 and 365 with at least the larger of theminimal purse replenishment sum referenced $MINPR and $SUM minus $BALANCE, i.e. the sumnecessary for sufficient payment. Only then purse payment is executed in 457 through unit363.」(22頁18～23行)
+        (カ)「It will be appreciated that instead of accessing the electronic purse twice, forreplenishment of a replenishment sum calculated in block 456 and for purse payment of $SUMby block 457, the purse can be accessed only once, for loading thereto, by unit 365, thedifference between the replenishment sum and $SUM, or for collecting therefrom this valueby unit 363, if this difference is negative. Both modes are mathematically andfunctionally equivalent, except for a special case described with reference to Fig. 10Abelow.」(22頁24行～23頁6行)
+      カ 図11Aに関連する説明
+        「Fig. 11A illustrates a conventional on-line purse replenishment procedure, whereinpayment unit 8 relays an on-line replenishment transaction between electronic wallet 9and processing center of financial institution 20. A replenishment order is sent fromelectronic checkbook 320 through electronic checkbook transaction unit 366 to processingcenter 20, where customer's account 380 is charged and a corresponding amount of cash issupplied to the electronic purse 310 from cash pool 384 trough purse loading unit 365.」(36頁14～20行)
+        (なお，「trough purse loading unit」 は，「through purse loading unit」の誤記と認められる。)
+      キ 図12に関連する説明
+        (ア)「Reference is made to Fig. 12, which introduces a payment system which is similar tothat of Fig. 3, with the following modifications: electronic checkbook 320 is replaced byelectronic cache 320C, electronic checkbook transaction unit 366 is replaced byelectronic cache transaction unit 367, and cache accounts 383 are added to the arsenal offinancial institutions 20. A cache account 383 is a special credit or bank account whichis accessible for payment transactions only through a single respective electronic cache320C. It is noted that conventional bank or credit accounts are accessible through avariety of means in addition to the respective electronic checkbook, such as paper checks,home banking computer or telephone orders. Preferably, one exception remains, i.e a claimfor the value remaining in a cache account in case the corresponding electronic cache hasbeen lost. It is also noted that adding value to a cache account 383 can be made alsowithout presenting the corresponding electronic cache 320C.」(40頁8～20行)(イ)「Electronic cache 320C is a special, enhanced electronic checkbook. It issueselectronic checks for account-to-account settlement in transaction processing centers offinancial institution 20 similar to the electronic checks issued by the conventionalelectronic checkbook, but also manages on-card balance tracking similarly to theelectronic purse. As described below, this combination provides highly secured off-linetransactions with central accounts. Register 321 contains information identifying andauthorizing transactions with the respective cache account 383. Register 332 maintainsbalance information regarding the sum accessible in cache account 383 through electroniccache 320C. Register 333 contains a cache expiration date information so that theelectronic cache 320C will be unusable and rejected for payment after the date.」(40頁21行～41頁7行)
+        (ウ)「Electronic cache transaction unit 367 of payment unit 8 performs cachetransactions by issuing electronic cache checks similarly to the operation of electroniccheckbook transaction unit 366 (Fig. 3), while reducing the payment amount from the cacheaccount balance register 332, using secured protocols similar to those used by electronicpurse payment unit 363 during a purse payment transaction. The electronic cache check canbe either settled on-line with the respective cache account in 383, or retainedelectronically is electronic safe 368 for settlement thereafter. Optionally, in thelatter case the payment transaction can be reversed by deleting the cache checkinformation from electronic safe 368 and increasing the value in account balance register332 by the cancelled cache check sum. It would be appreciated that this procedure, whichadds effective value to electronic cache 320C, requires secured protocols similar tothose of drawer-to-purse transfer of electronic cash described above with respect to Figs.11B and 11C.」(41頁8～20行)
+        (なお，「retained electronically is electronic safe」は，「retained electronically
+        in electronic safe」の誤記と認められる。)
+      ク 図17に関連する説明
+        「Fig. 17 illustrates a preferred embodiment of the present invention which enablesboth cache and non-cache (i.e. conventional) checkbook central transactions. The reasonfor including both is that the cache is advantageous in off-line transactions. However,it can be used only with cache-compatible payment units capable of updating the cachebalance (register 332 of Fig. 12A). Another limitation of a cache account is that it isaccessible for payment only through the card containing the electronic cache and cannotbe used for other payment forms such as paper checks or mail orders.」(48頁2～9行)」
+    (2) 刊行物発明
+      「ア POSにおいて購入をする客個人に属するものであり(personal to a customer 12who is making a purchase at POS 10)，POSに接続された支払ユニット(payment unit 8)との間で非接触通信(contactless communication)を行うことができるスマートカード(smart card)であるところの電子ウォレット(electronic wallet 9)であって，イ 前記の非接触通信を行う外部インタフェース(external interface 340)と，電子現金(electronic cash)の貯蔵額を特定する情報をレジスタ(register 311)にもつ電子パース(electronic purse 310)とを内蔵しており，
+      ウ 当該電子ウォレットが電子現金を＄BALAＮCEほど貯蔵した状態で前記支払ユニットによって受け付けられ(452)，＄SUMの支払要求がPOS(POS 10)からPOSインタフェース(POS interface 353)を通じて前記支払ユニットによって受信されて(453)電子パース払いの実行可能性(purse payment feasibility)がチェックされた(455)ときに，実行可能，すなわち＄SUMが＄BALAＮCE以下であったならば，＄SUMを電子パースから払って＄BALAＮCEを更新し(457)，
+      エ 一方，実行不可能，すなわち＄SUMが＄BALAＮCEより大きかったならば，所定の最小補充額＄MIＮPRかあるいは＄SUM−＄BALAＮCEかのいずれか大きい方以上の額で補充を受けて(456)貯蔵額を充分な額にしてから電子パース払いを実行し(457)，このとき，補充と支払いとで合わせて2回，支払ユニットから電子パースへのアクセスを受ける電子ウォレット。」
+    (3) 訂正発明1について
+      ア 訂正発明1と刊行物発明との対比
+        (ア) 一致点
+          「携行品であって，
+          端末機と短距離通信を行う短距離通信手段と，電子マネー金額を記憶する電子マネー金額記憶手段とを有し，
+          商店に支払う支払い金額を前記電子マネー金額から支払い処理する際には，前記端末機と短距離通信可能な状態で，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，記憶された電子マネー金額を新たな電子マネー金額に更新させる更新情報を前記短距離通信手段によって前記端末機から受信し，新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成され，前記電子マネー金額に所定の補充金額を補充処理する際には，前記端末機と短距離通信可能な状態で，記憶された電子マネー金額を新たな電子マネー金額に更新させる更新情報を前記短距離通信手段によって前記端末機から受信し，新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成されたことを特徴とする携行品。」
+        (イ) 相違点
+          「(相違点1)訂正発明1における携行品が，「基地局を介して無線通信を行う移動通信体」であり，「短距離通信手段」に加えて「基地局と無線通信を行う無線通信手段」をも有しているのに対して，刊行物発明における携行品は，通信手段としては非接触通信を行う外部インタフェース(「短距離通信手段」)を備えるのみの電子ウォレットである点。
+          (相違点2)「支払い処理する際」の未払い状態の「電子マネー金額記憶手段に記憶された電子マネー金額」の「端末機」への「送信」について，訂正発明1では，その送信を「支払い金額が入力されることに応じて」行っているのに対して，刊行物発明では，送信を何に応じて行っているか，明示的な記載がないため，はっきりしない点。
+          (相違点3)「支払い金額」について，訂正発明1では，「前記端末機に前記支払い金額が入力され」ているのに対して，刊行物発明では，POSから支払ユニット(「端末機」)に＄SUM(「支払い金額」)が送られている点。
+          (相違点4)「支払い処理する際」の「新たな電子マネー金額」への更新について，訂正発明1では，更新情報として「新たな電子マネー金額」を受信しており，さらにその「受信した前記新たな電子マネー金額」をそのまま「電子マネー金額記憶手段によって記憶」しているのに対して，刊行物発明では，更新情報として具体的に何を受信しているか，また，その受信の後にどのようにして新たな＄BALAＮCE(「新たな電子マネー金額」)を電子パース(「電子マネー金額記憶手段」)に記憶することとなるかが，明示的記載がないため，はっきりしない点。
+          (相違点5)「補充処理する際」の「補充金額」及び未補充状態の「電子マネー金額記憶手段に記憶された電子マネー金額」の扱いについて，訂正発明1では，「前記端末機に補充金額が入力され」ており，その「入力されること」に「応じて」移動通信体が「前記電子マネー金額記憶手段に記憶された電子マネー金額」を端末機に送信しているのに対して，刊行物発明では，支払いの手続きの中で自動的に補充の必要性がチェックされる(電子パース払いの実行可能性がチェックされる)ことにより自動的に補充処理が行われるため，その必要性のチェックに先立って電子パース内の＄BALAＮCE(「電子マネー金額記憶手段に記憶された電子マネー金額」)の送信が行われており，また，その必要性のチェックにより補充が必要と判明したとき，補充金額が自動的に決定される点。
+          (相違点6)「補充処理する際」の「新たな電子マネー金額」への更新について，訂正発明1では，更新情報として「新たな電子マネー金額」を受信しており，さらにその「受信した前記新たな電子マネー金額」をそのまま「電子マネー金額記憶手段によって記憶」しているのに対して，刊行物発明では，更新情報として具体的に何を受信しているか，また，その受信の後にどのようにして新たな＄BALAＮCE(「新たな電子マネー金額」)を電子パース(「電子マネー金額記憶手段」)に記憶することとなるかが，明示的記載がないため，はっきりしない点。
+          (相違点7)訂正発明1における携行品は，「通話先電話番号，支払い処理を行う旨，及び補充処理を行う旨を入力するキーボード」を有しているのに対し，刊行物発明における携行品は，これを有していない点。
+          (相違点8)訂正発明1は，支払い処理する際，「支払い処理を行う旨が前記キーボードを介して入力され」るのに対し，刊行物発明は，そうでない点。
+          (相違点9)訂正発明1は，補充処理する際，「補充処理を行う旨が前記キーボードを介して入力され」るのに対し，刊行物発明は，そうでない点。
+          なお，請求人は，相違点5と相違点7に関し，相違点5の認定は，訂正事項が反映されておらず，誤りであるとして，「訂正発明1は，訂正前の請求項1に係る発明とは実体において大きく異なっており，「補充処理する際には，補充処理を行う旨が前記キーボードを介して入力され」るものである。従って，この点も踏まえれば，相違点5として，訂正発明1を「「所定の補充金額を補充する際には，補充処理を行う旨が前記キーボードを介して入力され」，さらに「前記端末機に補充金額が入力され」ており，その「入力されること」に「応じて」移動通信体が「前記電子マネー金額記憶手段に記憶された電子マネー金額」を端末機に送信している」と認定し，かかる内容と刊行物発明との差違を認定して然るべきである。
+          このように，「補充処理」についての相違点5は，「補充処理を行う旨」を入力するキーボードの有無に関する相違点7を前提としているから，相違点5と相違点7とは，密接に関連しているものといえるのである。」と主張するが，採用できない。その理由は，次のとおりである。
+          訂正後の請求項1の第3段落は，
+          「前記電子マネー金額に所定の補充金額を補充処理する際には，補充処理を行う旨が前記キーボードを介して入力され，前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成されたことを特徴とする移動通信体。」と記載されており，訂正発明1において付加された「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項は，訂正前の請求項1の「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，…」の前に挿入されており，「補充処理を行う旨が前記キーボードを介して入力され」る際，移動通信体が端末機と短距離通信可能な状態に置かれることは要件としておらず，キーボードを介して入力された「補充処理を行う旨」が移動通信体から端末機に送信されることも特定されていない。
+          確かに，発明の詳細な説明には，端末機と短距離通信可能な状態で，「補充処理を行う旨が前記キーボードを介して入力され」る実施例が記載されているが，訂正発明1の「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項は，上記実施例の「端末機と短距離通信可能な状態で」との限定を付さないものとして特定されていることは，特許請求の範囲の記載に照らし，明らかである。
+          してみると，訂正発明1は，補充処理する際には，先ず，移動通信体に「補充処理を行う旨が前記キーボードを介して入力され」ることにより，移動通信体が短距離通信での補充処理が可能な状態に設定され，その後，移動通信体が端末機と短距離通信可能な状態に置かれ，その状態で，端末機に補充金額が入力されることに応じて，移動通信体と端末機との間の一連の通信が開始されるという態様を包含するものと解するのが相当である。
+          そして，訂正発明1において付加された「補充処理を行う旨が前記キーボードを介して入力され」ることは，移動通信体に「補充処理を行う旨」が入力され，移動通信体側において補充処理を行うために必要な処理が実行されることを示唆するにとどまり，訂正前の請求項1の「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて」の「応じて」の直接の契機となる事項とはならないから，訂正前の請求項1の「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，…」の処理内容に変更をもたらすものではない。
+          すなわち，訂正発明1において「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項が付加されたとしても，訂正前の請求項1の「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶する」との発明特定事項の技術内容が別のものになるわけではない。
+          したがって，「補充処理を行う旨が前記キーボードを介して入力され」，「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶する」ことについて，相違点5，相違点7を認定することに誤りはない。」
+      イ 相違点についての判断
+        (ア) 相違点1について
+          「セルラー電話であってカード代わりに使える電話機，すなわち，セルラーネットワークの基地局に接続して移動体通信ができる電話機(「基地局を介して無線通信を行う移動通信体」)であって，通常の移動体通信の手段(「無線通信手段」)のみならず店頭に設置された支払決済端末との間で直接通信を行える通信インタフェース(「短距離通信手段」)をも電話機本体に備えており，さらに，金融機関のカードに相当する情報や機能が付加されたスマートカードを電話機本体に収納しており(あるいはICチップを電話機に内蔵しており)，店にカードを携行する代わりにその電話機を携行でき，店頭の支払決済端末との間で直接通信させることによってカードに係る各種の決済手段でカード払いをすることができるもの，という電話機の概念は，例えば国際公開第99／03079号パンフレット(1999(平成11)年1月21日国際公開。甲2の1(甲2の2は，その訳文に相当するものである。)。以下「刊行物2」という。)，特表平11−501424号公報(平成11年2月2日公表。甲3。以下「刊行物3」という。)，登録実用新案第3051748号公報(平成10年9月2日発行。
+          甲4。以下「刊行物4」という。)及び特開平9−116960号公報(甲5。以下「刊行物5」という。)にもみられるように周知である。(特に，刊行物2では，原文5頁18行からの段落，27頁28行からの段落の記載を，刊行物3では，図1と6それぞれについての説明と22頁からの他の実施例についての説明を，刊行物4では段落0010以降の説明を，また，刊行物5では段落0035以降の説明を，それぞれ参照。なお，刊行物3ではGSM移動電話，刊行物4では携帯無線電話機，刊行物5では携帯電話機として言及されているが，これらの電話機はいうまでもなくセルラーネットワークにより移動体通信を行う電話機である。)してみると，刊行物発明において，店に携行して店頭で電子ウォレットとして用いてカード払いできるような携行品として電子ウォレットの情報や機能が付加されたセルラー電話の電話機を採用し，相違点1に係る構成を訂正発明1にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+        (イ) 相違点2について
+          「二種類の情報を用いることが必須である情報処理において，一方の情報が確定したとき初めて他方の情報を取得するようにすることは，情報を取得するタイミングとして合理的であり，そのような処理の流れは，タイミングに関する技術面の問題やその他の実際上の制約などがない限り，一般的に想起されるものである。
+          そして，刊行物発明における店頭での支払いについて当業者が検討する場合でも，支払合計額である＄SUMが確定したときに，それに「応じて」残高である＄BALAＮCEを取得するという処理の流れは，上記のようなタイミングによる処理の流れの例として容易に想起される程度のものといえる。
+          したがって，刊行物発明において，相違点2に係る構成を訂正発明1にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+        (ウ) 相違点3について
+          「刊行物1において，支払ユニットとPOSとは，ともに小売ユニット(retail unit)の構成要素とされているところ，このうち，POSは，例えばスーパーのレジであるとされている((1)ウ(ア))ことから，従来の(普通の単機能的な)レジとしての位置づけにあると解され，それに対して，支払ユニットは，POSインタフェースに加えてカードインタフェース(cardinterface)やカスタマーインタフェース(customer interface)を持つことからみて，レジに併設する(多機能的な)カード取引端末としての位置づけにあると解される。
+          しかし，刊行物1には，「For example, the point of sale and the payment unit of thepresent invention need not be separate units and may share some of the hardware components,such as their central processing unit, one example being a cash register versionincorporating both units.」(49頁6～9行)との記載があり，支払ユニットとPOSを単に合わせた統合型の多機能POS端末はごく容易に想起できるといえる。
+          したがって，刊行物発明において，相違点3に係る構成を訂正発明1にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+        (エ) 相違点4について
+          「残高の更新を新残高の値そのものを書き込むことで実現するようにすることは，例えば特開平10−40323号公報(甲6。以下「刊行物6」という。)，特開平3−241463号公報(甲7。以下「刊行物7」という。)，特開平2−1049号公報(甲8。以下「刊行物8」という。)及び特開昭63−32658号公報(甲9。以下「刊行物9」という。)のそれぞれの記載にもみられるように，周知の技法である。(特に，刊行物6では段落0029～0031を，刊行物7では5頁右上欄11行からの段落を，刊行物8では図6についての説明を，刊行物9については図10と12を，それぞれ参照。)
+          この技法は，磁気カードはもとよりICカードにおいても一般的に行われている技法であって，どのような携行品のどのような記録メディアに書き込むかということには直接制約されないものであり，携行品が単体のスマートカードであっても，スマートカードを収納した(あるいはICチップを内蔵した)電話機であっても採用できる技法である。
+          してみると，刊行物発明において，相違点4に係る構成を訂正発明1にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+        (オ) 相違点5について
+          「補充の手続きそのものは，電子マネーやそれに類する金銭的価値を記録メディアに書き込んで使わせる支払システムではごくありふれた手続きであり，例えば株式会社シーメディア平成9年10月10日発行の「月刊「Card Wave」」1997年11月号の11頁ないし16頁に掲載された「座談会」と題する記事(甲10。以下「刊行物10」という。)でも言及されているように，現金を払っての補充，預金からの引き落としによる補充，ATMのあるところでの補充，そして店頭での補充といった，さまざまな形態での補充手続きがすでに提供されており周知となっている。(刊行物10では，14頁左欄に，現金払いや引き落としによる補充に言及する記載があり，また，15頁左欄に，ATMのあるところや店頭での補充に言及する記載がある。)
+          また，刊行物1には，「It will be appreciated that customer interface 352 may indicateat step 456 the amount necessary for replenishment and allow the customer to select a sumlarger than this amount, e.g. for increasing the amount of electronic cash in hiselectronic wallet for future use.」(23頁10～13行)，「If the current balance isfound insufficient in 455, then it is first replenished with a sufficient sum in 456 orwith a larger desired sum specified by the customer, and then the purse is charged in457.」(24頁18～20行)との記載があり，客によるその場での補充金額の指定がありうること，すなわち補充金額の「入力」と「受信」がありうることが示唆されている。
+          確かに，刊行物発明は，補充を支払いの中に組み入れてしまうことで補充を別途行っておかなくてもすむようにさせる(ひいては上記(1)アの(イ)，(ウ)で言及されている問題を解決する)ものではあるが，補充を別途行うことを許さなくするというものではない。補充したい任意の金額を指定して行うような従来の補充手続きを，支払いの手続きとは別に従来どおりに併存させ得ることは，制度面からみても技術面からみても明らかであり，補充処理を支払い処理とは独立して行えるようにするか，実際の支払い処理の中で行うようにするかは，単なる設計事項にすぎない。
+          そして，そのような従来の普通の補充手続きを併存させるとして，その補充手続きの際の処理の流れを考察するならば，補充金額の入力操作に「応じて」相手方から送られてくる送信の要求や許可により電子ウォレットが＄BALAＮCEを返信するようにすることは，送信タイミングのありうる例として容易に想起されうるといえ(上記の相違点2の検討と同様のことがいえる。)，また，補充したい金額の入力をその相手方のユニット自体に対してできるようにすることも，上記のタイミングについての考察とは関係なく並行してしかもごく容易に想起されうるといえる(相違点3での検討と同様のことがいえる。)。
+          したがって，刊行物発明において，相違点5に係る構成を訂正発明1にあるとおりの構成とすることは，当業者が容易になし得ることである。
+          なお，請求人は，「刊行物発明と訂正発明1との相違点の認定及びその検討を行うに際しては，「補充処理」の連動の有無に関する相違点5と訂正により追加された「キーボード」の有無に関する相違点7とをそれぞれ分説するのはよいとしても，相違点5と相違点7との密接な関連性を踏まえての検討を軽視乃至無視することは，相違点の認定自体に重大な看過があると言わざるを得ず，到底認められない。
+          …訂正発明1は，「補充処理を行う旨を入力するキーボード」を必須とし，補充処理は「補充処理を行う旨が前記キーボードを介して入力され」ること等に応じて行われることを特徴(と)している…」と主張するが，採用できない。その理由は，次のとおりである。
+          上記ア(イ)の「相違点」のなお書きで述べたとおり，訂正発明1が必須としている「補充処理を行う旨を入力するキーボード」は，移動通信体に補充処理を行う旨を入力するために用いられるものであり，キーボードによって入力された「補充処理を行う旨」が端末機に送信されるものに限定されていない。すなわち，移動通信体への「補充処理を行う旨」の入力は，端末機の処理動作と直接関係することなく実行される態様を包含するものである。
+          訂正発明1における補充処理は，「補充処理を行う旨が前記キーボードを介して入力され」ることを前提とするものの，この入力によって実行される処理は，移動通信体側での処理にとどまり，端末機側が何らかの処理を実行するものに限定されているわけではない。
+          訂正発明1における補充処理，すなわち，端末機と移動通信体がデータの送受信を行い，電子マネー記憶手段に新たな電子マネー金額を記憶する処理は，「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて」開始されるというべきである。
+          したがって，請求人の主張は，特許請求の範囲の記載に基づかないものである。」
+        (カ) 相違点6について
+          「相違点4についての検討と同様のことがいえ，周知技術あるいは刊行物6ないし9に記載された技術の採用は，支払いだけでなく補充においても同様にできるといえる(カード内の残高の更新をどのように実現するかについての技法であり，補充においても共通して採用できるといえる。)。
+          したがって，刊行物発明において，相違点6に係る構成を訂正発明1にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+        (キ) 相違点7について
+          「a 刊行物発明において，携行品として電子ウォレットの情報や機能が付加されたセルラー電話の電話機を採用すれば，通話先電話番号を入力するキーボードを有する構成となることは，ごく自然に導出される事項である。
+          そして，刊行物発明において，携行品として上記の電話機を採用することは，相違点1について検討したとおり，刊行物2～5の記載からみて，当業者にとって容易であるから，刊行物発明の携行品が通話先電話番号を入力するキーボードを有する構成とすることもまた容易である。
+          b
+            また，刊行物3の20頁18～21行には，「支払いをするために，ユーザーは一定のコードを入力し，それによりユーザーは自分が買い物のために支払いをしたいということをアプリケーション18に知らせる。その後，該アプリケーションは，MCUを通じて，IR送受信装置等の第1データ転送手段IRとの接続を確立する。」と記載されているから，刊行物発明において，携行品として上記の電話機を採用した際，支払い処理を行う旨をキーボードから入力する構成とすることは，当業者が容易に想到し得ることである。
+          c
+            さらに，刊行物発明において，従来の補充手続きを併存させることは，相違点5について検討したとおり，当業者にとって容易であり，刊行物4の5頁13～16行には，「次に電子マネーの機能は下記のように遂行される。まず，キーパッド10dの操作により特定のコードを入力し携帯無線電話機10を電子マネーモードに設定し，銀行等の端末11より所望金額情報をICカード10bの電子マネー領域10b−1に書き込んでおく。」と記載され，特開平5−266053号公報(甲13。以下「刊行物13」という。)の4頁右欄，段落【0038】には，「今，ICカード10による支払いによってカード残高が少なくなってくると，顧客によってキャッシュレスICカード10がATM30のところに持ち込まれる。このとき，顧客によってICカード10に配設された入力部11の操作キー14のうちの「装填」キー14aが投入されると，ICカード10とATM30との間で自動的に無線通信が開始される。
+            この結果，ICカード10を顧客が所持しているだけで，上述した装填処理が自動的に実行されることになる。」と記載されているから，刊行物発明において，携行品として上記の電話機を採用した際，補充処理を行う旨をキーボードから入力する構成とすることは，当業者が容易に想到し得ることである。
+          d
+            してみると，刊行物発明において，携行品が「通話先電話番号，支払い処理を行う旨，及び補充処理を行う旨を入力するキーボード」を有する構成とすることは，当業者が容易に想到し得ることである。
+            なお，請求人は，「刊行物4には，補充処理に相当する処理として「銀行などの端末11により所望金額情報をICカード10bの電子マネー領域10b−1に書き込んでおく」ことが記載され(5頁16～17行)，支払い処理に相当する処理として「買い物の際に，売店の端末であるICカード読み書き器11により売上金額が上記ICカード10bの電子マネー領域10b−1より読みだされて入力される」ことが記載されている(5頁18～20行)とおり，支払い処理は売店端末で行い，補充処理は銀行端末で行うというものであるから，同じ端末機でもって支払いと補充とを行うとする刊行物発明に適用できないことは明らかであって，刊行物発明への刊行物4の適用に，阻害要因が存すると認めざるを得ない。
+            同様に，刊行物13には，支払い処理を行う装置として「20は，スーパーマーケットなどに設置され，精算(お会計)時に顧客の所有するキャッシュレスICカード10を受け入れて，顧客の行った買い物についての精算(ICカード10による支払い)を行うためのICカード対応のレジスタ」が記載されており(段落【0012】，図1)，補充処理を行う装置として「30は，銀行などの金融機関に設置されるATM(現金自動預出金機)であり，顧客の所有するキャッシュレスICカード10に対し，その顧客の口座より所定の金額情報を装填(入金)する装填端末装置」が記載されている(段落【0013】，図1)とおり，支払い処理はスーパーマーケット端末で，補充は銀行ATMで行うというものであるから，同じ端末機でもって支払いと補充とを行うとする刊行物発明に適用できないことは明らかであって，刊行物発明への刊行物13の適用に，阻害要因が存すると認めざるを得ない。
+            なお，仮に，刊行物発明に刊行物4，13が適用し得るものとしても，適用の結果得られる構成は，刊行物発明に，銀行ATMでの補充処理が別途追加されただけであって，支払い処理及び補充処理のいずれもを，個別に，同じ端末機でもって行い得るとする訂正発明1とは，元より無関係なものである。」と主張するが，採用できない。その理由は，次のとおりである。
+            刊行物4の補充処理に係るキー入力は，携帯無線電話機を電子マネーモードに設定するものであり，また，刊行物13の補充処理に係るキー入力は，キャッシュレスICカードからATMへの通信を開始するための指令というべきものである。
+            したがって，刊行物4，13におけるキー入力は，携帯無線電話機やキャッシュレスICカードを，補充処理が可能な状態に設定するものであるから，刊行物4，13におけるキー入力に係る技術は，電子マネー機能を有する携行品一般に適用できるものである。
+            確かに，刊行物4，13には，補充処理は，銀行等の端末で行われることが記載されているが，これは，刊行物4，13における売店の端末が補充処理に対応していないものを前提としているからである。
+            しかし，補充処理に対応した売店の端末は，刊行物10の15頁左欄に記載されるように，周知のものであり，売店の端末が補充処理に対応するのであれば，売店の端末でも，刊行物4，13におけるキー入力によって，同様な補充処理が可能であることは明らかである。
+            したがって，刊行物4，13に記載されたキー入力に係る技術を刊行物発明に適用し，支払い処理と同じ端末機で補充処理を行う構成とすることは，当業者が容易に想到し得ることである。」
+        (ク) 相違点8について
+          「相違点7について検討したとおり，刊行物発明において，携行品として上記の電話機を採用した際，支払い処理を行う旨をキーボードから入力する構成とすることは，当業者が容易に想到し得ることであるから，刊行物発明において，支払い処理する際，「支払い処理を行う旨が前記キーボードを介して入力され」る構成とすることも，当業者にとって容易である。」
+        (ケ) 相違点9について
+          「相違点7について検討したとおり，刊行物発明において，携行品として上記の電話機を採用した際，補充処理を行う旨をキーボードから入力する構成とすることは，当業者が容易に想到し得ることであるから，刊行物発明において，補充処理する際，「補充処理を行う旨が前記キーボードを介して入力され」る構成とすることも，当業者にとって容易である。
+          なお，請求人は，「刊行物発明において，訂正発明1にいう処の支払い処理と補充処理とを，スマートカードから如何にして個々に指示し，しかも，いかにして同一の手順によって両処理を実現させるかは，当業者といえども想到できるものではない。」と主張するが，採用できない。その理由は，次のとおりである。
+          上記(オ)，(キ)～(ケ)で検討したとおり，刊行物発明において，相違点5，7～9に係る構成を得ることは，当業者にとって容易であるところ，刊行物発明において，相違点5，7～9に係る構成を採用すれば，支払い処理と補充処理とを個々に指示し，同一の手順によって両処理が実現できるようになることは，ごく自然に導出される事項であるから，支払い処理と補充処理とを個々に指示し，同一の手順によって両処理を実現することは，当業者が容易に想到し得ることである。
+          請求人は，また，「訂正拒絶理由通知において指摘されたいずれの刊行物にも，「支払い処理を行う旨」を入力するキーボード，及び「補充処理を行う旨」を入力するキーボードの双方を有する発明は記載されていない。このため，刊行物1～10及び13，特開平8−287169号公報(甲11。以下「刊行物11」という。)並びに特開平3−92966号公報(甲12。以下「刊行物12」という。)に記載された発明に基づいたとしても，「支払い処理を行う旨」を入力するキーボード，及び「補充処理を行う旨」を入力するキーボードの双方を有する訂正発明1を想到することは，当業者が容易になしうることではない。」と主張するが，採用できない。その理由は，次のとおりである。
+          相違点5について判断したとおり，刊行物発明において，従来の補充手続きを支払いの手続きとは別に従来どおりに併存させることは，当業者にとって容易であり，「支払い処理を行う旨」を入力するキーボードが刊行物3に，「補充処理を行う旨」を入力するキーボードが刊行物4，13に記載されているのだから，刊行物発明において，「支払い処理を行う旨」を入力するキーボードと「補充処理を行う旨」を入力するキーボードを設け，従来の補充手続きを支払いの手続きとは別に従来どおりに併存させることは，当業者が容易に想到し得ることである。」
+        (コ) まとめ
+          「相違点は，相違点1～9のみであって，いずれの相違点についても，刊行物発明において訂正発明1にあるとおりの構成をとるようにすることは，当業者にとって容易にできたというべきことであり，また，いずれの相違点にも，他の相違点と互いに影響して上記のような採用や組み合わせを阻害することとなるような事情はないと認められる。
+          さらに，各相違点について訂正発明1にあるとおりの構成とすることにより生じ得る効果についても，いずれも当業者であれば予測することができた程度の効果である。
+          したがって，訂正発明1は，刊行物発明に基づいて，刊行物2～10及び13の記載事項，周知技術の知識及び実務上の知識との組み合わせとして，当業者が容易に発明をすることができたものであり，特許出願の際独立して特許を受けることができないものである。」
+    (4) 訂正発明2について
+      ア 訂正発明2と刊行物発明との対比
+        「訂正発明2と刊行物発明とを対比すると，両者は，上記相違点1～9に加え，次の相違点10で相違し，その他の点で一致する。
+        (相違点10)訂正発明2においては，「電子マネー金額は，暗号化した電子マネー金額及び暗号化していない可読状態の電子マネー金額である」のに対して，刊行物発明においては，電子現金の金額(「電子マネー金額」)がそのような構成のものであるか否かが，記載がないため，はっきりしない点。」
+      イ 相違点についての判断
+        (ア) 相違点1～9について
+          「刊行物発明において，相違点1～9に係る構成を得ることは，訂正発明1について検討したとおり，当業者にとって容易である。」
+        (イ) 相違点10について
+          「刊行物6には，金銭登録機が暗号化キーK2を用い，ICカードから残額に関係する基礎的データと偽装データとを読み取り，偽装データの方を復号(解読)して基礎的データと比較検証し，検証結果が正しければ購入の処理をし，ICカードのメモリーの基礎的データの領域に新たな残額についての暗号化しないデータを書き込むとともに，メモリーの偽装データの領域には暗号化キーK1とK2を用いてその新たな残額を暗号化したデータを書き込む処理が記載されている(段落0029～0031，図2，図5を参照)。
+          刊行物6のICカードにおいて，上記の各領域に書き込まれているのが訂正発明2にいうところの「暗号化した」金額「及び暗号化していない可読状態の」金額であることは明らかである。
+          刊行物発明と刊行物6の上記の処理とは，属する業務分野や用いられている機器に共通性があり，また，セキュリティの向上は，刊行物発明においても当然考慮される一般的な課題であり，刊行物6に記載された技術手段を刊行物発明に適用することを妨げる要因も認められないから，刊行物6に開示された上記の「暗号化した」データ「及び暗号化していない」データとからなるデータ構造を刊行物発明の電子パースの内部における＄BALAＮCEのデータ構造として採用し，その保持や送受信をさせるようにすることは，当業者が容易になし得ることである。
+          したがって，刊行物発明において，相違点10に係る構成を訂正発明2にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+        (ウ) まとめ
+          「相違点は，相違点1～9に相違点10を加えた各相違点のみであって，いずれの点についても刊行物発明において訂正発明2にあるとおりの構成をとるようにすることは当業者にとって容易にできたというべきことであり，また，いずれの相違点にも，他の相違点と互いに影響して上記のような採用や組み合わせを阻害することとなるような事情はないと認められる。
+          さらに，各相違点について訂正発明2にあるとおりの構成とすることにより生じ得る効果についても，いずれも当業者であれば予測することができた程度の効果である。
+          したがって，訂正発明2は，刊行物発明に基づいて，刊行物2～10及び13の記載事項，周知技術の知識及び実務上の知識との組み合わせとして，当業者が容易に発明をすることができたものであり，特許出願の際独立して特許を受けることができないものである。」
+    (5) 訂正発明3について
+      ア 訂正発明3と刊行物発明との対比
+        「訂正発明3と刊行物発明とを対比すると，両者は，上記相違点1～10に加え，次の相違点11～13で相違し，その他の点で一致する。
+        (相違点11)訂正発明3においては，「電子マネー金額記憶手段に記憶された電子マネー金額を表示する表示手段」があり，「暗唱番号記憶手段に記憶された所定の暗唱番号と一致する番号が入力された場合に限り，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記表示手段によって表示するように構成され」ているのに対して，刊行物発明では，電子ウォレット上での入力や表示に係る構成が，記載がないため，はっきりしない点。
+        (相違点12)訂正発明3の「表示手段」は，「文字及び画像を表示するものであ」るのに対し，刊行物発明では，電子ウォレット上での入力や表示に係る構成が，記載がないため，はっきりしない点。
+        (相違点13)訂正発明3においては，暗証番号に一致する番号が「キーボードを介して」入力されるのに対し，刊行物発明では，電子ウォレット上での入力や表示に係る構成が，記載がないため，はっきりしない点。」
+      イ 相違点についての判断
+        (ア) 相違点1～10について
+          「刊行物発明において，相違点1～10に係る構成を得ることは，訂正発明1及び2について検討したとおり，当業者にとって容易である。」
+        (イ) 相違点11について
+          「刊行物11には，ICカード表面に設けられている数字キーによって暗証番号の入力を行い，表示ボタンによって残高を表示させる，という，残高の確認の機能についての記載がある(段落0009ほか)。
+          また，刊行物12には，カードを暗証番号のキー入力によって稼働状態にさせた上で照会キーによって残高を表示させることが開示されている(図6(a)(b)，5頁左上欄1～3行)。
+          これらの記載にみられるようなキー入力のための入力部や残高表示のための表示部を採用することは，刊行物1の電子ウォレットを含めた，電子マネーに類する金銭的価値のデータを記憶できる各種のICカードにおいても，また，刊行物2ないし4にもみられるような電話機を含めた，セルラー電話であって金銭的価値のデータを記憶できるような周知の電話機においても，利便性の向上のため容易にできることであり，採用する上での阻害要因も，特に見出せない。
+          したがって，刊行物発明において，相違点11に係る構成を得ることは，当業者が容易に想到し得ることである。」
+        (ウ) 相違点12について
+          「刊行物11の段落【0003】には，「また，ICカードに格納された金銭情報を確認する際，該ICカードの表面に設けられた表示部に該金銭情報を数値で表示する。」と，段落【0009】には，「本発明によれば，自身が携帯している「電子財布」の残高の確認をしたい場合，ICカード表面に設けられている数字キーを利用して暗証番号の入力を行い，表示ボタンを押すことにより，予め設定しておいた条件に応じて，ICカード表面に設けられている液晶表示パネルに記号を表示する。」と記載されており，表示部に数値や記号を表示することが開示されている。
+          また，刊行物12の7頁右上欄14～19行には，「顧客により入力された暗証番号が多機能ICカード内に記憶された暗証番号と一致すると，第10図(b)に示すようにカードレディ状態表示ステップ631でカード表示部215に，例えば記号桁に◎を表示して顧客にカードが使用可能状態であることを通知する。」と，8頁右下欄14～19行には，「次に，顧客がカード内の残高や，過去の買い物日付と金額，あるいは，カードへの金額補充かカードから預金口座へ戻し入金した日付と金額の(照会)をする場合，多機能ICカード21の金額情報記憶部212に記憶されている残高，および，取引明細を表示部215に表示することができる。」と記載されており，表示部に使用可能状態を通知する記号やカード内残高を表示することが開示されている。
+          してみると，刊行物発明において，相違点11に係る構成を得る際，表示手段を文字及び画像を表示するものとし，相違点12に係る構成を得ることは，当業者が容易に想到し得ることである。」
+        (エ) 相違点13について
+          「刊行物発明において，携行品がキーボードを有する構成を採用すれば，相違点11に係る番号の入力が該キーボードを介してなされることは，ごく自然に導出される事項である。
+          そして，刊行物発明において，携行品がキーボードを有する構成を採用することは，相違点1について検討したとおり，当業者にとって容易であるから，刊行物発明において，相違点13に係る構成を得ることもまた容易である。」
+        (オ) まとめ
+          「相違点は，相違点1～10に相違点11～13を加えた各相違点のみであって，いずれの点についても刊行物発明において訂正発明3にあるとおりの構成をとるようにすることは当業者にとって容易にできたというべきことであり，また，いずれの相違点にも，他の相違点と互いに影響して上記のような採用や組み合わせを阻害することとなるような事情はないと認められる。
+          さらに，各相違点について訂正発明3にあるとおりの構成とすることにより生じ得る効果についても，いずれも当業者であれば予測することができた程度の効果である。
+          したがって，訂正発明3は，刊行物発明に基づいて，刊行物2ないし13の記載事項，周知技術の知識及び実務上の知識との組み合わせとして，当業者が容易に発明をすることができたものであり，特許出願の際独立して特許を受けることができないものである。」
+    (6) 本件審決の「むすび」
+      「以上のとおり，訂正発明1～3は，特許出願の際独立して特許を受けることができないものであるから，本件訂正審判の請求は，特許法126条5項の規定に適合しない。」
+第3 審決取消事由の要点
+  本件審決は，以下のとおり，補充処理及び支払処理に係る訂正発明1と刊行物発明との各相違点を看過し，また，両処理を同一の手順によって処理するとの訂正発明1の構成(以下「訂正発明1の同一処理手順の構成」という。)についての判断を誤った結果，訂正発明1ないし3がいずれも特許出願の際独立して特許を受けることができないと判断したものであるから，取り消されるべきである。
+  1 取消事由1(補充処理に係る相違点の看過)
+    (1)
+      訂正発明1の補充処理が開始されるためには，①補充処理を行う旨が入力されること，②(端末機と短距離通信可能な状態で，)補充金額が入力されること，の2つの条件が必要であるから，訂正発明1と刊行物発明とを対比すると，「訂正発明1は，これら2つの条件が満たされて初めて補充処理が開始されるのに対して，刊行物発明はそのようになっていない点」(以下「補充処理に係る原告主張相違点」という。)において相違しているところ，本件審決には，この相違点を看過した誤りがある。
+    (2)
+      ア
+        この点に関し，本件審決は，相違点5及び9として，次のとおり認定した。
+        「(相違点5)『補充処理する際』の『補充金額』及び未補充状態の『電子マネー金額記憶手段に記憶された電子マネー金額』の扱いについて，訂正発明1では，『前記端末機に補充金額が入力され』ており，その『入力されること』に『応じて』移動通信体が『前記電子マネー金額記憶手段に記憶された電子マネー金額』を端末機に送信しているのに対して，刊行物発明では，支払い手続きの中で自動的に補充の必要性がチェックされる(電子パース払いの実行可能性がチェックされる)ことにより自動的に補充処理が行われるため，その必要性のチェックに先立って電子パース内の＄BALAＮCE(『電子マネー金額記憶手段に記憶された電子マネー金額』)の送信が行われており，また，その必要性のチェックにより補充が必要と判明したとき，補充金額が自動的に決定される点。
+        (相違点9)訂正発明1は，補充処理する際，『補充処理を行う旨が前記キーボードを介して入力され』るのに対し，刊行物発明では，そうでない点。」
+      イ
+        (ア)
+          しかしながら，訂正発明1は，決済処理を高速に行うという技術的課題を解決するため，「補充処理を行う旨を前記キーボードを介して入力」し，移動通信体を「前記端末機と短距離通信可能な状態」に置くとの2つの手順を決済処理の事前に設けることにより，決済処理中における「移動通信体の操作」手順を省略・回避するものである。したがって，相違点5に係る訂正発明1の構成のポイントは，相違点9に係る訂正発明1の構成である「補充処理を行う旨の入力」を決済中ではなく事前にしておくことにより，その後，移動通信体側では，何らの手順も要せず，移動通信体を端末機と短距離通信可能な状態に置きさえすれば決済が行われること，すなわち，補充金額を一々確認し，承認した上での決済処理が不要であるという「移動通信体側における手順の不要性」を表現している点にある。
+          そうだとすると，相違点5及び9を分離して認定した本件審決は誤りである。
+        (イ)
+          a
+            被告及び被告補助参加人(以下「被告ら」という。)は，原告の上記主張は，特許請求の範囲や明細書の記載に基づくものではなく，根拠がない旨主張する。
+            しかしながら，訂正発明1のようなIT技術の分野に属する発明の場合には，その構成が明細書に記載されていれば，当該構成に基づいて発明の課題やその効果を認識することができるのであるから，発明の課題やその効果に係る主張が，明細書に記載されているものに限定されるとする理由はない。
+            また，原告が主張する「移動通信体側における手順の不要性」については，請求項1の記載から明らかであるし，本件訂正審判請求に係る明細書(甲15。以下「訂正明細書」という。)の発明の詳細な説明の記載とも矛盾するものではない(訂正発明1は，移動通信体であり，暗証番号の入力や補充金額の確認が求められることはない。)。
+          b
+            さらに，被告らは，「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項が，電子マネー金額の受送信がされる直接の契機となるものではない旨主張する。
+            しかしながら，請求項1は，「補充処理を行う旨」の入力と「補充金額」の入力とを並列させ，これらに応じて電子マネー金額を送信すると規定しているのであるから，これら2つの入力に応じて電子マネー金額が送信されると規定していると解するのが自然である。
+            そして，「補充処理を行う旨」の入力は，その有無によって電子マネー金額の送信の有無が決せられるのであるから，その点で，電子マネー金額の送信の契機となっているといえ，電子マネー金額の送信に影響を及ぼすものであるといえる。
+          c
+            そうすると，被告らの上記各主張はいずれも理由がない。
+    (3)
+      なお，本件審決は，「訂正発明1において付加された『補充処理を行う旨が前記キーボードを介して入力され』ることは，訂正前の請求項1の『前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，…』の処理内容に変更をもらたすものではない。」旨判断したが，訂正前の請求項1に係る発明においては，補充金額が入力されることに応じて電子マネー金額を送信するのに対し，訂正発明1においては，補充処理を行う旨が入力されない限り，補充金額が入力されても電子マネー金額を送信することはないのであるから，上記付加により，「・・・応じて，(・・・送信し)」の処理内容が変更されていることは明らかである。
+  2 取消事由2(支払処理に係る相違点の看過)
+    (1)
+      訂正発明1の支払処理が開始されるためには，①支払処理を行う旨が入力されること，②(端末機と短距離通信可能な状態で，)支払金額が入力されること，の2つの条件が必要であるから，訂正発明1と刊行物発明とを対比すると，「訂正発明1は，これら2つの条件が満たされて初めて支払処理が開始されるのに対して，刊行物発明はそのようになっていない点」(以下「支払処理に係る原告主張相違点」という。)において相違しているところ，本件審決には，この相違点を看過した誤りがある。
+    (2)
+      ア
+        この点に関し，本件審決は，相違点2及び8として，次のとおり認定した。
+        「(相違点2)『支払い処理する際』の未払い状態の『電子マネー金額記憶手段に記憶された電子マネー金額』の『端末機』への『送信』について，訂正発明1では，その送信を『支払い金額が入力されることに応じて』行っているのに対して，刊行物発明では，送信を何に応じて行っているか，明示的な記載がないため，はっきりしない点。
+        (相違点8)訂正発明1は，支払い処理する際，『支払い処理を行う旨が前記キーボードを介して入力され』るのに対し，刊行物発明では，そうでない点。」
+      イ
+        (ア)
+          しかしながら，前記1のとおり，訂正発明1は，決済処理を高速に行うという技術的課題を解決するため，「支払い処理を行う旨を前記キーボードを介して入力」し，移動通信体を「前記端末機と短距離通信可能な状態」に置くとの2つの手順を決済処理の事前に設けることにより，決済処理中における「移動通信体の操作」手順を省略・回避するものである。したがって，相違点2に係る訂正発明1の構成のポイントは，相違点8に係る訂正発明1の構成である「支払い処理を行う旨の入力」を決済中ではなく事前にしておくことにより，その後，移動通信体側では，何らの手順も要せず，移動通信体を端末機と短距離通信可能な状態に置きさえすれば決済が行われること，すなわち，支払金額を一々確認し，承認した上での決済処理が不要であるという「移動通信体側における手順の不要性」を表現している点にある。
+          そうだとすると，相違点2及び8を分離して認定した本件審決は誤りである。
+        (イ)
+          a
+            被告らは，原告の上記主張は，特許請求の範囲や明細書の記載に基づくものではなく，根拠がない旨主張するが，前記1(2)イ(イ)のとおり，理由がない。
+          b
+            また，被告らは，「支払い処理を行う旨が前記キーボードを介して入力され」との発明特定事項が，電子マネー金額の受送信がされる直接の契機となるものではない旨主張するが，この点も，前記1(2)イ(イ)のとおり，理由がない。
+  3
+    取消事由3(訂正発明1の同一処理手順の構成についての判断の誤り)本件審決は，訂正発明1の同一処理手順の構成について，次のとおり判断したが，以下のとおり，この判断は誤りである。
+    「上記(オ)，(キ)～(ケ)で検討したとおり，刊行物発明において，相違点5，7～9に係る構成を得ることは，当業者にとって容易であるところ，刊行物発明において，相違点5，7～9に係る構成を採用すれば，支払い処理と補充処理とを個々に指示し，同一の手順によって両処理が実現できるようになることは，ごく自然に導出される事項であるから，支払い処理と補充処理とを個々に指示し，同一の手順によって両処理を実現することは，当業者が容易に想到し得ることである。」
+    (1)
+      ア
+        刊行物発明は，支払処理中に補充処理を組み込んだ特異なものであり，かつ，そのために，支払処理と補充処理とが同一の手順によらないことも明らかであるところ，本件審決の上記判断には，このような特異な補充処理を含む刊行物発明から，相違点5及び7ないし9に係る訂正発明1の補充処理の構成を得ることが，当業者にとって容易であるといえるかにつき，周知例などの根拠が何ら示されていない。かえって，刊行物1の記載によれば，刊行物発明が，従来の補充処理を併存させることを意図せず，また，前提としていないことは明らかであるから，刊行物発明の支払処理中に補充処理を組み込むという構成に加え，従来の補充処理を併存させることが容易であるとする本件審決の判断は，刊行物発明の意義を曲解したものであるといわざるを得ない。
+      イ
+        被告らは，「刊行物1に，客によるその場での補充金額の『入力』と『受信』があり得ることが示唆されていることからすると，・・・補充処理を支払処理と独立して行うようにするか，支払処理の中で行うようにするかは，単なる設計事項にすぎない。」と主張するが，刊行物1における上記示唆は，支払処理の中で補充処理の利便性を工夫したものと理解するのが自然であるから，被告らの上記主張は誤りである。
+    (2)
+      ア
+        また，本件審決の上記判断中の「相違点5，7～9に係る構成を採用すれば」との仮定は，支払処理と補充処理とを同一の手順によって処理することを何ら示すものではない(なお，刊行物4，10及び13並びに乙1ないし7のいずれにも，訂正発明1の同一処理手順の構成は開示されていない。)から，上記仮定に基づき，「ごく自然に導出される事項である」とした本件審決の判断は，訂正発明1の同一処理手順の構成を後から論理付けしたというほかない。
+      イ
+        訂正発明1における「支払い処理を行う旨」及び「補充処理を行う旨」の各入力は，訂正発明1の同一処理手順の構成に特有のものであり，刊行物発明や乙1ないし7に記載された発明からは想起することができないものである。
+      ウ
+        被告らの主張は，「従来の補充処理を採用すれば」，「相違点5及び7ないし9に係る訂正発明1の構成を採用すれば」といった仮定に基づくものであるほか，「訂正発明1の同一処理手順の構成を実現し得ることも，ごく自然に導出されることである。」とする理由も，技術的に明確な根拠により論理付けられたものではなく，失当である。
+    (3)
+      訂正発明1は，支払処理と補充処理とを分けることに大きな意義があり，スピーディーな決済を行うという新たな課題を解決したものであるほか，実際には異なる両取引のやり方を同一の手順で機械的に処理することにより，気が重いデバッグなどの作業を伴うシステム開発の業務量を半減させることができるものであるところ，本件審決は，このような事情を考慮していない。
+第4 被告らの反論の骨子
+  以下のとおり，本件審決には，原告が主張する相違点の看過はないし，原告が主張する判断の誤りもない。
+  1 取消事由1(補充処理に係る相違点の看過)に対して
+    (1)
+      原告は，相違点5及び9を分離して認定した本件審決は誤りであると主張し，また，その理由として，「訂正発明1は，決済処理を高速に行うという技術的課題を解決するため，『補充処理を行う旨を前記キーボードを介して入力』し，移動通信体を『前記端末機と短距離通信可能な状態』に置くとの2つの手順を決済処理の事前に設けることにより，決済処理中における『移動通信体の操作』手順を省略・回避するものである。したがって，相違点5に係る訂正発明1の構成のポイントは，相違点9に係る訂正発明1の構成である『補充処理を行う旨の入力』を決済中ではなく事前にしておくことにより，その後，移動通信体側では，何らの手順も要せず，移動通信体を端末機と短距離通信可能な状態に置きさえすれば決済が行われること，すなわち，補充金額を一々確認し，承認した上での決済処理が不要であるという『移動通信体側における手順の不要性』を表現している点にある。」と主張するが，以下のとおり，この主張は失当である。
+      ア
+        原告の上記主張中，「訂正発明1は，決済処理を高速に行うという技術的課題を解決するため，『補充処理を行う旨を前記キーボードを介して入力』し，移動通信体を『前記端末機と短距離通信可能な状態』に置くとの2つの手順を決済処理の事前に設けることにより，決済処理中における『移動通信体の操作』手順を省略・回避するものである。」との点については，訂正明細書に記載されたものではないし，また，請求項1にも何らその旨の規定がない。
+        そうすると，原告が「相違点5に係る訂正発明1の構成のポイント」として主張する点についても，特許請求の範囲や明細書の記載に基づくものではなく，根拠がないというべきである。
+      イ
+        また，訂正発明1の「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項につき，請求項1は，当該入力がされることにより，どのような処理が実行されるかについて何ら規定するものではなく，しかも，当該入力がされる際に，移動通信体が「端末機と短距離通信可能な状態」に置かれていると規定するものでもない。
+        そうすると，上記「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項は，移動通信体が「端末機と短距離通信可能な状態」になるまでの移動通信体内での単独の処理が実行される態様を含むものであり，電子マネー金額の受送信がされる直接の契機となるものではない。
+        したがって，「補充処理を行う旨が前記キーボードを介して入力され」る点(相違点9)と「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて」電子マネーの受送信がされる点(相違点5)は，訂正発明1における一連の操作・処理に係るものではあるが，それぞれ独立して認定することができるものであるといえる。
+      ウ
+        以上からすると，相違点5及び9を別個の相違点として認定した本件審決に誤りはないというべきである。
+    (2)
+      なお，原告は，「訂正前の請求項1に係る発明においては，補充金額が入力されることに応じて電子マネー金額を送信するのに対し，訂正発明1においては，補充処理を行う旨が入力されない限り，補充金額が入力されても電子マネー金額を送信することはないのであるから，『補充処理を行う旨が前記キーボードを介して入力され』との発明特定事項が付加されたことにより，『・・・応じて，(・・・送信し)』の処理内容が変更されていることは明らかである。」旨主張する。
+      しかしながら，上記(1)イのとおり，訂正発明1における「補充処理を行う旨が前記キーボードを介して入力され」との発明特定事項は，移動通信体が「端末機と短距離通信可能な状態」になるまでの処理を規定するものであるから，当該発明特定事項を付加したことにより，「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，」電子マネーの受送信がされるという，移動通信体が「端末機と短距離通信可能な状態」となった後に実行される処理の技術内容が別のものとなるものではないから，原告の上記主張は失当である。
+  2 取消事由2(支払処理に係る相違点の看過)に対して
+    原告は，相違点2及び8を分離して認定した本件審決は誤りであると主張し，また，その理由として，「訂正発明1は，決済処理を高速に行うという技術的課題を解決するため，『支払い処理を行う旨を前記キーボードを介して入力』し，移動通信体を『前記端末機と短距離通信可能な状態』に置くとの2つの手順を決済処理の事前に設けることにより，決済処理中における『移動通信体の操作』手順を省略・回避するものである。したがって，相違点2に係る訂正発明1の構成のポイントは，相違点8に係る訂正発明1の構成である『支払い処理を行う旨の入力』を決済中ではなく事前にしておくことにより，その後，移動通信体側では，何らの手順も要せず，移動通信体を端末機と短距離通信可能な状態に置きさえすれば決済が行われること，すなわち，支払金額を一々確認し，承認した上での決済処理が不要であるという『移動通信体側における手順の不要性』を表現している点にある。」と主張するが，以下のとおり，この主張は失当である。
+    (1)
+      原告の上記主張中，「訂正発明1は，決済処理を高速に行うという技術的課題を解決するため，『支払い処理を行う旨を前記キーボードを介して入力』し，移動通信体を『前記端末機と短距離通信可能な状態』に置くとの2つの手順を決済処理の事前に設けることにより，決済処理中における『移動通信体の操作』手順を省略・回避するものである。」との点については，訂正明細書に記載されたものではないし，また，請求項1にも何らその旨の規定がない。
+      そうすると，原告が「相違点2に係る訂正発明1の構成のポイント」として主張する点についても，特許請求の範囲や明細書の記載に基づくものではなく，根拠がないというべきである。
+    (2)
+      また，訂正発明1の「支払い処理を行う旨が前記キーボードを介して入力され」との発明特定事項につき，請求項1は，当該入力がされることにより，どのような処理が実行されるかについて何ら規定するものではなく，しかも，当該入力がされる際に，移動通信体が「端末機と短距離通信可能な状態」に置かれていると規定するものでもない。
+      そうすると，上記「支払い処理を行う旨が前記キーボードを介して入力され」との発明特定事項は，移動通信体が「端末機と短距離通信可能な状態」になるまでの移動通信体内での単独の処理が実行される態様を含むものであり，電子マネー金額の受送信がされる直接の契機となるものではない。
+      したがって，「支払い処理を行う旨が前記キーボードを介して入力され」る点(相違点8)と「前記端末機と短距離通信可能な状態で，前記端末機に前記支払い金額が入力されることに応じて」電子マネーの受送信がされる点(相違点2)は，訂正発明1における一連の操作・処理に係るものではあるが，それぞれ独立して認定することができるものであるといえる。
+    (3)
+      以上からすると，相違点2及び8を別個の相違点として認定した本件審決に誤りはないというべきである。
+  3 取消事由3(訂正発明1の同一処理手順の構成についての判断の誤り)に対して
+    (1)
+      原告は，「刊行物発明は，支払処理中に補充処理を組み込んだ特異なものであり，かつ，そのために，支払処理と補充処理とが同一の手順によらないことも明らかであるところ，本件審決の上記判断には，このような特異な補充処理を含む刊行物発明から，相違点5及び7ないし9に係る訂正発明1の補充処理の構成を得ることが，当業者にとって容易であるといえるかにつき，周知例などの根拠が何ら示されていない。」と主張する。
+      しかしながら，刊行物1に，客によるその場での補充金額の「入力」と「受信」があり得ることが示唆されていることからすると，刊行物発明は，補充処理を別途行うことを許さないものではなく，同発明において，従来の補充処理(補充したい任意の金額を指定して行うもの)を支払処理とは別に併存させ得ることは，制度面からみても，技術面からみても明らかである。そうすると，補充処理を支払処理と独立して行うようにするか，支払処理の中で行うようにするかは，単なる設計事項にすぎない。
+      また，刊行物発明の携行品において，「通話先電話番号，支払い処理を行う旨，及び補充処理を行う旨を入力するキーボード」を有する構成は，当業者であれば，容易に想到し得るものである。
+      以上からすると，刊行物発明に相違点5及び7ないし9に係る訂正発明1の構成を適用することは容易である。
+    (2)
+      原告は，「本件審決の上記判断中の『相違点5，7～9に係る構成を採用すれば』との仮定は，支払処理と補充処理とを同一の手順によって処理することを何ら示すものではないから，上記仮定に基づき，『ごく自然に導出される事項である』とした本件審決の判断は，訂正発明1の同一処理手順の構成を後から論理付けしたというほかない。」と主張する。
+      しかしながら，従来の補充処理を採用すれば，支払処理と補充処理が，電子マネー金額を記憶するという携行品の状態設定，通信路の確保，端末機への金額の入力，データの受送信という限度で同一の手順となることは，ごく自然に導出されることであるから，刊行物発明に，相違点5及び7ないし9に係る訂正発明1の構成を採用することにより，訂正発明1の同一処理手順の構成を実現し得ることも，ごく自然に導出されることである。
+      以上からすると，原告の上記主張は理由がない。
+    (3)
+      原告は，「訂正発明1は，支払処理と補充処理とを分けることに大きな意義があり，スピーディーな決済を行うという新たな課題を解決したものであるほか，実際には異なる両取引のやり方を同一の手順で機械的に処理することにより，気が重いデバッグなどの作業を伴うシステム開発の業務量を半減させることができるものであるところ，本件審決は，このような事情を考慮していない。」と主張する。
+      しかしながら，刊行物1，国際公開第95／24690号パンフレット(1995(平成7)年9月14日国際公開。丙3)等の記載からも明らかなとおり，訂正発明1の同一処理手順の構成は，周知であり，それに伴う「気が重いデバッグなどの作業を伴うシステム開発の業務量を半減させる」などの効果も，格別のものではない。
+      また，訂正明細書には，支払処理と補充処理とを分けることの意義についての記載も示唆もない。
+      さらに，訂正明細書の記載によれば，訂正発明1は，スピーディーな決済を実現するようなものとはいえない。
+      以上からすると，原告の上記主張は理由がない。
+第5 当裁判所の判断
+  1 取消事由1(補充処理に係る原告主張相違点の看過)について
+    原告は，本件審決には，補充処理に係る原告主張相違点を看過した誤りがあると主張するので，以下，検討する。
+    (1) 訂正発明1における補充処理の手順に関する構成要件について
+      ア
+        前記第2の2(2)のとおり，訂正発明1における補充処理の手順に係る構成要件(以下「本件補充処理手順要件」という。)は，次のとおりである。
+        「前記電子マネー金額に所定の補充金額を補充処理する際には」
+        (ア)「補充処理を行う旨が前記キーボードを介して入力され」
+        (イ)「前記端末機と短距離通信可能な状態で，前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し」
+        (ウ)「新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し」(エ)「受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶する」
+      イ
+        上記アのとおり，本件補充処理手順要件中には，原告が主張する「補充処理が開始されるためには，①補充処理を行う旨が入力されること(以下，この項(1項)において，『旨の入力』という。)，②(端末機と短距離通信可能な状態で，)補充金額が入力されること(以下，この項(1項)において，『金額の入力』という。)，の2つの条件が必要である」との特定はみられない(かえって，本件補充処理手順要件の内容に照らすと，「補充処理を行う旨が前記キーボードを介して入力され」との要件及び「前記端末機と短距離通信可能な状態で」との要件が満たされた時，すなわち，移動通信体が端末機と短距離通信可能な状態に置かれ，旨の入力がされた時点において，補充処理が開始されるものと理解するのが自然であると認められる。)。
+    (2) 訂正明細書(甲15)の発明の詳細な説明における補充処理の手順に関する記載について
+      ア
+        訂正明細書の発明の詳細な説明には，以下の各記載がある(なお，訂正明細書が引用する各図面は，本件特許に係る特許公報(甲14)に記載されたものである。以下同じ。)。
+        (ア)「前記プリペイド金額記憶部131は，・・・ユーザによって予め支払われた無線通信サービスを受けるための通信費用であるプリペイド金額が記憶されている。
+        前記電子マネー金額記憶部132は，・・・この携帯電話機10を電子マネーシステム端末とする電子マネー金額が記憶されている。」(段落【0048】，【0049】)(イ)「▲2▼現金支払いによるプリペイド金額の補充処理(図9，図10)図9および図10は，商店の店頭において現金を支払うことにより，店頭端末機42を介して携帯電話機10のプリペイド金額131を補充する場合の処理手順を示している。
+        このプリペイド金額131の現金による補充処理は，予めユーザが携帯電話機10を店頭端末機42の近くに位置させ，携帯電話機10と店頭端末機42との有線通信手段(短距離通信手段)12，422が有するコネクタ121，421を接続することによって両者が通信可能な状態とすることが前提条件となる。この状態で，ユーザが携帯電話機10に現金支払いによってプリペイド金額131の補充処理を行う旨をキーボード(入力手段)15を介して要求し，携帯電話機10がこれを受理することによって，現金支払いによるプリペイド金額131の補充処理が開始される(ステップS200)。
+        携帯電話機10は，プリペイド金額補充処理の要求とともに，携帯電話機10内の記憶手段13に記憶されている制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信する(ステップS202)。
+        店頭端末機42が上記各情報を受信したのち(ステップS204)，受信した通常情報13aと秘匿情報13bとを照合するまでの一連の処理(ステップS206～S220)は，・・・重複説明を省略する。
+        受信した通常情報13aと秘匿情報13bとの照合結果が整合する場合には(ステップS218で整合側へ)，携帯電話機10のユーザが店頭において支払った補充金額が，店頭端末機42の端末操作者によって店頭端末機42の入力手段423に入力される(ステップS222)。
+        店頭端末機42は，上記補充金額が入力されると，・・・前記補充金額を商店口座314から電話局口座311へ送金する処理の要求を銀行システム30(正確には銀行サーバ31)に対して送信する(ステップS224)。
+        銀行サーバ31は，上記要求を受信すると(ステップS226)，送金処理手段316により，商店口座314から電話局口座311へ上記補充金額の送金処理を行い(ステップS228)，送金処理が完了した旨の通知を前記店頭端末機42に対して送信する(ステップS230)。
+        店頭端末機42は，上記通知を受信すると(ステップS232)，変額処理手段426によって通常状態13aのプリペイド金額131を上記補充金額分だけ増額処理する(ステップS234)。
+        この後，店頭端末機42が現行暗号キーを得てプリペイド金額131が増額された通常情報13aを暗号化し，各情報を携帯電話機10に送信し，さらにこれら各情報を受信した携帯電話機10が記憶手段13に記憶する一連の処理(ステップS236～S250)は，・・・重複説明を省略する。
+        店頭端末機42は，これら一連の処理が終了すれば，携帯電話機10に対して処理完了通知を送信し(ステップS252)，携帯電話機10がこれを受信することによって，携帯電話機10は店頭端末機42から開放され(ステップS254)，・・・現金支払いによるプリペイド金額131の補充処理が終了する。
+        なお，この現金支払いによるプリペイド金額131の補充処理は，銀行システム30の銀行端末機32を介しても，上述した店頭端末機42を介して行う場合と同様にして行うことができる。この場合，ユーザから支払われる現金は直接銀行に(銀行システム側に)入金されるため，電話局口座311への補充金額の入金処理は，銀行サーバ31が備える入金処理手段315によって行われる。」(段落【0096】～【0106】)
+        (ウ)「▲3▼口座振替によるプリペイド金額の補充処理(図11，図12)図11および図12は，店頭端末機42を介してユーザの銀行口座(利用者口座312)の預金からの口座振替処理により，携帯電話機10のプリペイド金額131を補充する場合の処理手順を示している。
+        この口座振振替によるプリペイド金額131の補充処理は，予めユーザが携帯電話機10を店頭端末機42の近くに位置させ，携帯電話機10と店頭端末機42との有線通信手段(短距離通信手段)12，422が有するコネクタ121，421を接続することによって両者が通信可能な状態とすることが前提条件となる。
+        この状態で，ユーザが携帯電話機10に口座振替によってプリペイド金額131の補充処理を行う旨を要求し，携帯電話機10がこれを受理することによって，口座振替によるプリペイド金額131の補充処理が開始される(ステップS300)。
+        携帯電話機10は，プリペイド金額補充処理の要求とともに，携帯電話機10内の記憶手段13に記憶されている制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信する(ステップS302)。
+        店頭端末機42が上記各情報を受信したのち(ステップS304)，受信した通常情報13aと秘匿情報13bとを照合するまでの一連の処理(ステップS306～S320)は，・・・重複説明を省略する。
+        受信した通常情報13aと秘匿情報13bとの照合結果が整合する場合には(ステップS318で整合側へ)，利用者口座312からの口座振替によりプリペイド金額131に補充する補充金額が，携帯電話機10のユーザによって店頭端末機42の入力手段423に入力される(ステップS322)。
+        店頭端末機42は，上記補充金額が入力されると，・・・前記補充金額を利用者口座312から電話局口座311へ送金する処理の要求を銀行システム30(正確には銀行サーバ31)に対して送信する(ステップS324)。
+        銀行サーバ31は，上記要求を受信すると(ステップS326)，利用者口座312の残高が前記補充金額以上であるか否かを判定し(ステップS328)，利用者口座312の残高が不足であれば，上記要求に応じる送金処理は不可能である通知を店頭端末機42に送信する(ステップS330)。
+        店頭端末機42は，この通知を受信すると(ステップS332)，口座振替によるプリペイド金額131の補充処理手続きを停止し(ステップS334)，手続きを終了する。
+        一方，利用者口座312の残高が前記補充金額以上あれば，銀行サーバ31は，送金処理手段316により，利用者口座312から電話局口座311へ上記補充金額の送金処理を行い(ステップS336)，送金処理が完了した旨の通知を前記店頭端末機42に対して送信する(ステップS338)。
+        店頭端末機42は，上記通知を受信すると(ステップS340)，変額処理手段426によって通常状態13aのプリペイド金額131を上記補充金額分だけ増額処理する(ステップS342)。
+        この後，店頭端末機42が現行暗号キーを得てプリペイド金額131が増額された通常情報13aを暗号化し，各情報を携帯電話機10に送信し，さらにこれら各情報を受信した携帯電話機10が記憶手段13に記憶する一連の処理(ステップS344～S358)は，・・・重複説明を省略する。
+        店頭端末機42は，これら一連の処理が終了すれば，携帯電話機10に対して処理完了通知を送信し(ステップS360)，携帯電話機10がこれを受信することによって，携帯電話機10は店頭端末機42から開放され(ステップS362)，・・・口座振替によるプリペイド金額131の補充処理が終了する。
+        なお，この口座振替によるプリペイド金額131の補充処理は，銀行システム30の銀行端末機32を介しても，上述した店頭端末機42を介して行う場合と同様にして行うことができる。」(段落【0107】～【0120】)
+        (エ)「▲7▼現金支払いによる電子マネー金額の補充処理(図19，図20)図19および図20は，商店の店頭において現金を支払うことにより，店頭端末機42を介して携帯電話機10の電子マネー金額を補充する場合の処理手順を示している。
+        この現金支払いによる電子マネー金額132の補充処理の一連の手順(ステップS700～S754)は，図9および図10に示す上述した現金支払いによるプリペイド金額131の補充処理における一連の処理手順(ステップS200～S254)において，プリペイド金額131を電子マネー金額132に置き換えるだけで同一の処理手順であるので，重複説明を省略する。
+        なお，この現金支払いによる電子マネー金額132の補充処理は，銀行システム30の銀行端末機32を介しても，上述した店頭端末機42を介して行う場合と同様にして行うことができる。この場合，ユーザから支払われる現金は直接銀行に(銀行システム側に)入金されるため，電話局口座311への補充金額の入金処理は，銀行サーバ31が備える入金処理手段315によって行われる。」(段落【0155】～【0157】)
+        (オ)「▲8▼口座振替による電子マネー金額の補充処理(図21，図22)図21および図22は，店頭端末機42を介してユーザの銀行口座(利用者口座312)の預金からの口座振替処理により，携帯電話機10の電子マネー金額132を補充する場合の処理手順を示している。
+        この口座振替による電子マネー金額132の補充処理の一連の手順(ステップS800～S862)は，図11および図12に示す上述した口座振替によるプリペイド金額131の補充処理における一連の処理手順(ステップS300～S362)において，プリペイド金額131を電子マネー金額132に置き換えるだけで同一の処理手順であるので，重複説明を省略する。
+        なお，この口座振替による電子マネー金額132の補充処理は，銀行システム30の銀行端末機32を介しても，上述した店頭端末機42を介して行う場合と同様にして行うことができる。」(段落【0158】～【0160】)
+        (カ)「以上，本発明を実施形態に即して説明したが，本発明にかかる移動通信体システムは，上記実施形態に限定されるものではなく，以下のように構成してもよい。」(段落【0177】)
+        (キ)「(4) 同様に，上記実施形態においては，現金支払いによる電子マネー金額の補充処理において，制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信した後に，補充金額が入力手段423に入力される例を示したが，補充金額が入力手段423に入力されることに応じて，制御手段134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信する構成としてもよい。この場合，例えば，ステップS702で，携帯電話機10は，電子マネー金額補充処理の要求を店頭端末機42に送信して，ステップS704で，店頭端末機42が上記補充処理の要求を受信したところで，ステップS722の補充金額の入力を実行した後に，ステップS702の他の情報，すなわち，制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信するフローとすることができる。」(段落【0179】)
+      イ
+        (ア)
+          上記アによれば，訂正発明1の主たる実施形態として記載されている補充処理の手順は，次のとおりである。
+          a 現金支払による補充処理の場合(下記(b)により補充処理が開始され，下記(l)により補充処理が終了するとされている。)
+            (a)
+              ユーザが携帯電話機を店頭端末機と短距離通信可能な状態に置くこと。
+            (b) ユーザによる旨の入力
+            (c) 携帯電話機から店頭端末機への情報(補充処理要求がされたこと，通常情報等)の送信
+            (d) 店頭端末機における通常情報等の照合
+            (e) 端末操作者による店頭端末機への金額の入力
+            (f) 商店口座から電話局口座への送金要求の，店頭端末機から銀行サーバへの送信
+            (g) 銀行サーバによる送金処理及び店頭端末機への送金処理完了通知の送信(h) 店頭端末機によるプリペイド金額又は電子マネー金額(以下「電子マネー金額等」という。)の増額処理(補充金額分)
+            (i) 店頭端末機から携帯電話機への情報(電子マネー金額等の増額情報)の送信
+            (j) 携帯電話機による上記(i)の情報の記憶
+            (k) 店頭端末機から携帯電話機への処理完了通知の送信
+            (l) 携帯電話機の店頭端末機からの解放
+              なお，これらの補充処理が銀行端末機を介して行われる場合には，上記の各「店頭端末機」が「銀行端末機」に，上記(f)の「商店口座から電話局口座への送金要求」が「電話局口座への入金要求」に，上記(g)の「銀行サーバによる送金処理」が「銀行サーバによる入金処理」に，「送金処理完了通知」が「入金処理完了通知」にそれぞれ置き換えられることになる。
+          b 口座振替による補充処理(ユーザの口座残高が不足している場合は省略する。)の場合(下記(b)により補充処理が開始され，下記(l)により補充処理が終了するとされている。)
+            (a)
+              上記a(a)と同じ。
+            (b)
+              上記a(b)と同じ。
+            (c)
+              上記a(c)と同じ。
+            (d)
+              上記a(d)と同じ。
+            (e) ユーザによる店頭端末機への金額の入力
+            (f) ユーザ口座から電話局口座への送金要求の，店頭端末機から銀行サーバへの送信
+            (g) 銀行サーバによる送金処理及び店頭端末機への送金処理完了通知の送信
+            (h)
+              上記a(h)と同じ。
+            (i)
+              上記a(i)と同じ。
+            (j)
+              上記a(j)と同じ。
+            (k)
+              上記a(k)と同じ。
+            (l)
+              上記a(l)と同じ。
+              なお，これらの補充処理を銀行端末機を介して行う場合には，上記の各「店頭端末機」が「銀行端末機」に置き換えられることになる。
+        (イ)
+          また，訂正発明1の他の可能な実施形態として記載されている補充処理(現金支払による電子マネー金額の補充処理)の手順は，次のとおりである。
+          a
+            上記(ア)a(a)と同じ。
+          b
+            上記(ア)a(b)と同じ。
+          c 携帯電話機から店頭端末機への情報(補充処理要求がされたこと)の送信
+          d 端末操作者による店頭端末機への金額の入力
+          e 携帯電話機から店頭端末機への情報(通常情報等)の送信
+          f
+            上記(ア)a(d)と同じ。
+          g
+            上記(ア)a(f)と同じ。
+          h
+            上記(ア)a(g)と同じ。
+          i
+            上記(ア)a(h)と同じ。
+          j
+            上記(ア)a(i)と同じ。
+          k
+            上記(ア)a(j)と同じ。
+          l
+            上記(ア)a(k)と同じ。
+          m
+            上記(ア)a(l)と同じ。
+    (3)
+      上記(1)及び(2)のとおり，訂正発明1の本件補充処理手順要件(請求項1)からは，補充処理が開始されるための条件として，旨の入力及び金額の入力の双方が必要になると理解することはできないし，訂正明細書においては，かえって，ユーザが，携帯電話機を店頭端末機と短距離通信可能な状態に置いた上，旨の入力をした段階で補充処理が開始されると記載されているのであるから(なお，上記(2)イ(イ)の他の可能な実施形態においても，その記載内容に照らし，訂正明細書は，上記の段階で補充処理が開始されるとの立場を採っているものと認められる。)，旨の入力及び金額の入力の双方が補充処理の開始の条件であるとの前提に立って，補充処理に係る原告主張相違点が訂正発明1と刊行物発明との相違点である旨をいう取消事由1は，その前提を欠くものとして失当である。
+    (4)
+      なお，取消事由1を，「本件審決には，『訂正発明1は，旨の入力及び金額の入力の2つの条件が満たされて初めて補充処理が行われ得るのに対し，刊行物発明はそのようになっていない点』との相違点を看過した誤りがある。」との趣旨であると善解したとしても，本件審決は，前記第2の3(3)ア(イ)のとおり，訂正発明1が，その補充処理について，金額の入力(相違点5)及び旨の入力(相違点9)の各構成を有するのに対し，刊行物発明はこれらの構成を有しない旨認定しているのであるから，この点からみても，本件審決に，上記のような相違点の看過はない。
+    (5)
+      ア
+        原告は，本件審決が相違点5と相違点9を別個の相違点として認定したことが誤りであると主張する。
+        確かに，旨の入力及び金額の入力は，いずれも，訂正発明1を特徴付ける構成要素ではあるが，その内容に照らすと，これらにつき別個の相違点として認定・判断をしても，訂正発明1の全体としての技術的思想が損なわれたり変容させられたりするものではないと認められるから，原告の上記主張を採用することはできない。
+      イ
+        原告は，「相違点5に係る訂正発明1の構成のポイントは，相違点9に係る訂正発明1の構成である『旨の入力』を決済中ではなく事前にしておくことにより，その後，移動通信体側では，何らの手順も要せず，移動通信体を端末機と短距離通信可能な状態に置きさえすれば決済が行われること，すなわち，補充金額を一々確認し，承認した上での決済処理が不要であるという『移動通信体側における手順の不要性』を表現している点にあるから，相違点5及び9を分離して認定した本件審決は誤りである。」と主張するが，前記(2)イのとおり，ユーザにとっては，「旨の入力」のほか，現金支払による補充処理の場合には現金の支払(その際，ユーザは，当然，金額を確認した上で支払をするはずである。)が，口座振替による補充処理の場合には金額の入力(その際，ユーザは，当然，金額を確認しながら入力をするはずである。)がそれぞれ別個の手順として必要とされるのであるから，原告の上記主張は，旨の入力と金額の入力とを，訂正発明1における密接不可分の構成と解さなければならない根拠となるものではなく，採用の限りでない。
+      ウ
+        なお，原告は，「訂正発明1において旨の入力の構成を付加したことにより，訂正前の請求項1における『前記端末機と短距離通信可能な状態で，前記移動通信体または前記端末機に前記補充金額が入力されることに応じて，・・・電子マネー金額を・・・前記端末機に送信し』との構成の内容が変更された」旨主張するが，仮に，そうであるとしても，相違点5及び9について，別個の相違点として認定・判断をした本件審決が誤りである旨をいう原告の主張を採用することはできないとの前記結論を何ら左右するものではない。
+    (6)
+      以上のとおりであるから，補充処理に係る原告主張相違点の看過をいう取消事由1は，理由がない。
+  2 取消事由2(支払処理に係る原告主張相違点の看過)について
+    原告は，本件審決には，支払処理に係る原告主張相違点を看過した誤りがあると主張するので，以下，検討する。
+    (1) 訂正発明1における支払処理の手順に関する構成要件について
+      ア
+        前記第2の2(2)のとおり，訂正発明1における支払処理の手順に係る構成要件(以下「本件支払処理手順要件」という。)は，次のとおりである。
+        「商店に支払う支払い金額を前記電子マネー金額から支払い処理する際には」(ア)「支払い処理を行う旨が前記キーボードを介して入力され」
+        (イ)「前記端末機と短距離通信可能な状態で，前記端末機に前記支払い金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し」
+        (ウ)「新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し」(エ)「受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶する」
+      イ
+        上記アのとおり，本件支払処理手順要件中には，原告が主張する「支払処理が開始されるためには，①支払処理を行う旨が入力されること(以下，この項(2項)において，『旨の入力』という。)，②(端末機と短距離通信可能な状態で，)支払金額が入力されること(以下，この項(2項)において，『金額の入力』という。)，の2つの条件が必要である」との特定はみられない(かえって，本件支払処理手順要件の内容に照らすと，「支払い処理を行う旨が前記キーボードを介して入力され」との要件及び「前記端末機と短距離通信可能な状態で」との要件が満たされた時，すなわち，移動通信体が端末機と短距離通信可能な状態に置かれ，旨の入力がされた時点において，支払処理が開始されるものと理解するのが自然であると認められる。)。
+    (2) 訂正明細書の発明の詳細な説明における支払処理の手順に関する記載について
+      ア
+        訂正明細書の発明の詳細な説明には，以下の各記載がある。
+        (ア)「前記銀行サーバ31は，・・・各携帯電話機10内に記憶される電子マネー金額をプールするための当座口座313・・・を有している。」(段落【0070】)(イ)「▲6▼電子マネーによる支払い処理(図16～図18)
+        図16～図18は，商店において買い物をしたユーザが，該商店の店頭に設置された店頭端末機42を介して，携帯電話機10内の電子マネーによって支払いを行う場合の処理手順を示している。
+        この電子マネーによる支払い処理は，予めユーザが携帯電話機10を店頭端末機42の近くに位置させ，携帯電話機10と店頭端末機42との有線通信手段(短距離通信手段)12，422が有するコネクタ121，421を接続することによって両者が通信可能な状態とすることが前提条件となる。
+        この状態で，ユーザが携帯電話機10に電子マネーによる支払い処理を行う旨を，携帯電話機10のキーボード(入力手段)15に入力することで要求し，携帯電話機10がこれを受理することによって，電子マネーによる支払い処理が開始される(ステップS600)。
+        携帯電話機10は，電子マネーによる支払い要求とともに，携帯電話機10内の記憶手段13に記憶されている制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信する(ステップS602)。
+        店頭端末機42が上記各情報を受信したのち(ステップS604)，受信した通常情報13aと秘匿情報13bとを照合するまでの一連の処理(ステップS606～S620)は，・・・重複説明を省略する。
+        受信した通常情報13aと秘匿情報13bとの照合結果が整合する場合には(ステップS618で整合側へ)，店頭端末機42は，出力手段4248(判決注：『428』の誤記である。)によりユーザに対して暗唱番号を要求し(ステップS622)，入力手段423に入力された暗唱番号が受理されれば(ステップS624)，店頭端末機42は，入力された暗唱番号と，携帯電話機10から受信した暗唱番号133とを照合する(ステップS626)。
+        この照合結果が不一致であれば，支払いを行おうとするユーザがこの携帯電話機10の正規ユーザでないと判断され，この電子マネーによる支払い処理手続きが停止される(ステップS628)。
+        一方，前記照合結果が一致すれば，店頭端末機42は，店員に対して，出力手段428によりユーザが支払うべき支払金額の入力を要求し(ステップS630)，入力手段423に入力された支払金額が受理されれば(ステップS632)，店頭端末機42は，携帯電話機10から受信した電子マネー金額132が入力された支払い金額以上であるか否か，すなわち，支払い可能であるか否かを判断し(ステップS634)，支払い不可能であれば，電子マネー金額の残額が不足する旨を報知して，電子マネーによる支払い処理を終了する。
+        一方，支払い可能である場合には，出力手段428によりユーザに対して支払い金額の確認を要求する(ステップS638)。この確認の結果，ユーザが支払いを拒めば(ステップS640でＮO)，電子マネーによる支払い処理手続きを終了する(ステップS642)。
+        ユーザの確認結果がOKであれば(ステップS640でYES)，店頭端末機42は，・・・前記支払金額を当座口座313から商店口座314へ送金する処理の要求を銀行システム30(正確には銀行サーバ31)に対して送信する(ステップS644)。
+        銀行サーバ31は，上記要求を受信すると(ステップS646)，送金処理手段316により，当座口座313から商店口座314へ上記支払金額の送金処理を行い(ステップS648)，送金処理が完了した旨の通知を前記店頭端末機42に対して送信する(ステップS650)。
+        店頭端末機42は，上記通知を受信すると(ステップS652)，変額処理手段426によって通常状態13aの電子マネー金額132を上記支払金額分だけ差し引く減額処理を行う(ステップS654)。
+        この後，店頭端末機42が現行暗号キーを得て電子マネー金額132が減額された通常情報13aを暗号化し，各情報を携帯電話機10に送信し，さらにこれら各情報を受信した携帯電話機10が記憶手段13に記憶する一連の処理(ステップS656～S670)は，・・・重複説明を省略する。
+        店頭端末機42は，これら一連の処理が終了すれば，携帯電話機10に対して処理完了通知を送信し(ステップS672)，携帯電話機10がこれを受信することによって，携帯電話機10は店頭端末機42から開放され(ステップS674)，・・・電子マネーによる支払い処理が終了する。」(段落【0141】～【0154】)
+        (ウ)「以上，本発明を実施形態に即して説明したが，本発明にかかる移動通信体システムは，上記実施形態に限定されるものではなく，以下のように構成してもよい。」(段落【0177】)
+        (エ)「(3) 上記実施形態においては，電子マネーによる支払い処理において，制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信した後に，入力手段423に入力された支払金額が受理される例を示したが，入力手段423に入力された支払金額が受理されることに応じて，制御手段134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信する構成としてもよい。この場合，例えば，ステップS602で，携帯電話機10は，電子マネーによる支払い要求を店頭端末機42に送信して，ステップS604で，店頭端末機42が上記支払い要求を受信したところで，ステップS630及びステップS632の支払金額の入力要求及び受理を実行した後に，ステップS602の他の情報，すなわち，制御情報134，通常情報13aおよび秘匿情報13bを店頭端末機42に送信するフローとすることができる。」(段落【0179】)
+      イ
+        (ア)
+          上記アによれば，訂正発明1の主たる実施形態として記載されている支払処理の手順(暗証番号の照合結果が不一致である場合，携帯電話機内の電子マネー金額が不足している場合及びユーザが支払を拒む場合は省略する。)は，次のとおりである(下記bにより支払処理が開始され，下記oにより支払処理が終了するとされている。)。
+          a
+            ユーザが携帯電話機を店頭端末機と短距離通信可能な状態に置くこと。
+          b ユーザによる旨の入力
+          c 携帯電話機から店頭端末機への情報(電子マネーによる支払要求がされたこと，通常情報等)の送信
+          d 店頭端末機における通常情報等の照合
+          e ユーザによる店頭端末機への暗証番号の入力
+          f 店頭端末機における暗証番号の照合
+          g 店員による店頭端末機への金額の入力
+          h ユーザによる店頭端末機に出力された支払金額の確認
+          i 当座口座から商店口座への送金要求の，店頭端末機から銀行サーバへの送信j 銀行サーバによる送金処理及び店頭端末機への送金処理完了通知の送信
+          k 店頭端末機による電子マネー金額の減額処理(支払金額分)
+          l 店頭端末機から携帯電話機への情報(電子マネー金額の減額情報)の送信
+          m 携帯電話機による上記lの情報の記憶
+          n 店頭端末機から携帯電話機への処理完了通知の送信
+              o 携帯電話機の店頭端末機からの解放
+        (イ)
+          また，訂正発明1の他の可能な実施形態として記載されている支払処理の手順は，次のとおりである。
+          a
+            上記(ア)aと同じ。
+          b
+            上記(ア)bと同じ。
+          c 携帯電話機から店頭端末機への情報(電子マネーによる支払要求がされたこと)の送信
+          d 店員による店頭端末機への金額の入力
+          e 携帯電話機から店頭端末機への情報(通常情報等)の送信
+          f
+            上記(ア)dと同じ。
+          g
+            上記(ア)eと同じ。
+          h
+            上記(ア)fと同じ。
+          i
+            上記(ア)hと同じ。
+          j
+            上記(ア)iと同じ。
+          k
+            上記(ア)jと同じ。
+          l
+            上記(ア)kと同じ。
+          m
+            上記(ア)lと同じ。
+          n
+            上記(ア)mと同じ。
+              o
+                上記(ア)nと同じ。
+              p
+                上記(ア)oと同じ。
+    (3)
+      上記(1)及び(2)のとおり，訂正発明1の本件支払処理手順要件(請求項1)からは，支払処理が開始されるための条件として，旨の入力及び金額の入力の双方が必要になると理解することはできないし，訂正明細書においては，かえって，ユーザが，携帯電話機を店頭端末機と短距離通信可能な状態に置いた上，旨の入力をした段階で支払処理が開始されると記載されているのであるから(なお，上記(2)イ(イ)の他の可能な実施形態においても，その記載内容に照らし，訂正明細書は，上記の段階で支払処理が開始されるとの立場を採っているものと認められる。)，旨の入力及び金額の入力の双方が支払処理の開始の条件であるとの前提に立って，支払処理に係る原告主張相違点が訂正発明1と刊行物発明との相違点である旨をいう取消事由2は，その前提を欠くものとして失当である。
+    (4)
+      なお，取消事由2を，「本件審決には，『訂正発明1は，旨の入力及び金額の入力の2つの条件が満たされて初めて支払処理が行われ得るのに対し，刊行物発明はそのようになっていない点』との相違点を看過した誤りがある。」との趣旨であると善解したとしても，本件審決は，前記第2の3(3)ア(イ)のとおり，訂正発明1が，その支払処理について，金額の入力(相違点2)及び旨の入力(相違点8)の各構成を有するのに対し，刊行物発明はこれらの構成を有しない，又は有するかどうか明らかでない旨認定しているのであるから，この点からみても，本件審決に，上記のような相違点の看過はない。
+    (5)
+      ア
+        原告は，本件審決が相違点2と相違点8を別個の相違点として認定したことが誤りであると主張する。
+        確かに，旨の入力及び金額の入力は，いずれも，訂正発明1を特徴付ける構成要素ではあるが，その内容に照らすと，これらにつき別個の相違点として認定・判断をしても，訂正発明1の全体としての技術的思想が損なわれたり変容させられたりするものではないと認められるから，原告の上記主張を採用することはできない。
+      イ
+        原告は，「相違点2に係る訂正発明1の構成のポイントは，相違点8に係る訂正発明1の構成である『旨の入力』を決済中ではなく事前にしておくことにより，その後，移動通信体側では，何らの手順も要せず，移動通信体を端末機と短距離通信可能な状態に置きさえすれば決済が行われること，すなわち，支払金額を一々確認し，承認した上での決済処理が不要であるという『移動通信体側における手順の不要性』を表現している点にあるから，相違点2及び8を分離して認定した本件審決は誤りである。」と主張するが，前記(2)イのとおり，ユーザにとっては，「旨の入力」のほか，店頭端末機への暗証番号の入力及び店頭端末機に出力された支払金額の確認がそれぞれ別個の手順として必要とされるのであるから，原告の上記主張は，旨の入力と金額の入力とを，訂正発明1における密接不可分の構成と解さなければならない根拠となるものではなく，採用の限りでない。
+    (6)
+      以上のとおりであるから，支払処理に係る原告主張相違点の看過をいう取消事由2は，理由がない。
+  3 取消事由3(訂正発明1の同一処理手順の構成についての判断の誤り)について
+    原告は，「支払い処理と補充処理とを個々に指示し，同一の手順によって両処理を実現することは，当業者が容易に想到し得ることである。」との本件審決の判断に誤りがあると主張するので，以下，検討する。
+    (1) 補充処理に係る刊行物発明の構成について
+      本件審決が認定した刊行物発明の構成は，前記第2の3(2)のとおりであり，この認定は，当事者間に争いがないところ，当該認定によれば，刊行物発明における補充処理は，支払処理が行われる場合であって，電子ウォレット内の電子現金の残高が不足するときに，不足額又は所定の最小補充額のいずれか大きい方の額の電子現金が補充されるというものであるといえる。したがって，刊行物発明における補充処理は，支払処理の際の付随的な処理として支払処理中に組み込まれたものであって，支払処理と独立したものではなく，また，その処理手順も，支払処理のそれと同一のものではないということになる。
+    (2) 補充処理に関する本件優先日前における技術水準について
+      ア 刊行物等の記載
+        (ア)「ICカードシステム」と称する発明に関する刊行物9(昭和63年2月12日公開)には，以下の各記載がある。
+        a「2．特許請求の範囲
+        個人毎の普通口座とICカード口座を記憶した記憶手段を有するメイン銀行と，このメイン銀行にオンラインで接続される入出力端末と，この入出力端末に装着されるICカードとを具備し，上記入出力端末を介したICカードとメイン銀行とのデータのやりとりによりICカードを用いた各種取引を可能としたことを特徴としたICカードシステム。」(1頁左欄4～12行)
+        b「このように構成した実施例の動作を説明する。
+        第4図はICカード10を使用した各種の機能を説明するものである。」(5頁右上欄下から3行～左下欄1行)
+        c「［入金→ICカード口座］
+        次に，『入金』A5において現金をICカード口座に入金するステップA52の場合を第6図により説明する。この場合，マニュアル操作によりステップA52aにおいてATM2aの現金投入口より現金を投入する。すると，ATM2aではステップA52bにおいて投入された現金の精査が実行され，ステップA52cにおいてこのときの金額が表示される。・・・。
+        ・・・ステップA52dでは，表示金額が正しいか否かが・・・判断される。・・・。
+        ・・・表示金額が正しいと判断されると，この判断情報がICカード10側に送られ，ステップA52fに進む。このステップA52fでは，ICカード10のストレージメモリ23より『店番号』『口座番号』『科目・・・』のデータが読出される。そして，ICカード10より読出された各データはATM2aに送られ，ステップA52gに進む。
+        このステップA52gでは，ICカード10からのデータにATM2aでの投入金額情報が付加され，これがメイン銀行1のホストコンピュータ1aに送られる。これにより，ステップA52hにおいて・・・自己のICカード口座が指定され，この口座内容が入金された金額だけ更新される。また，この更新情報はICカード10側に送られ，ステップA52iにおいてストレージメモリ23に対して残高の更新が行なわれ・・・る。」(6頁左上欄下から8行～左下欄8行)
+        d「［普通口座→ICカード口座］
+        次に，『振替』A7において自己の普通口座よりICカード口座に現金を振替えるステップA72の場合を第10図により説明する。この場合，マニュアル操作によりステップA72aにおいて振替金額(x)を入力する。すると，ATM2aではステップA72bにおいて，このときの金額(x)が表示される。・・・。
+        ・・・ステップA72cでは，表示金額が正しいか否かが判断される。・・・。
+        ・・・表示金額が正しいと判断されると，この判断情報がICカード10側に送られ，ステップA72dに進む。このステップA72dでは，ICカード10のストレージメモリ23より『店番号』『口座番号』『科目・・・』のデータが読出される。そして，ICカード10より読出された各データはATM2aに送られ，ステップA72eに進む。
+        このステップA72eでは，ICカード10からのデータにATM2aでの振替え金額情報が付加され，これがメイン銀行1のホストコンピュータ1aに送られる。これにより，ステップA72fにて自己の普通口座の残高(y)が読出される。そして，ステップA72gに進み，振替え金額(x)と普通口座の残高(y)との関係が比較される。・・・(x)≦(y)の関係が成立てば，ステップA72hに進み，振替え作業が実行される。
+        この場合，普通口座の内容が振替え金額(x)に相当するだけICカード口座に振替えられ，ステップA72iにおいてICカード口座に対応するファイル内容が『z＋x』に更新される。
+        そして，この更新情報はICカード10側に送られ，ステップA72jにおいてカード内残高(z)が更新され・・・る。」(8頁右上欄10行～右下欄下から9行)
+        e「［デビットカードとしての使用］
+        次に，第4図において，ICカード10をスーパーなどの店舗に設置されたICカード・リーダ・ライタ30に装着してオフラインにて取引を行なう場合を説明する。この場合，第20図に示すようにICカードリーダ・ライタ30は買物金額を集計するレジスタ70に接続され，この間でデータのやりとりが行なわれる。・・・ステップB2においてICカード10をリーダ・ライタ30に装着する。そして，ステップB3においてカード認証が行なわれ，ステップB4において自己の暗証番号の入力が要求され，これ以降の動作に進む。
+        この状態で，デビットカードとして使用するステップB51の場合を第17図により説明する。この場合，ICカード10のストレージメモリ23のデビットエリア231より固定情報231a，残高情報231b，利用情報231cが読出され，ICカードリーダ・ライタ30に送られる。そして，ステップB51aにてレジスタ70より買物金額を出力すると，ステップB51bにおいてリーダ・ライタ30に買物金額(s)が入力される。そして，ステップB51cに進み，この買物金額(s)と残高とを比較する。・・・ステップB51cにおいて，(s)≦残高の関係が得られると，ステップB51hに進み，取引データがレジスタ70側に送られる。・・・。
+        ・・・ステップB51lにおいてICカード10の残高を更新したのち，・・・処理を終了する。」(11頁左下欄下から4行～12頁右上欄7行)
+(イ) 
+  「取引システム，銀行自動取引装置，決算端末装置，引出取引方法，預入取引方法及び振込取引方法」と称する発明に関する刊行物8(平成2年1月5日公開)には，以下の各記載がある。
+  a「この発明の目的は，現金を必要としない銀行取引や商取引を可能にする取引システムを提供することにある。」(4頁左上欄下から6～4行)
+  b「さらに，この発明の他の目的は，一般商取引に用いられ，商店等に設置される決算端末装置であって，現金取扱機構を備えていない決算端末装置を提供することにある。」(4頁右上欄9～12行)
+  c「〔実施例〕
+  第1図は，この発明に基づいて行われる取引の概要を示す説明図である。第1図において，A銀行の支店1aに開設されている口座からの預金の引出取引は，ICカード4内の記憶領域に，引き出される金額に相当するデータ(以下現金データという)を，書き込むことによって行われる。・・・ICカード4を所有している顧客Cが商店5において買い物を行う場合，その支払いはICカード4内の記憶領域に格納されている現金データから商品購入金額に相当するデータを減算することによって行われる。商店5における上記のICカード4のデータ処理は，商店5内に設けられている。(判決注：『，』の誤記である。)決算端末装置6によって行われる。決算端末装置6はA銀行のホストコンピュータ2aと通信回線9を介して接続されており，商品購入金額に相当するデータはホストコンピュータ2aの記憶領域に格納されている顧客Cの所有している口座との間で決算処理される。決算処理の後，商品購入金額に相当する金額がA銀行1aに設けられている顧客Cの口座からB銀行1bに設けられている商店3(判決注：『商店5』の誤記である。)の口座に振り込まれる。」(4頁右下欄9行～5頁左上欄下から3行)
+(ウ) 
+  「プリペイドカードシステム」と称する発明に関する特開平2−259985号公報(平成2年10月22日公開。丙2。以下「丙2刊行物」という。)には，以下の各記載がある。
+  a「［産業上の利用分野］
+  この発明はプリペイドカードシステムに関し，特に，プリペイドカードとして用いられるICカードと，該ICカードを用いて商品販売代金の精算を行なう取引処理装置とからなるプリペイドカードシステムに関する。」(1頁右欄下から9～4行)
+  b「この発明は・・・加盟店でプリペイド残高の増額および減額を可能とすることにより，簡素なプリペイドカードシステムを提供することを目的とする。」(2頁左下欄下から7～3行)
+  c「プリペイド残高の振替について説明する。利用者12は，加盟店Aを訪れプリペイドカード13を提示して所定の現金を支払い，プリペイド残高への振替を依頼する。店員は現金を受取り，レジスタ15のカード挿入口23にプリペイドカード13を挿入し，キーボード25により振替金額を入力する。このとき，店員はプリペイド残高の振替を行なうことを指定するために，プリペイドキー251を操作する。レジスタ15は，プリペイドカード13のプリペイド残高(A)を読取り，上記振替金額を加算し，プリペイド残高を更新する。更新後のプリペイド残高をプリペイドカード13のプリペイド残高(A)に書込む。・・・。
+  次に，プリペイドカードによる売上げ代金の精算について説明する。利用者12は，加盟店Aで商品を購入し，プリペイドカード13を提示して支払いを依頼する。店員はレジスタ15のカード挿入口23にプリペイドカード13を挿入し，キーボード25により売上げ金額を入力する。このとき，店員は売上げ代金の精算を行なうことを指定するため，ショッピングキー252を操作する。レジスタ15はプリペイドカード13のプリペイド残高(A)を読取り，上記売上げ金額と比較する。・・・プリペイド残高が売上げ金額に等しいかまたは大きければ，プリペイド残高から売上げ金額を減算し，プリペイド残高を更新する。更新後のプリペイド残高をプリペイドカード13のプリペイド残高(A)に書込む。」(4頁左上欄1行～右上欄下から8行)
+(エ) 
+  「ICカードとその処理システム」と称する発明に関する刊行物13(平成5年10月15日公開)には，以下の各記載がある。
+  a「たとえば，スーパーマーケットにおいては，購入しようとする物品がレジに持ち込まれると，係員によりその合計金額が算出される。また，このときに，顧客の所有するキャッシュレスICカード10が，顧客より係員に差し出される。
+  この場合，キャッシュレスICカード10は，あらかじめ顧客によって入力部11のテンキー13を用いて暗証番号が入力されることにより，その入力された暗証番号がICカード10に設定登録してある暗証番号・・・と比較され，一致が確認された場合にのみ支払い可能状態とされるようになっている。
+  この支払い可能状態とされたICカード10が，係員によってレジスタ20内に挿入されると，たとえばカード支払いキー・・・の投入に応じて，ICカード10内・・・に記憶されている残高情報が接続部17を介して読み取られる。そして，この残高情報と支払い額(物品の合計金額)とが比較され，もし支払い額が残高情報以下の場合には，その支払い額が残高情報より減算される。
+  このとき，残高情報から支払い額を引き去った新残高情報が接続部17を介してICカード10に送信されることにより，記憶部16・・・の残高情報の更新が行われる。
+  この後，ICカード10がレジスタ20より排出され，顧客に返却されることにより，支払い取り引きは終了される。そして，たとえば顧客によって支払い可能状態が解除されて，ICカード10は顧客により所持されることになる。」(段落【0024】～【0028】)b「ICカード10による支払いによってカード残高が少なくなってくると，顧客によってキャッシュレスICカード10がATM30のところに持ち込まれる。そして，ICカード10および通帳などがATM30に挿入され，さらに『装填メニュー・・・』の処理が選択される。
+  すると，ICカード10内・・・に記憶されている口座番号情報が，接続部17を介して読み取られる。そして，この口座番号情報にしたがって顧客ファイル31が照会され，当該口座番号に対応する口座残高が読み出される。
+  また，ICカード10内・・・に記憶されている残高情報が，接続部17を介して読み取られる。そして，装填可能額情報と残高情報との差額が算出されるとともに，その差額と上記の口座残高とが比較される。」(段落【0030】～【0032】)
+  c「もし，差額が口座残高以下の場合にはその差額が口座残高より引き落とされ，そしてそれが接続部17を介してICカード10に通知されることにより，・・・残高情報が装填可能額情報によって書き換えられる。
+  ・・・。そして，ICカード10および通帳などがATM30より排出されることにより，この装填処理は終了される。
+  こうして，ICカード10の残高が装填可能額情報との差額に相当する金額情報によって補填されることにより，当該カード10は新たに上記の装填可能額に応じた限度での支払いが可能となる。」(段落【0034】～【0036】)
+(オ) 
+  沖電気工業株式会社のホームページに掲載された「国内初，電子マネー関連機器を応用した商店街ICカードシステム，長野県駒ヶ根市にて稼働開始」と題する1996(平成8)年10月8日付けプレスリリース(遅くとも同月末までに公衆利用可能。乙6)には，以下の各記載がある。
+  a「沖電気工業株式会社・・・は，このたび長野県駒ヶ根市の駒ヶ根スタンプ協同組合・・・および赤穂信用金庫・・・の協力のもと，電子マネー関連機器であるワレット(電子財布)やバランスリーダ(残高表示器)を組み込んだ商店街ICカードシステムを構築し，納入しました。10月10日より稼働を開始します。」(1丁本文1～6行)
+  b「今回納入した商店街カードシステムは，・・・ICカードに，プリペイド型電子マネー・・・を蓄積し，商店街での買い物に利用するものです。」(1丁本文10～13行)c「現金で受け入れる店舗端末だけでなく，赤穂信用金庫の本支店に設置される9台のATM・・・で，預金口座のお金を商店街ICカードに入金して，プリペイド型電子マネーとして・・・利用します。」(1丁本文15～17行)
+  d「【システムの構成機器】
+  商店街ICカードシステム 一式
+  ・店舗端末 137台
+  ・ワレット 100台
+  ・バランスリーダ 10，000個
+  ・ATM 9台
+  ・ICカード 23，000枚」(1丁下から7行～末行)
+(カ) 
+  株式会社毎日コミュニケーションズ平成9年1月18日発行の「PC WORK！」平成9年1月号の172頁から174頁までに掲載された「町に電子マネーがやってきた 駒ヶ根市1万3000人の電子マネーシステム」と題する記事(乙2)には，以下の記載がある。
+  「(1)消費者は，金融機関のATMまたは加盟店店頭でプリペイド金額を補充する。・・・。
+  (2)消費者がプリペイドで買い物をした場合，代金がカードから引かれる。」(174頁の図の脚注2～4行)
+  イ
+    上記アの各記載によれば，ICカードの技術分野においては，支払処理と補充処理を個々の処理として構成するとの技術，同一の端末機(店頭端末機)において，支払処理と補充処理の双方を行うとの技術(なお，前記(1)のとおり，刊行物発明においても，当該技術が採用されている。)及び支払処理と補充処理とを同一の手順で行うとの技術は，いずれも，本件優先日前から，当業者にとって周知の技術(以下「本件周知技術」という。)であったと認めることができる。
+    (3)
+      刊行物発明に本件周知技術を適用することに係る阻害要因についてア 原告は，「刊行物発明は，支払処理中に補充処理を組み込んだ特異なものであり，従来の補充処理を併存させることを意図せず，また，前提としていないことが明らかであるから，刊行物発明の構成に加え，従来の補充処理を併存させることが容易であるとする本件審決の判断は，刊行物発明の意義を曲解したものである」と主張する。
+  イ そこで，検討するに，刊行物1には，以下の各記載がある(以下の引用及びその箇所の特定は，刊行物1の訳文に相当する特表平10−508710号公報(甲1の2)によった。)
+    (ア)「支払いカードの現在の使用，特に電子ウオレットの使用には数多くの欠点が付随している。そのうちのいくつかの例を以下に示す：
+    a．電子ウオレットは支払い毎に消耗されることから，顧客は，適切な補充装置で定期的に補充取引を実行しなければならず，これは不便である。
+    ・・・
+    c．自動的供給制御式購買，例えば公衆電話の呼出し又はガスタンクの充てんは，電子パースが使い果たされた時点でいつ何時であれ中断され得る。
+    d．上述の不便さ・・・及び中断を低減させるため，多くの顧客は補充取引の間に自らの電子パースを過剰装てんする傾向をもち，こうして，銀行内の利子のつく預金は減り，又上述の小売りを利用しない電子パースシステム内では電子ウオレットを紛失した場合の損害が増大する。」(8頁下から5行～9頁8行)
+    (イ)「本発明の主たる目的は，先行技術の電子ウオレットの使用に付随する欠点を克服しながら，電子ウオレットによる支払いを可能にする小売りユニットを提供することにある。」(10頁下から9～7行)
+    (ウ)「本発明の小売りユニットは，以下の特徴のいずれかの組合せを備えた電子ウオレット支払いユニットを含んで成る：
+    ・・・
+    − 充分なパース残高を維持するのにパース補充装置を訪れる必要がなく，かくしてそれに付随する不便さがなくなる。
+    ・・・
+    − 電子ウオレット内に支持されている電子現金の額は最小限におさえられ，かくして紛失時の危険性は最小限となる。」(10頁下から2行～11頁9行)
+    (エ)「＄SUMが＄BALAＮCEよりも大きい場合，電子パースは支払いを可能にするため補充されなくてはならない。・・・電子パース310は＄MIＮPRで表わされた最小パース補充金額と＄SUMから＄BALAＮCEを引いたもののうちの大きい方以上すなわち充分な支払いにとって必要な金額だけ・・・補充を受ける。」(25頁6～11行)(オ)「・・・最小パース補充金額＄MIＮPRは，低い値の取引のため中央取引コストを回避するため商人及び／又は金融機関によって予め規定されたパラメータである。
+    顧客インターフェイス・・・が・・・補充に必要な額を表示し，顧客が，例えば自らの電子ウオレットの中の電子現金の額を将来の使用のために増大させるため，前記額よりも大きい金額を選択できるようにすることができる，ということがわかるだろう。」(25頁下から10～4行)
+    (カ)「現残高が・・・不充分とわかった場合，まず・・・充分な金額だけ又は顧客によって特定されたさらに大きい望まれる金額だけ補充され・・・る。」(26頁下から2行～27頁1行)
+  ウ
+    上記イの各記載によれば，前記(1)のとおりの刊行物発明における補充処理の構成は，①顧客が支払処理とは別に補充処理を行うという不便さを解消すること，②支払処理中に補充処理がされないことによる取引の中断という事態を回避すること，③顧客が過剰に電子現金を補充することができないようにすることなどを目的とするものであり，それ自体，技術的な意義を有しないわけではない。
+    しかしながら，上記①及び②の点については，本件周知技術(従来技術)によっても実現され得る事項であり，その背後にある技術的思想において，刊行物発明と本件周知技術(従来技術)とが相反するというものではない。また，上記③の点についても，刊行物発明は，支払処理の中断を回避するために必要最小限の金額，すなわち，不足額のみの補充しか行わせないというものではなく(仮に，そのような構成を採ると，いったん補充処理を行わざるを得ない事態に陥った電子ウォレットは，以後，電子現金の残高がないという状態が続くことになる。)，不足額が最小パース補充金額を下回るときは，不足額を超える補充処理がされるのであるし，また，顧客の選択により，自らの電子ウォレット内の電子現金の額を将来の使用のために増大させることもできるというのであるから，刊行物発明は，上記③の目的を達成するために，不足額を超える補充処理を例外なく許さないという技術的思想で貫かれたものではない。
+    そうすると，刊行物発明の補充処理の構成に，従来技術における補充処理の構成を併存させることについて，阻害事由はないものと認めるのが相当である。
+    (4)
+      訂正発明1の同一処理手順の構成を採用することの容易想到性について前記(1)ないし(3)によれば，刊行物発明に本件周知技術を適用して，訂正発明1の同一処理手順の構成を採用することは，本件優先日当時の当業者にとって，容易に想到し得たものと認められる。
+      なお，原告は，訂正発明1における「支払い処理を行う旨」及び「補充処理を行う旨」の各入力は，訂正発明1の同一処理手順の構成に特有のものである旨主張するが，前記(2)ア(ウ)のとおり，丙2刊行物には，「店員はプリペイド残高の振替を行なうことを指定するために，プリペイドキー251を操作する。」(補充処理の場合)，「店員は売上げ代金の精算を行なうことを指定するため，ショッピングキー252を操作する。」(支払処理の場合)との記載がみられるところであるし，各種電子取引の中から特定の取引を選択して行おうとする際に，当該選択に係る取引を行う旨の入力をすることは，いわば当然のことといえるから，訂正発明1における上記各入力が，同発明の同一処理手順の構成に特有のものであるとはいえず，原告の上記主張は，理由がない。
+    (5) 訂正発明1の同一処理手順の構成が奏する作用効果について
+  ア
+    原告は，「訂正発明1は，支払処理と補充処理とを分けることに大きな意義があり，スピーディーな決済を行うという新たな課題を解決したものである」と主張するが，支払処理と補充処理を分けることが本件優先日前において周知の技術であったことは，前記(2)のとおりであるし，また，両処理を分けることとスピーディーな決済の実現とがどのように関係するのか，訂正明細書の記載をみても明らかではないから(むしろ，前記1(2)及び2(2)のとおりの訂正発明1の支払処理及び補充処理の各手順をみれば，訂正発明1がスピーディーな決済を実現するものとはいい難い。)，原告の上記主張を採用することはできない。
+  イ
+    原告は，「実際には異なる両取引のやり方を同一の手順で機械的に処理することにより，気が重いデバッグなどの作業を伴うシステム開発の業務量を半減させることができるものである」と主張するが，訂正明細書には，訂正発明1がそのような作用効果を奏することは何ら記載されていないし，また，原告が主張する上記作用効果は，支払処理と補充処理を同一の手順で機械的に処理するとの構成が当然に奏するものであり，当業者が予測することのできる範囲を超えるものではないから，当該作用効果が格別顕著なものであるということもできない。したがって，原告の上記主張は，理由がない。
+    (6)
+      以上のとおりであるから，訂正発明1の同一処理手順の構成についての判断の誤りをいう取消事由3は，理由がない。
+      4 結論
+        よって，審決取消事由はすべて理由がないから，原告の請求を棄却することとして，主文のとおり判決する。

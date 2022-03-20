@@ -1,0 +1,193 @@
+主文
+  原告の請求を棄却する。
+  訴訟費用は，原告の負担とする。
+
+事実及び理由
+第1 原告の求めた裁判
+  「特許庁が無効2005−80108号事件について平成18年3月8日にした
+  審決を取り消す。」との判決
+第2 事案の概要
+  本件は，特許を無効とした審決の取消しを求める事案であり，原告は無効とされた特許の特許権者，被告は無効審判の請求人である。
+  1 特許庁における手続の経緯
+    (1) 原告は，発明の名称を「移動通信体」とする特許第3562647号(平
+      成15年2月3日特許出願(分割前の原出願日：平成12年2月25日，国内優先
+      権主張：平成11年2月25日)。平成16年6月11日設定登録。以下「本件特
+      許」という。)の特許権者である(なお，平成18年1月17日(移転登録日)ま
+      ではA，B及び原告が共有者，同日から同年5月24日(移転登録日)まではC及
+      び原告が共有者であったが，同日以降は，原告が単独の特許権者である。甲13及び弁論の全趣旨)。
+    (2) 被告は，平成17年4月7日，本件特許(請求項1ないし3)につき，特
+      許無効審判を請求し，無効2005−80108号事件として係属した。
+    (3) A，B及び原告は，同年11月21日，本件特許に係る明細書の記載中，
+      発明の詳細な説明の段落【0179】の記載内容を訂正するとの訂正請求(以下，この訂正請求に係る訂正を「本件訂正」という。)をした(甲14及び弁論の全趣旨)。
+    (4) 特許庁は，平成18年3月8日，「訂正を認める。特許第3562647
+      号の請求項1ないし請求項3に係る発明についての特許を無効とする。審判費用は，被請求人の負担とする。」との審決をし，同月18日，その謄本をC及び原告に送達した。
+    (5) 原告は，同年4月17日，本件訴えを提起した(なお，Cは，本件訴えの
+      提起時から，その原告ではない。)。
+  2 発明の要旨
+    審決が対象とした本件特許に係る請求項1ないし3の記載は，次のとおりである(以下，請求項1ないし3に係る発明をそれぞれ「本件発明1」ないし「本件発明3」といい，本件発明1ないし本件発明3を併せて「本件各発明」という。)。
+    「【請求項1】 基地局を介して無線通信を行う移動通信体であって，
+    前記基地局と無線通信を行う無線通信手段と，端末機と短距離通信を行う短距離通信手段と，電子マネー金額を記憶する電子マネー金額記憶手段とを有し，商店に支払う支払い金額を前記電子マネー金額から支払い処理する際には，前記端末機と短距離通信可能な状態で，前記移動通信体または前記端末機に前記支払い金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成され，前記電子マネー金額に所定の補充金額を補充処理する際には，前記端末機と短距離通信可能な状態で，前記移動通信体または前記端末機に前記補充金額が入力されることに応じて，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，新たな電子マネー金額を前記短距離通信手段によって前記端末機から受信し，受信した前記新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成されたことを特徴とする移動通信体。
+    【請求項2】 前記電子マネー金額は，暗号化した電子マネー金額及び暗号化していない可読状態の電子マネー金額であることを特徴とする請求項1記載の移動通信体。
+    【請求項3】 所定の暗唱番号を記憶する暗唱番号記憶手段と，前記電子マネー金額記憶手段に記憶された電子マネー金額を表示する表示手段とを有し，
+    前記暗唱番号記憶手段に記憶された所定の暗唱番号と一致する番号が入力された場合に限り，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記表示手段によって表示するように構成されたことを特徴とする請求項1または2記載の移動通信体。」
+  3 審決の要点
+    審決は，本件訂正を認めた上，本件発明1及び2については，後記刊行物発明に基づいて，後記刊行物2ないし10の記載事項，周知技術の知識及び実務上の知識との組合せとして，本件発明3については，後記刊行物発明に基づいて，後記刊行物2ないし12の記載事項，周知技術の知識及び実務上の知識との組合せとして，いずれも当業者が容易に発明をすることができたものであるから，本件各発明に係る本件特許は，特許法29条2項の規定に違反してされたものであり，同法123条1項2号の規定に該当し，無効とされるべきものであるとした。
+    審決の理由中，本件各発明に係る本件特許が特許法29条2項の規定に違反してされたものであるとの判断に係る部分は，以下のとおりである。
+    (1) 本件発明1について
+      ア 国際公開第96／09592号パンフレット(1996(平成8)年3月2
+        8日国際公開。本訴甲1の1(本訴甲1の2は，その訳文に相当するものであ
+        る。)。以下「刊行物1」という。)の記載事項
+        「刊行物1には，カード払いを組み入れた自動小売システム(automatic retail systemsincorporating card payment)に関連する発明についての開示がなされており(FIELD OF THEINVENTIONを参照)，以下のとおりの記載がそれらに関連する図示とともになされている。
+        なお，上記括弧書きの英文表記は，刊行物1の訳語に対応する原文の記載である。以下，同様に，刊行物1の原文の記載等を適宜括弧書きで付記する。
+        (ア) 発明の背景の説明
+          a［2ページ1―3行］"Present use of payment cards, in particular the use ofelectronic wallets, is associated with many deficiencies, a few examples of which are
+          provided herein below:"
+          b［2ページ4―6行］"a. Since electronic wallets are depleted at each payment, thecustomer must execute regularly purse replenishment transactions at suitable
+          replenishment devices, which is inconvenient."
+          c［2ページ17―19行］"e. Electronic purse operation requires setting up a costlyinfrastructure of replenishment devices, such as special ATMs (automatic tellermachines), modified public telephones or dedicated home terminals."
+        (イ) 用語の説明
+          a［3ページ8―9行］"3. Point of sale (POS) - a part of a retail unit operating to
+          determine the contents of a purchase and to calculate its price."
+          b［3ページ10―11行］"4. Payment unit - a part of a retail unit operating to
+          receive payment from the customer."
+          c［4ページ15―16行］"13. Electronic wallet - a smart card which includes inter
+          alia an electronic checkbook and an electronic purse."
+        (ウ) 図1に関連する説明
+          a［15ページ3―8行］"Reference is made to Fig. 1 which illustrates a preferredembodiment of the present invention. The retail system of Fig. 1, generally referenced 1,incorporates a payment system 7 which is a substantially failure-free system forexecuting payment orders received from a Point Of Sale (POS) 10. Non-limiting examplesfor POS 10 are a supermarket cash register, or a control unit of a vending machine, a
+          public telephone or the gas pump in a gas station."
+          b［15ページ9―18行］"Payment system 7 comprises a payment unit 8 communicatingwith POS 10 for receiving payment requests, interfacing with any one of electronicwallets 9A-9N for payment therefrom and communicating as needed with transactionprocessing centers of financial institutions 20A-20K to execute electronic checkbooktransactions. At each purchase, payment unit 8 interfaces with an electronic wallet andautomatically determines the transactions to be executed for payment, i.e. a transactionoperating to pay by electronic purse of the electronic wallet or to first replenish theelectronic purse by payment from a remote account via the electronic checkbook and then topay with the electronic purse, or to pay from a remote account via the electronic
+          checkbook as described in detail hereinbelow."
+          c［15ページ19―21行］"Payment unit 8 communicates selectively with processingcenters of financial institutions 20A− 20K respective to the central accounts related to
+          the electronic wallets presented at the payment unit."
+          d［15ページ22行―16ページ1行］"Processing centers of financial institution20A−20K execute transactions related to central accounts maintained by the respectivefinancial institutions, e.g. credit accounts or bank accounts, the accounts beingidentified and accessible by the electronic purses included in the electronic wallets."e［16ページ3―10行］"It will be appreciated that the interface between anelectronic wallet and payment unit 8 may be by contact or by contactless communication oreven from distance through a communication link. The communication between payment unit 8and a processing center of a financial institution can be executed on line, or electroniccheckbook transactions may be recorded at payment unit 8 and transferred thereafter toprocessing centers of financial institutions for batch processing, as will be describedin more detail hereinbelow. Retail unit 2 is the combination of payment unit 8 and point
+          of sale 10."
+        (エ) 図3に関連する説明
+          a［17ページ8―20行］"Reference is made to Fig. 3 which is a detailed blockdiagram illustration of the payment system 7. Electronic wallet 9 which is personal to acustomer 12 who is making a purchase at POS 10, comprises an electronic purse 310containing information identifying the amount of electronic cash stored in its register311. The electronic wallet also comprises an electronic checkbook 320, which register 321contains information identifying and authorizing transactions with at least one credit orbank account, made through processing centers of financial institutions 20. Externalinterface 340 serves as an interface between the electronic wallet and payment units 8.External interface 340 comprises communication hardware as well as secured protocols forreading or altering the information stored in the electronic wallet. These protocolspreferably include a requirement for keying-in a secret PIN (personal identificationnumber) code via customer interface 352, as a precondition for any transaction with
+          wallet 9."
+          b［18ページ5―9行］"Electronic purse payment unit 363 communicates withelectronic purse 310 of electronic wallet 9. When unit 363 is activated to pay a purchasesum required by POS 10, it operates to reduce the amount of electronic cash stored inregister 311 by the purchase sum, while increasing the amount of electronic cash stored in
+          an electronic cash drawer 364 by the same sum."
+          c［18ページ10―13行］"The electronic cash accumulated in electronic cashdrawer 364 can be transformed into money by settlement with cash pool units 384 ofprocessing centers of suitable financial institutions, referenced collectively 20.Usually, this money will be deposited in a bank account of the merchant 11."d［18ページ14―19行］"Electronic checkbook payment unit 366 operates totransfer a specified sum from a customer's account in financial institution 20corresponding to customer's electronic checkbook 320, either to the merchant's accountwhen checkbook payment is executed, or to cash pool 384 for purchasing electronic cash forpurse replenishment. POS interface 353 is operative to receive payment requests from POS
+          10 and return payment acknowledgements upon payment completion."
+          e［18ページ20―22行］"Electronic purse loading unit 365 is capable of loadingelectronic cash into electronic purse 310, typically upon purchasing the electronic cashby the electronic checkbook 320 from a cash pool 384 during a purse replenishmenttransaction."
+          f［18ページ23―19ページ5行］"Card interface 351 includes hardware andprotocols known in the art for secured communication with electronic wallet 9. It mayinclude mechanical means operative to retain an electronic wallet during transaction andto release it upon the transaction completion. It may use contactless communication oreven allow remote transactions by using a suitable communication means. For example, awireless communication link may serve to collect payment in a toll road without stoppingthe car, or for collecting payment for a card used with a cellular telephone."g［19ページ17行―20ページ5行］"Remote account interface 370 incorporateshardware and protocols known in the art for secured communication with transactionprocessing centers of financial institutions 20, respective to the accounts identified byregister 321 of electronic checkbooks 320 included in the customers' electronic wallets 9.The communication can be either on line or off-line. Non limiting examples of on-linecommunication means include dial-up telephone lines, dedicated lines or cellular datacommunication. A non limiting example of off-line communication means is a handheldterminal for unloading transaction information from payment unit 8 when visiting them,and downloading the information thereafter to processing centers of financialinstitutions 20 by communicating with them from the merchant's office. These handheldterminals may work the other way, i.e. unloading information from the financialinstitutions thereinto at the merchant's office and downloading this information into
+          payment units 8 during a visit."
+          h［20ページ11―18行］"Each of the transaction processing centers of financialinstitutions 20 comprises customers' credit and/or bank accounts referenced 381 and 382and a cash pool 384. Customers' credit and/or bank accounts 381 and 382 correspond toelectronic checkbooks, such as the electronic checkbook 320, are charged for paymenttransactions wherein the charged amount is transferred to a bank account (not shown) ofthe merchant 11. Accounts 381 and 382 are also charged for purse replenishmenttransactions wherein the charged amount is transformed into electronic cash by cash pool
+          384 and transferred electronically to the electronic purse 310."
+          i［20ページ19―24行］"Cash pool 384 is an accounting unit for transformingmoney paid by electronic checkbooks 320 into electronic cash loaded into electronic purse310, and for transforming electronic cash received from electronic purse 310 or fromelectronic cash drawers 364 into cash deposited to the merchant's bank account. Cash poolunit 384 includes the protocols known in the art for transferring electronic cash to
+          electronic purse 310 and from electronic cash drawer 364."
+        (オ) 図5に関連する説明
+          a［21ページ17―23行］"Reference is made now also to Fig. 5 which illustrates apreferred method of operating the automatic transaction manager 361 of Figs. 3 and 4.Block 451 indicates the idle state of the payment system 7, ready for starting atransaction. In block 452 an electronic wallet 9 with a sum of $BALANCE of electronic cashstored in register 311 is received, and the customer is preferably prompted to key-in hisPIN code through customer interface 352. In block 453 a request for payment of $SUM is
+          received from POS 10 through POS interface 353."
+          b［21ページ24行―22ページ5行］"In block 454 $SUM is compared to the minimalcheckbook payment transaction sum referenced $MINCP in order to determine whethercheckbook payment is feasible. If the answer is positive then, as indicated in block 458,$SUM is compared with $BALANCE to determine whether a purse transaction is feasible aswell. If the electronic purse transaction is not feasible then the transaction isdirected to the checkbook transaction unit 366 as indicated by block 460."c［22ページ6―12行］"If both checkbook and purse payment transactions arefeasible, the transaction can be executed either way so a logical switch 459 is providedto direct the transaction either to the checkbook transaction unit 366 as indicated byblock 460 or the purse payment unit 363 as indicated by block 457. The switch setting in459 to either C or P position is either predetermined by the merchant 11 through themerchant interface 362, or is made selectable by the customer during purchase through
+          customer interface 352."
+          d［22ページ13―17行］"If the answer in 454 is negative, i.e. the payment hasbeen found unfeasible for checkbook payment, it is checked for purse payment feasibilityas indicated in block 455. In block 457 the payment is found feasible through the purse,i.e. $SUM is smaller or equal to $BALANCE, and therefore payment is executed through purse
+          payment unit 363."
+          e［22ページ18―23行］"However, if $SUM is larger than $BALANCE, the electronicpurse must be replenished to enable payment. As indicated by block 456, the electronicpurse 310 is replenished via the electronic checkbook 320 through units 366 and 365 withat least the larger of the minimal purse replenishment sum referenced $MINPR and $SUMminus $BALANCE, i.e. the sum necessary for sufficient payment. Only then purse payment is
+          executed in 457 through unit 363."
+          f［22ページ24行―23ページ6行］"It will be appreciated that instead ofaccessing the electronic purse twice, for replenishment of a replenishment sum calculatedin block 456 and for purse payment of $SUM by block 457, the purse can be accessed onlyonce, for loading thereto, by unit 365, the difference between the replenishment sum and$SUM, or for collecting therefrom this value by unit 363, if this difference is negative.Both modes are mathematically and functionally equivalent, except for a special case
+          described with reference to Fig. 10A below."
+        (カ) 図11Aに関連する説明
+          ［36ページ14―20行］"Fig. 11A illustrates a conventional on-line pursereplenishment procedure, wherein payment unit 8 relays an on-line replenishmenttransaction between electronic wallet 9 and processing center of financial institution 20.A replenishment order is sent from electronic checkbook 320 through electronic checkbooktransaction unit 366 to processing center 20, where customer's account 380 is charged anda corresponding amount of cash is supplied to the electronic purse 310 from cash pool 384
+          trough purse loading unit 365."
+          (当審注: "trough" purse loading unit ... は"through" purse loading unit ... の明らかな誤記と認められる。)
+        (キ) 図12に関連する説明
+          a［40ページ8―20行］"Reference is made to Fig. 12, which introduces a paymentsystem which is similar to that of Fig. 3, with the following modifications: electroniccheckbook 320 is replaced by electronic cache 320C, electronic checkbook transaction unit366 is replaced by electronic cache transaction unit 367, and cache accounts 383 are addedto the arsenal of financial institutions 20. A cache account 383 is a special credit orbank account which is accessible for payment transactions only through a singlerespective electronic cache 320C. It is noted that conventional bank or credit accountsare accessible through a variety of means in addition to the respective electroniccheckbook, such as paper checks, home banking computer or telephone orders. Preferably,one exception remains, i.e a claim for the value remaining in a cache account in case thecorresponding electronic cache has been lost. It is also noted that adding value to acache account 383 can be made also without presenting the corresponding electronic cache320C."
+          b［40ページ21行―41ページ7行］"Electronic cache 320C is a special, enhancedelectronic checkbook. It issues electronic checks for account-to-account settlement intransaction processing centers of financial institution 20 similar to the electronicchecks issued by the conventional electronic checkbook, but also manages on-card balancetracking similarly to the electronic purse. As described below, this combination provideshighly secured off-line transactions with central accounts. Register 321 containsinformation identifying and authorizing transactions with the respective cache account383. Register 332 maintains balance information regarding the sum accessible in cacheaccount 383 through electronic cache 320C. Register 333 contains a cache expiration dateinformation so that the electronic cache 320C will be unusable and rejected for payment
+          after the date."
+          c［41ページ8―20行］"Electronic cache transaction unit 367 of payment unit 8performs cache transactions by issuing electronic cache checks similarly to the operationof electronic checkbook transaction unit 366 (Fig. 3), while reducing the payment amountfrom the cache account balance register 332, using secured protocols similar to thoseused by electronic purse payment unit 363 during a purse payment transaction. Theelectronic cache check can be either settled on-line with the respective cache account in383, or retained electronically is electronic safe 368 for settlement thereafter.Optionally, in the latter case the payment transaction can be reversed by deleting thecache check information from electronic safe 368 and increasing the value in accountbalance register 332 by the cancelled cache check sum. It would be appreciated that thisprocedure, which adds effective value to electronic cache 320C, requires securedprotocols similar to those of drawer-to-purse transfer of electronic cash described above
+          with respect to Figs. 11B and 11C."
+          (当審注: retained electronically "is" electronic safe ... は retained electronically"in" electronic safe ... の明らかな誤記と認められる。)
+        (ク) 図17に関連する説明
+          ［48ページ2―9行］"Fig. 17 illustrates a preferred embodiment of the presentinvention which enables both cache and non-cache (i.e. conventional) checkbook centraltransactions. The reason for including both is that the cache is advantageous in off-linetransactions. However, it can be used only with cache-compatible payment units capable ofupdating the cache balance (register 332 of Fig. 12A). Another limitation of a cacheaccount is that it is accessible for payment only through the card containing theelectronic cache and cannot be used for other payment forms such as paper checks or mailorders."」
+      イ 刊行物1に記載された発明(以下「刊行物発明」という。)
+        「(1)POSにおいて購入をする客個人に属するものであり(personal to a customer 12who is making a purchase at POS 10)，POSに接続された支払ユニット(payment unit 8)との間で非接触通信(contactless communication)を行うことができるスマートカード(smart card)であるところの電子ウォレット(electronic wallet 9)であって，(2)前記の非接触通信を行う外部インタフェース(external interface 340)と，電子現金(electronic cash)の貯蔵額を特定する情報をレジスタ(register 311)にもつ電子パース(electronic purse 310)とを内蔵しており，
+        (3)当該電子ウォレットが電子現金を＄BALAＮCEほど貯蔵した状態で前記支払ユニットによって受け付けられ(452)，＄SUMの支払要求がPOS(POS 10)からPOSインタフェース(POS interface 353)を通じて前記支払ユニットによって受信されて(453)電子パース払いの実行可能性(purse payment feasibility)がチェックされた(455)ときに，実行可能，すなわち＄SUMが＄BALAＮCE以下であったならば，＄SUMを電子パースから払って＄BALAＮCEを更新し(457)，
+        (4)一方，実行不可能，すなわち＄SUMが＄BALAＮCEより大きかったならば，所定の最小補充額＄MIＮPRかあるいは＄SUM−＄BALAＮCEかのいずれか大きい方以上の額で補充を受けて(456)貯蔵額を充分な額にしてから電子パース払いを実行し(457)，このとき，補充と支払いとで合わせて2回，支払ユニットから電子パースへのアクセスを受ける電子ウォレット。」
+      ウ 本件発明1と刊行物発明との対比
+        (ア) 一致点
+          「携行品であって，
+          端末機と短距離通信を行う短距離通信手段と，電子マネー金額を記憶する電子マネー金額記憶手段とを有し，
+          商店に支払う支払い金額を前記電子マネー金額から支払い処理する際には，前記端末機と短距離通信可能な状態で，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記短距離通信手段によって前記端末機に送信し，記憶された電子マネー金額を新たな電子マネー金額に更新させる更新情報を前記短距離通信手段によって前記端末機から受信し，新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成され，
+          前記電子マネー金額に所定の補充金額を補充処理する際には，前記端末機と短距離通信可能な状態で，記憶された電子マネー金額を新たな電子マネー金額に更新させる更新情報を前記短距離通信手段によって前記端末機から受信し，新たな電子マネー金額を前記電子マネー金額記憶手段によって記憶するように構成されたことを特徴とする携行品。」
+        (イ) 相違点
+          「(相違点1)本件発明1における携行品が，「基地局を介して無線通信を行う移動通信体」であり，「短距離通信手段」に加えて「基地局と無線通信を行う無線通信手段」をも有しているのに対して，刊行物発明における携行品は通信手段としては非接触通信を行う外部インタフェース(「短距離通信手段」)を備えるのみの電子ウォレットである点。
+          (相違点2)「支払い処理する際」の未払い状態の「電子マネー金額記憶手段に記憶された電子マネー金額」の「端末機」への「送信」について，本件発明1ではその送信を「支払い金額が入力されることに応じて」行っているのに対して，刊行物発明では，送信を何に応じて行っているか，明示的な記載がないため，はっきりしない点。
+          (相違点3)「支払い金額」について，本件発明1では「前記移動通信体または前記端末機に前記支払い金額が入力され」ているのに対して，刊行物発明ではPOSから支払ユニット(「端末機」)に＄SUM(「支払い金額」)が送られている点。
+          (相違点4)「支払い処理する際」の「新たな電子マネー金額」への更新について，本件発明1では，更新情報として「新たな電子マネー金額」を受信しており，さらにその「受信した前記新たな電子マネー金額」をそのまま「電子マネー金額記憶手段によって記憶」しているのに対して，刊行物発明では，更新情報として具体的に何を受信しているか，また，その受信の後にどのようにして新たな＄BALAＮCE(「新たな電子マネー金額」)を電子パース(「電子マネー金額記憶手段」)に記憶することとなるかが，明示的記載がないため，はっきりしない点。
+          (相違点5)「補充処理する際」の「補充金額」及び未補充状態の「電子マネー金額記憶手段に記憶された電子マネー金額」の扱いについて，本件発明1では，「前記移動通信体または端末機に補充金額が入力され」ており，その「入力されること」に「応じて」移動通信体が「前記電子マネー金額記憶手段に記憶された電子マネー金額」を端末機に送信しているのに対して，刊行物発明では，支払いの手続きの中で自動的に補充の必要性がチェックされる(電子パース払いの実行可能性がチェックされる)ことにより自動的に補充処理が行われるため，その必要性のチェックに先立って電子パース内の＄BALAＮCE(「電子マネー金額記憶手段に記憶された電子マネー金額」)の送信が行われており，また，その必要性のチェックにより補充が必要と判明したとき，補充金額が自動的に決定される点。
+          (相違点6)「補充処理する際」の「新たな電子マネー金額」への更新について，本件発明1では更新情報として「新たな電子マネー金額」を受信しており，さらにその「受信した前記新たな電子マネー金額」をそのまま「電子マネー金額記憶手段によって記憶」しているのに対して，刊行物発明では，更新情報として具体的に何を受信しているか，また，その受信の後にどのようにして新たな＄BALAＮCE(「新たな電子マネー金額」)を電子パース(「電子マネー金額記憶手段」)に記憶することとなるかが，明示的記載がないため，はっきりしない点。」
+      エ 相違点についての判断
+        (ア) 相違点1について
+          「セルラー電話であってカード代わりに使える電話機，すなわち，セルラーネットワークの基地局に接続して移動体通信ができる電話機(「基地局を介して無線通信を行う移動通信体」)であって，通常の移動体通信の手段(「無線通信手段」)のみならず店頭に設置された支払決済端末との間で直接通信を行える通信インタフェース(「短距離通信手段」)をも電話機本体に備えており，さらに，金融機関のカードに相当する情報や機能が付加されたスマートカードを電話機本体に収納しており(あるいはICチップを電話機に内蔵しており)，店にカードを携行する代わりにその電話機を携行でき，店頭の支払決済端末との間で直接通信させることによってカードに係る各種の決済手段でカード払いをすることができるもの，という電話機の概念は，例えば国際公開第99／03079号パンフレット(1999(平成11)年1
+          月21日国際公開。本訴甲2の1(本訴甲2の2は，その訳文に相当するものである。)。以下「刊行物2」という。)，特表平11−501424号公報(平成11年2月2日公表。審判甲6，本訴甲3。以下「刊行物3」という。)，登録実用新案第3051748号公報(平成10年9月2日発行。審判甲1，本訴甲4。以下「刊行物4」という。)及び特開平9−116960号公報(審判甲11，本訴甲5。以下「刊行物5」という。)にもみられるように周知である。(特に，刊行物2では，原文5ページ18行からの段落，27ページ28行からの段落，また9ページ9行からの段落の記載を，刊行物3では，図1と6それぞれについての説明と22ページからの他の実施例についての説明を，刊行物4では段落0010以降の説明を，また，刊行物5では段落0035以降の説明を，それぞれ参照。なお，刊行物3ではGSM移動電話，刊行物4では携帯無線電話機，刊行物5では携帯電話機として言及されているが，これらの電話機はいうまでもなくセルラーネットワークにより移動体通信を行う電話機である。)
+          してみると，刊行物発明において，店に携行して店頭で電子ウォレットとして用いてカード払いできるような携行品として電子ウォレットの情報や機能が付加されたセルラー電話の電話機を採用し，上記の相違点1に係る構成を請求項1にあるとおりの構成とすることは，当業者が容易になし得ることである。
+          相違点1についての被請求人の主張(平成17年11月21日付け意見書(以下「意見書」という。)3―4ページ，2-1-4について(1))は，刊行物1の記載事項を誤解して主張するものであり，周知性を示すために挙げた刊行物2ないし5について，単に個別に特定の記載が見出せない旨の主張をするものであり，また，技術上の阻害要因について誤解して主張するものである(後記オを参照)から，いずれも採用することができない。」
+        (イ) 相違点2について
+          「二種類の情報を用いることが必須である情報処理において，一方の情報が確定したとき初めて他方の情報を取得するようにすることは，情報を取得するタイミングとして合理的であり，そのような処理の流れは，タイミングに関する技術面の問題やその他の実際上の制約などがない限り，一般的に想起されるものである。
+          そして，刊行物発明における店頭での支払いについて当業者が検討する場合でも，支払合計額である＄SUMが確定したときにそれに「応じて」残高である＄BALAＮCEを取得するという処理の流れは，上記のようなタイミングによる処理の流れの例として容易に想起される程度のものといえる。
+          したがって，刊行物発明において上記の相違点2に係る構成を請求項1にあるとおりの構成とすることは，当業者が容易になし得ることである。
+          相違点2についての被請求人の主張(意見書4―5ページ，2-1-4について(2))は，単に刊行物1ないし5，特開平10−40323号公報(審判甲3，本訴甲6。以下「刊行物6」という。)，特開平3−241463号公報(本訴甲7。以下「刊行物7」という。)，特開平2−1049号公報(審判甲12，本訴甲8。以下「刊行物8」という。)及び特開昭63−32658号公報(審判甲2，本訴甲9。以下「刊行物9」という。)，「Card
+          Wave」1997年11月号の11頁ないし16頁に掲載された「座談会」と題する記事(本訴甲10。以下「刊行物10」という。)，特開平8−287169号公報(審判甲9，本訴甲11。以下「刊行物11」という。)及び特開平3−92966号公報(審判甲7，本訴甲12。以下「刊行物12」という。)の中に根拠となる明示的な記載が見出せないと主張するものであり，また，どのようなタイミングで情報を取得するかを選択することとは関係しない効果をいうものであるから，いずれも採用することができない。」
+        (ウ) 相違点3について
+          「刊行物発明において支払ユニットとPOSとはともに小売ユニット(retail unit)の構成要素とされているところ，このうち，POSは，例えばスーパーのレジであるとされている(上記ア(ウ)a)ことから，従来の(普通の単機能的な)レジとしての位置づけにあると解され，それに対して，支払ユニットは，POSインタフェースに加えてカードインタフェース(card interface)やカスタマーインタフェース(customer interface)を持つことからみて，レジに併設する(多機能的な)カード取引端末としての位置づけにあると解される。
+          しかし，支払ユニットとPOSを単に合わせた統合型の多機能POS端末はごく容易に想起できるといえるから，刊行物発明において相違点3に係る構成を請求項1にあるとおりの構成とすることは，当業者が容易になし得ることである。
+          なお，請求人が意見書において指摘しているように(2―3ページ，(2)理由2について)，刊行物1には上記アで摘記した箇所以外に"For example, the point of sale and thepayment unit of the present invention need not be separate units and may share some of thehardware components, such as their central processing unit, one example being a cashregister version incorporating both units."とする文があり(49ページ6―9行)，POSと支払ユニットとを統合できることが開示されている。」
+        (エ) 相違点4について
+          「残高の更新を新残高の値そのものを書き込むことで実現するようにすることは，例えば刊行物6ないし9のそれぞれの記載にもみられるように，周知の技法である。(特に，刊行物6では段落0029―0031を，刊行物7では5ページ右上欄11行からの段落を，刊行物8では図6についての説明を，刊行物9については図10と12を，それぞれ参照。)この技法は，磁気カードはもとよりICカードにおいても一般的に行われている技法であり，どのような携行品のどのような記録メディアに書き込むかということには直接制約されない，携行品が単体のスマートカードであってもスマートカードを収納した(あるいはICチップを内蔵した)電話機であっても採用できる技法である。
+          してみると，刊行物発明において上記の相違点4に係る構成を請求項1にあるとおりの構成とすることは，当業者が容易になし得ることである。
+          相違点4についての被請求人の主張(意見書5ページ，2-1-4について(4))は，周知性を示すために挙げた刊行物6から9について個別に特定の記載が見出せないと主張するか，あるいは特定の刊行物の特定の記載をとらえて阻害要因の存在を主張するものでしかないから，採用することができない。」
+        (オ) 相違点5について
+          「補充の手続きそのものは，電子マネーやそれに類する金銭的価値を記録メディアに書き込んで使わせる支払システムではごくありふれた手続きであり，例えば刊行物10でも言及されているように，現金を払っての補充，預金からの引き落としによる補充，ATMのあるところでの補充，そして店頭での補充といった，さまざまな形態での補充手続きがすでに提供されており周知となっている。(刊行物10では，14ページ左コラムに現金払いや引き落としによる補充に言及する記載があり，また，15ページ左コラムにATMのあるところや店頭での補充に言及する記載がある。)
+          刊行物発明は，補充を支払いの中に組み入れてしまうことで補充を別途行っておかなくてもすむようにさせる(ひいては上記ア(ア)b及びcで言及されている問題を解決する)ものではあるが，補充を別途行うことを許さなくするというものではなく，補充したい任意の金額を指定して行うような従来の補充手続きを，支払いの手続きとは別に従来どおりに併存させ得ることは，制度面からみても技術面からみても明らかである。
+          そして，そのような従来の普通の補充手続きを併存させるとして，その補充手続きの際の処理の流れを考察するならば，補充金額の入力操作に「応じて」相手方から送られてくる送信の要求や許可により電子ウォレットが＄BALAＮCEを返信するようにすることは，送信タイミングのありうる例として容易に想起されうるといえ(上記の相違点2の検討と同様のことがいえ)，また，補充したい金額の入力をその相手方のユニット自体に対してできるようにすることも，上記のタイミングについての考察とは関係なく並行してしかもごく容易に想起されうるといえる(上記の相違点3での検討と同様のことがいえる)。
+          したがって，刊行物発明において上記の相違点5に係る構成を請求項1にあるとおりの構成とすることは，当業者が容易になし得ることである。
+          なお，請求人が指摘するように，刊行物1には上記アで摘記した箇所以外に"It will beappreciated that customer interface 352 may indicate at step 456 the amount necessary forreplenishment and allow the customer to select a sum larger than this amount, e.g. forincreasing the amount of electronic cash in his electronic wallet for future use."とする文があり(23ページ10―13行)，さらに，"If the current balance is foundinsufficient in 455, then it is first replenished with a sufficient sum in 456 or with alarger desired sum specified by the customer, and then the purse is charged in 457."とする文もあり(24ページ18―20行)，客によるその場での補充金額の指定がありうること，すなわち補充金額の「入力」と「受信」がありうることが示唆されている。
+          相違点5についての被請求人の主張(意見書5―6ページ，2-1-4について(5))は，周知性を示すために挙げた刊行物10について，座談会の記事であることを理由に表面的な主張をするにすぎないものであり，採用することができない。」
+        (カ) 相違点6について
+          「相違点4についての検討と同様のことがいえ，周知技術あるいは刊行物6ないし9に記載された技術の採用は，支払いだけでなく補充においても同様にできるといえる(カード内の残高の更新をどのように実現するかについての技法であり，補充においても共通して採用できるといえる)から，刊行物発明において相違点6に係る構成を請求項1にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+      オ 本件発明1についてのまとめ
+        「相違点は上記の相違点1ないし6のみであって，いずれの相違点についても，刊行物発明において請求項1にあるとおりの構成をとるようにすることは，当業者にとって容易にできたというべきことであり，また，いずれの点にも他の点に互いに影響して上記のような採用や組み合わせを阻害することとなるような事情はないと認められる。
+        さらに，上記の各点について請求項1にあるとおりの構成とすることにより生じ得る効果についても，いずれも当業者であれば予測することができた程度の効果であるということができる。
+        したがって，本件発明1は，刊行物発明に基づいて，刊行物2ないし10の記載事項，周知技術の知識及び実務上の知識との組み合わせとして，当業者が容易に発明をすることができたものである。
+        被請求人は，請求項1についての主張のまとめの中で，刊行物1の電子現金におけるSUM＞＄BALAＮCEの際の補充について再度言及し・・・，刊行物発明を「移動通信体」と組み合わせると顧客の全財産をその移動通信体とともに携帯させることになってしまうという阻害要因がある，と主張しているが(意見書7ページ，2-1-5について(2))，自動的な補充がはらむ危険性は携行品が「移動通信体」であってもスマートカードその他であっても共通であり，その危険性は，対応策を十分にとらずに高額の補充を頻繁に繰り返せるような条件で補充サービス付きの電子現金サービスを開始すると危険である，というように事業化する場合に検討すべき課題にはなるとしても，携行品としてスマートカードという例が技術的にありうる例としてすでに提示されている場合に，それに代わる携行品として，セルラー電話であって短距離通信によるカード払いもできるような電話機，という例を，想起すること自体できなくさせる，あるいは，想起できてもそのような電話機の採用は技術的に不可能と判断させる，というような技術上の阻害要因にはなり得ないから，被請求人の主張はやはり採用することができない。」
+    (2) 本件発明2について
+      ア 本件発明2と刊行物発明との対比
+        (ア) 一致点
+          「本件発明2と刊行物発明とを対比すると，両者は，前掲の相違点1ないし6に加えて，次の相違点7で相違し，その他の点で一致する。」
+        (イ) 相違点
+          「(相違点7)本件発明2においては，「電子マネー金額は，暗号化した電子マネー金額及び暗号化していない可読状態の電子マネー金額である」のに対して，刊行物発明においては，電子現金の金額(「電子マネー金額」)がそのような構成のものであるか否かが，記載がないため，はっきりしない点。」
+      イ 相違点7についての判断
+        「刊行物6には，金銭登録機が暗号化キーK2を用い，ICカードから残額に関係する基礎的データと偽装データとを読み取り，偽装データの方を復号(解読)して基礎的データと比較検証し，検証結果が正しければ購入の処理をし，ICカードのメモリーの基礎的データの領域に新たな残額についての暗号化しないデータを書き込むとともに，メモリーの偽装データの領域には暗号化キーK1とK2を用いてその新たな残額を暗号化したデータを書き込む処理が記載されている(段落0029―0031，図2，図5を参照)。
+        刊行物6のICカードにおいて，上記の各領域に書き込まれているのが請求項2にいうところの「暗号化した」金額「及び暗号化していない可読状態の」金額であることは明らかである。
+        刊行物発明と刊行物6の上記の処理とは，属する業務分野や用いられている機器に共通性があり，また，セキュリティの向上は，刊行物発明においても当然考慮される一般的な課題であり，刊行物6に記載された技術手段を刊行物発明に適用することを妨げる要因も認められないから，刊行物6に開示された上記の「暗号化した」データ「及び暗号化していない」データとからなるデータ構造を刊行物1の電子パースの内部における＄BALAＮCEのデータ構造として採用し，その保持や送受信をさせるようにすることは，当業者が容易になし得ることである。
+        したがって，刊行物発明において上記の相違点7に係る構成を請求項2にあるとおりの構成とすることは，当業者が容易になし得ることである。
+        相違点7についての被請求人の主張(意見書7―8ページ，2-2-2について(1)の刊行物6についての主張)は，刊行物6に記載されている技術の分野が電子マネーそのものでないことをいうにすぎない主張であるので，採用できない。」
+      ウ 本件発明2についてのまとめ
+        「相違点は上記相違点1ないし6に相違点7を加えた各相違点のみであって，いずれの点についても刊行物発明において請求項2にあるとおりの構成をとるようにすることは当業者にとって容易にできたというべきことであり，いずれの相違点にも他の相違点に影響するような事情はないと認められ，さらに，請求項2にあるとおりの構成とすることにより生じ得る効果も当業者であれば予測することができた程度の効果であるといえるから，本件発明2は，刊行物発明に基づいて，刊行物2ないし10の記載事項，周知技術の知識及び実務上の知識との組み合わせとして，当業者が容易に発明をすることができたものである。」
+    (3) 本件発明3について
+      ア 本件発明3と刊行物発明との対比
+        (ア) 一致点
+          「本件発明3と刊行物発明とを対比すると，両者は，前掲の相違点1ないし7に加えて，次の相違点8で相違し，その他の点で一致する。」
+        (イ) 相違点
+          「(相違点8)本件発明3においては，「電子マネー金額記憶手段に記憶された電子マネー金額を表示する表示手段」があり，「暗唱番号記憶手段に記憶された所定の暗唱番号と一致する番号が入力された場合に限り，前記電子マネー金額記憶手段に記憶された電子マネー金額を前記表示手段によって表示するように構成され」ているのに対して，刊行物発明では，電子ウォレット上での入力や表示に係る構成が，記載がないため，はっきりしない点。」
+      イ 相違点8についての判断
+        「刊行物11には，ICカード表面に設けられている数字キーによって暗証番号の入力を行い，表示ボタンによって残高を表示させる，という，残高の確認の機能についての記載がある(段落0009ほか)。
+        また，刊行物12には，カードを暗証番号のキー入力によって稼働状態にさせた上で照会キーによって残高を表示させることが開示されている(図6(a)(b)，5ページ左上欄1―3行)。
+        これらの記載にみられるようなキー入力のための入力部や残高表示のための表示部を採用することは，刊行物1の電子ウォレットを含めた，電子マネーに類する金銭的価値のデータを記憶できる各種のICカードにおいても，また，刊行物2ないし4にもみられるような電話機を含めた，セルラー電話であって金銭的価値のデータを記憶できるような周知の電話機においても，利便性の向上のため容易にできることであり，採用する上での技術的な阻害要因も，特に見出せない。
+        したがって，刊行物発明において相違点8に係る構成を請求項3にあるとおりの構成とすることは，当業者が容易になし得ることである。」
+      ウ 本件発明3についてのまとめ
+        「相違点は上記相違点1ないし7に相違点8を加えた各相違点のみであって，いずれの点についても刊行物発明において請求項3にあるとおりの構成をとるようにすることは当業者にとって容易にできたというべきことであり，いずれの相違点にも他の相違点に影響するような事情はないと認められ，さらに，請求項3にあるとおりの構成とすることにより生じ得る効果も当業者であれば予測することができた程度の効果であるといえるから，本件発明3は，刊行物発明に基づいて，刊行物2ないし12の記載事項，周知技術の知識及び実務上の知識との組み合わせとして，当業者が容易に発明をすることができたものである。
+        本件発明3に係る被請求人の主張(意見書8ページ，2-3-2について)は，本件発明1に進歩性があることを前提とするものであり，本件発明1に進歩性がないことについては既に述べたとおりであるから，この主張は採用することができない。」
+    (4) 審決の「むすび」
+      「以上のとおり，本件各発明についての本件特許は，特許法29条2項の規定に違反してなされたものであり，同法123条1項2号に該当し，無効とされるべきものである。」
+第3 審決取消事由
+  原告は，審決取消事由を何ら主張しない。
+第4 被告の主張
+  審決の認定・判断は相当であり，これを取り消すべき理由はない。
+第5 当裁判所の判断
+  1
+    上記第3のとおり，原告は，審決取消事由を何ら主張しない。
+  2 証拠(甲1の1，甲2の1，甲3ないし12)及び弁論の全趣旨によれば，
+    本件各発明についての本件特許が特許法29条2項の規定に違反してされたものであるとの審決の認定・判断は，相当であると認められる。
+  3 結論
+    以上によれば，原告の請求は理由がないから，これを棄却することとし，主文のとおり判決する。

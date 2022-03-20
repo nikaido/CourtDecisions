@@ -288,14 +288,17 @@
                 },
                 {
                   "fig": "ウ",
-                  "subject": "原告は，引用文献の［0085］の「The addition of “Number of Cycles”",
-                  "text": [
-                    "44 would allow the investor to automatically reenter the LOCK process again in hopes of making more profit」という記載について，LOCKプロセスに自動的に入る，と主張する。",
-                    "しかし，上記記載を「LOCKプロセスに自動的に入る」という意味に捉えたとしても，その際に1回目のLOCK注文の取引から執行条件を変更する構成が開示されていないことに変わりはない。"
-                  ]
+                  "subject": "原告は，引用文献の［0085］の「The addition of “Number of Cycles”"
                 }
               ]
             }
+          ]
+        },
+        {
+          "fig": "44",
+          "text": [
+            "would allow the investor to automatically reenter the LOCK process again in hopes of making more profit」という記載について，LOCKプロセスに自動的に入る，と主張する。",
+            "しかし，上記記載を「LOCKプロセスに自動的に入る」という意味に捉えたとしても，その際に1回目のLOCK注文の取引から執行条件を変更する構成が開示されていないことに変わりはない。"
           ]
         },
         {

@@ -586,13 +586,32 @@
                           "fig": "(ソ)",
                           "subject": "「In 1990 we acquired a small I",
                           "text": [
-                            "P firm in Pittsburgh， PA and in",
-                            "2001 we acquired another small I",
-                            "P firm in Baltimore， MD．〔1990年，我",
-                            "々は，ペンシルベニア州ピッツバーグに小さな知的財産を取り扱う事務所(IP firm〕を取得し，また，2001年，メリーランド州ボ",
-                            "ルティモアにもう1つの小さな知的財産を取り扱う事務所(IP firm)を取得した。〕」(乙8の12)"
+                            "P firm in Pittsburgh， PA and in"
                           ]
-                        },
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fig": "2001",
+          "subject": "we acquired another small I",
+          "text": [
+            "P firm in Baltimore， MD．〔1990年，我",
+            "々は，ペンシルベニア州ピッツバーグに小さな知的財産を取り扱う事務所(IP firm〕を取得し，また，2001年，メリーランド州ボ",
+            "ルティモアにもう1つの小さな知的財産を取り扱う事務所(IP firm)を取得した。〕」(乙8の12)"
+          ],
+          "content": [
+            {
+              "content": [
+                {
+                  "content": [
+                    {
+                      "content": [
                         {
                           "fig": "(タ)",
                           "subject": "「＃1 IP Litigators and ＃1 IP Fi",
@@ -865,16 +884,31 @@
       "subject": "「Gowling Lafleur Henderson LLP",
       "text": [
         "(Gowlings) has been named ”Cana",
-        "dian IP Firm of the Year” for 20",
-        "06 by U．K． publication Managing",
-        "Intellectual Property Magazine",
-        "(MIP)．〔ゴーリング・ラフロア・ヘンダーソン・エルエルピー(ゴーリングス)(Gowling Lafleur Henders",
-        "on LLP (Gowlings))は，英国の出版物であるマネー",
-        "ジング・インテレクチュアル・プロパティ・マガジン(U．K． pu",
-        "blication Managing Intellectual",
-        "Property Magazine (MIP))により，2006",
-        "年『本年のカナダの知的財産を取り扱う事務所(Canadian I",
-        "P Firm)』に指名された。〕」(乙10の7)"
+        "dian IP Firm of the Year” for 20"
+      ],
+      "content": [
+        {
+          "content": [
+            {
+              "content": [
+                {
+                  "fig": "06",
+                  "subject": "by U．K． publication Managing",
+                  "text": [
+                    "Intellectual Property Magazine",
+                    "(MIP)．〔ゴーリング・ラフロア・ヘンダーソン・エルエルピー(ゴーリングス)(Gowling Lafleur Henders",
+                    "on LLP (Gowlings))は，英国の出版物であるマネー",
+                    "ジング・インテレクチュアル・プロパティ・マガジン(U．K． pu",
+                    "blication Managing Intellectual",
+                    "Property Magazine (MIP))により，2006",
+                    "年『本年のカナダの知的財産を取り扱う事務所(Canadian I",
+                    "P Firm)』に指名された。〕」(乙10の7)"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {

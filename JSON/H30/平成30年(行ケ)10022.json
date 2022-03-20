@@ -685,13 +685,28 @@
             },
             {
               "fig": "(9)",
-              "subject": "TDAE油(Klaus Dahleke製のVivatec  500);",
+              "subject": "TDAE油(Klaus Dahleke製のVivatec  500);"
+            },
+            {
+              "fig": "(10)",
+              "subject": "Ｎ-(1，3-ジメチルブチル)-Ｎ-フェニルパラフェニレンジアミン(Flexsys製のSantoflex  6-PPD);"
+            },
+            {
+              "fig": "(11)",
+              "subject": "ステアリン(Uniqema製のPristerene);"
+            },
+            {
+              "fig": "(12)",
+              "subject": "酸化亜鉛(工業用グレード  Umicore);"
+            },
+            {
+              "fig": "(13)",
+              "subject": "DPG＝ジフェニルグアニジン(Flexsys製のPerkacit  DPG);"
+            },
+            {
+              "fig": "(14)",
+              "subject": "Ｎ-シクロヘキシル-2-ベンゾチアゾールスルフェンアミド(Flexsys製のSantocure CBS)。",
               "text": [
-                "(10)  Ｎ-(1，3-ジメチルブチル)-Ｎ-フェニルパラフェニレンジアミン(Flexsys製のSantoflex  6-PPD);",
-                "(11) ステアリン(Uniqema製のPristerene);",
-                "(12) 酸化亜鉛(工業用グレード  Umicore);",
-                "(13) DPG＝ジフェニルグアニジン(Flexsys製のPerkacit  DPG);",
-                "(14)  Ｎ-シクロヘキシル-2-ベンゾチアゾールスルフェンアミド(Flexsys製のSantocure CBS)。",
                 "【0031】",
                 "表2"
               ]

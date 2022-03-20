@@ -325,11 +325,11 @@
     (7) カーボンブラックＮ234(ASTMグレード);
     (8) C /C 樹脂(Exxon製のEscorez  ECR-373);
     (9) TDAE油(Klaus Dahleke製のVivatec  500);
-      (10)  Ｎ-(1，3-ジメチルブチル)-Ｎ-フェニルパラフェニレンジアミン(Flexsys製のSantoflex  6-PPD);
-      (11) ステアリン(Uniqema製のPristerene);
-      (12) 酸化亜鉛(工業用グレード  Umicore);
-      (13) DPG＝ジフェニルグアニジン(Flexsys製のPerkacit  DPG);
-      (14)  Ｎ-シクロヘキシル-2-ベンゾチアゾールスルフェンアミド(Flexsys製のSantocure CBS)。
+    (10) Ｎ-(1，3-ジメチルブチル)-Ｎ-フェニルパラフェニレンジアミン(Flexsys製のSantoflex  6-PPD);
+    (11) ステアリン(Uniqema製のPristerene);
+    (12) 酸化亜鉛(工業用グレード  Umicore);
+    (13) DPG＝ジフェニルグアニジン(Flexsys製のPerkacit  DPG);
+    (14) Ｎ-シクロヘキシル-2-ベンゾチアゾールスルフェンアミド(Flexsys製のSantocure CBS)。
       【0031】
       表2
   2 取消事由(刊行物1に記載された発明及び相違点の認定の誤り)について

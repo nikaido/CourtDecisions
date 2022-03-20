@@ -1432,5 +1432,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(ネ)10032",
+    "date": "2012-01-24",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成17年(ワ)26473",
+    "precedent_id": "082056",
+    "ipprecedent_id": "2869",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

@@ -769,5 +769,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(ネ)10018",
+    "date": "2008-07-23",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成18年(ワ)20985",
+    "precedent_id": "036668",
+    "ipprecedent_id": "1515",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

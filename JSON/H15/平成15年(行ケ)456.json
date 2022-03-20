@@ -682,5 +682,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成15年(行ケ)456",
+    "date": "2004-07-26",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "010163",
+    "ipprecedent_id": "736",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

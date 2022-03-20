@@ -967,5 +967,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成21年(行ケ)10432",
+    "date": "2010-08-09",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "080585",
+    "ipprecedent_id": "2313",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

@@ -104,5 +104,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10442",
+    "date": "2006-07-19",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "033356",
+    "ipprecedent_id": "229",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

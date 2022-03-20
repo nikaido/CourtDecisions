@@ -119,5 +119,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(ム)10001",
+    "date": "2007-06-20",
+    "rights_type": "特許権",
+    "case_type": "決定その他",
+    "precedent_id": "034838",
+    "ipprecedent_id": "1054",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

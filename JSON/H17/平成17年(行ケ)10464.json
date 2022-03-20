@@ -266,5 +266,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10464",
+    "date": "2006-03-14",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "032769",
+    "ipprecedent_id": "367",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

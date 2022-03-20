@@ -519,5 +519,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(ネ)10054",
+    "date": "2007-03-29",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成17年(ワ)3155",
+    "precedent_id": "034465",
+    "ipprecedent_id": "908",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

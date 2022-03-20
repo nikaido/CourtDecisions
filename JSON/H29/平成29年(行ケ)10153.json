@@ -885,5 +885,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成29年(行ケ)10153",
+    "date": "2018-06-19",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "087833",
+    "ipprecedent_id": "4950",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

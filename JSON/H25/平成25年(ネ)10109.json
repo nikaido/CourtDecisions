@@ -1721,5 +1721,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(ネ)10109",
+    "date": "2015-04-28",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成23年(ワ)37319",
+    "precedent_id": "085073",
+    "ipprecedent_id": "4033",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

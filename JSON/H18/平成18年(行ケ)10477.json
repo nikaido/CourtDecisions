@@ -1307,5 +1307,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(行ケ)10477",
+    "date": "2007-10-18",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "035279",
+    "ipprecedent_id": "1197",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

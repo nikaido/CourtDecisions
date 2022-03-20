@@ -448,5 +448,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(行ケ)10295",
+    "date": "2015-01-29",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "084829",
+    "ipprecedent_id": "3972",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

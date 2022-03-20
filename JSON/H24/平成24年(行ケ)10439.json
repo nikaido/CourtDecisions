@@ -142,5 +142,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成24年(行ケ)10439",
+    "date": "2013-01-30",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "082965",
+    "ipprecedent_id": "3271",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

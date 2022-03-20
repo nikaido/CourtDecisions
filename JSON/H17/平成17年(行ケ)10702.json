@@ -542,5 +542,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10702",
+    "date": "2006-06-28",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "033282",
+    "ipprecedent_id": "280",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

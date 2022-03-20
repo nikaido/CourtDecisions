@@ -303,5 +303,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(ネ)10094",
+    "date": "2006-03-29",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "横浜地方裁判所",
+    "org_case_num": "平成16年(ワ)2788",
+    "precedent_id": "032817",
+    "ipprecedent_id": "827",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

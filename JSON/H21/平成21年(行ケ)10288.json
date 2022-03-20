@@ -446,5 +446,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成21年(行ケ)10288",
+    "date": "2010-03-24",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "080019",
+    "ipprecedent_id": "2164",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

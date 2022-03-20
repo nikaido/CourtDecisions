@@ -380,5 +380,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(ネ)10053",
+    "date": "2013-10-30",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成23年(ワ)13057",
+    "precedent_id": "083712",
+    "ipprecedent_id": "3541",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

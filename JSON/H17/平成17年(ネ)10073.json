@@ -291,5 +291,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(ネ)10073",
+    "date": "2005-10-26",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成16年(ワ)11127",
+    "precedent_id": "009318",
+    "ipprecedent_id": "854",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

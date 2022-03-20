@@ -323,5 +323,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10230",
+    "date": "2005-04-13",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "009624",
+    "ipprecedent_id": "706",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

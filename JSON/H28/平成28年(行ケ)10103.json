@@ -935,5 +935,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(行ケ)10103",
+    "date": "2017-02-28",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "086560",
+    "ipprecedent_id": "4594",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

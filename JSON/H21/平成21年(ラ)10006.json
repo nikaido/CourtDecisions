@@ -327,5 +327,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成21年(ラ)10006",
+    "date": "2009-12-15",
+    "rights_type": "不正競争",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成21年(ヨ)22011",
+    "precedent_id": "038295",
+    "ipprecedent_id": "2070",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

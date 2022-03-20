@@ -2136,5 +2136,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和1年(行ケ)10076",
+    "date": "2020-12-14",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "089903",
+    "ipprecedent_id": "5460",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

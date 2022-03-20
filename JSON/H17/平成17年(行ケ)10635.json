@@ -343,5 +343,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10635",
+    "date": "2006-08-31",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "033475",
+    "ipprecedent_id": "203",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

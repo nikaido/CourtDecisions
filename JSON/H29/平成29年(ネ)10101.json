@@ -786,5 +786,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成29年(ネ)10101",
+    "date": "2018-10-09",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成27年(ワ)29705",
+    "precedent_id": "088047",
+    "ipprecedent_id": "5025",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

@@ -180,5 +180,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(ネ)10032",
+    "date": "2013-09-25",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成22年(ワ)44788",
+    "precedent_id": "083622",
+    "ipprecedent_id": "3517",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

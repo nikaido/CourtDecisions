@@ -2671,5 +2671,17 @@
         "よって，主文のとおり判決する。"
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和1年(ネ)10071",
+    "date": "2020-10-28",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成30年(ワ)5427",
+    "precedent_id": "089813",
+    "ipprecedent_id": "5442",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

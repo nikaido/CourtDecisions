@@ -445,5 +445,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成31年(ネ)10005",
+    "date": "2019-07-24",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成29年(ワ)18184",
+    "precedent_id": "088846",
+    "ipprecedent_id": "5209",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

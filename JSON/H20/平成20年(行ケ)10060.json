@@ -619,5 +619,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(行ケ)10060",
+    "date": "2008-10-15",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "036918",
+    "ipprecedent_id": "1601",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

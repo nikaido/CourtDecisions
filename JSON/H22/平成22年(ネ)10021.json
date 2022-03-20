@@ -208,5 +208,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(ネ)10021",
+    "date": "2010-07-28",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成21年(ワ)9129",
+    "precedent_id": "080531",
+    "ipprecedent_id": "2303",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

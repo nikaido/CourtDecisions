@@ -38,5 +38,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成27年(ネ)10053",
+    "date": "2015-05-28",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "precedent_id": "085128",
+    "ipprecedent_id": "4057",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

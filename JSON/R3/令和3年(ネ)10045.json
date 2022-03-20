@@ -510,5 +510,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和3年(ネ)10045",
+    "date": "2021-09-30",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成31年(ワ)2219",
+    "precedent_id": "090638",
+    "ipprecedent_id": "5636",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

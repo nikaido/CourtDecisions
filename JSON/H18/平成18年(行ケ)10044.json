@@ -509,5 +509,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(行ケ)10044",
+    "date": "2006-10-11",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "033648",
+    "ipprecedent_id": "122",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

@@ -578,5 +578,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(ネ)10079",
+    "date": "2016-12-21",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "宇都宮地方裁判所 大田原支部",
+    "org_case_num": "平成26年(ワ)197",
+    "precedent_id": "086377",
+    "ipprecedent_id": "4526",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

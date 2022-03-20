@@ -1399,5 +1399,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(行ケ)10216",
+    "date": "2009-03-25",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "037467",
+    "ipprecedent_id": "1810",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

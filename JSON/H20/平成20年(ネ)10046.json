@@ -390,5 +390,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(ネ)10046",
+    "date": "2008-11-26",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成19年(ワ)22449",
+    "precedent_id": "037044",
+    "ipprecedent_id": "1657",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

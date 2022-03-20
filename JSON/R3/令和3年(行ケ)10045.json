@@ -351,5 +351,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和3年(行ケ)10045",
+    "date": "2022-01-19",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "090873",
+    "ipprecedent_id": "5689",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

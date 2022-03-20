@@ -2796,5 +2796,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成26年(行ケ)10192",
+    "date": "2015-04-15",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "085050",
+    "ipprecedent_id": "4025",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

@@ -615,5 +615,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成31年(行ケ)10035",
+    "date": "2019-09-18",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "088942",
+    "ipprecedent_id": "5238",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

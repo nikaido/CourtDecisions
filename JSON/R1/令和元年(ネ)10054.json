@@ -190,5 +190,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和1年(ネ)10054",
+    "date": "2020-02-13",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成31年(ワ)2013",
+    "precedent_id": "089237",
+    "ipprecedent_id": "5309",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

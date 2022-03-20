@@ -611,5 +611,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成29年(ラ)10002",
+    "date": "2017-06-12",
+    "rights_type": "不正競争",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成27年(モ)3466",
+    "precedent_id": "086884",
+    "ipprecedent_id": "4684",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

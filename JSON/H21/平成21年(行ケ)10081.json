@@ -534,5 +534,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成21年(行ケ)10081",
+    "date": "2009-11-05",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "038148",
+    "ipprecedent_id": "2023",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

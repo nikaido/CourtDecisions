@@ -3328,5 +3328,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(ネ)10072",
+    "date": "2008-02-25",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "precedent_id": "035891",
+    "ipprecedent_id": "1344",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

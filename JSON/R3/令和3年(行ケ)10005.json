@@ -419,5 +419,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和3年(行ケ)10005",
+    "date": "2021-06-29",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "090454",
+    "ipprecedent_id": "5584",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

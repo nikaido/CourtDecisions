@@ -365,5 +365,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(行ケ)10317",
+    "date": "2009-01-28",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "037239",
+    "ipprecedent_id": "1737",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

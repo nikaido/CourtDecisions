@@ -1055,5 +1055,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(行ケ)10232",
+    "date": "2008-12-24",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "037126",
+    "ipprecedent_id": "1687",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

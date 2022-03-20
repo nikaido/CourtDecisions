@@ -647,5 +647,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(ラ)10007",
+    "date": "2014-05-16",
+    "rights_type": "特許権",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成23年(ヨ)22027",
+    "precedent_id": "084207",
+    "ipprecedent_id": "3742",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所特別部"
+  }
 }

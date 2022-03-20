@@ -1319,5 +1319,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(行ケ)10106",
+    "date": "2010-11-18",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "080932",
+    "ipprecedent_id": "2438",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

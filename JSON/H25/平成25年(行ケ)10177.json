@@ -586,5 +586,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(行ケ)10177",
+    "date": "2014-02-27",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "084010",
+    "ipprecedent_id": "3672",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

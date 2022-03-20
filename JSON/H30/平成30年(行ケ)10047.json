@@ -966,5 +966,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成30年(行ケ)10047",
+    "date": "2019-05-23",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "088682",
+    "ipprecedent_id": "5172",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

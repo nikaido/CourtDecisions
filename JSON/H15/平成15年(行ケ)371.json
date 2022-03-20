@@ -401,5 +401,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成15年(行ケ)371",
+    "date": "2004-02-25",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "010497",
+    "ipprecedent_id": "747",
+    "court": "東京高等裁判所",
+    "court_section": "東京高等裁判所第3民事部"
+  }
 }

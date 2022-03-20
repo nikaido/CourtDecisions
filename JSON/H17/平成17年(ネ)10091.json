@@ -672,5 +672,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(ネ)10091",
+    "date": "2006-05-31",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成16年(ワ)10223",
+    "precedent_id": "033108",
+    "ipprecedent_id": "823",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

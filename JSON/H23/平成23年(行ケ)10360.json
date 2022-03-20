@@ -782,5 +782,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成23年(行ケ)10360",
+    "date": "2012-08-08",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "082500",
+    "ipprecedent_id": "3045",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

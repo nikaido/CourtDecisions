@@ -261,5 +261,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成13年(行ケ)147",
+    "date": "2004-06-28",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "010231",
+    "ipprecedent_id": "738",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

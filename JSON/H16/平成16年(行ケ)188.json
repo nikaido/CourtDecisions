@@ -316,5 +316,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成16年(行ケ)188",
+    "date": "2004-12-21",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "009858",
+    "ipprecedent_id": "725",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

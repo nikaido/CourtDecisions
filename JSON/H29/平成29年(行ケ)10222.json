@@ -830,5 +830,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成29年(行ケ)10222",
+    "date": "2018-10-10",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "088037",
+    "ipprecedent_id": "5020",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

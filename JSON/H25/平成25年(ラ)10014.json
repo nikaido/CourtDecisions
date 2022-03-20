@@ -136,5 +136,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(ラ)10014",
+    "date": "2014-03-26",
+    "rights_type": "特許権",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成24年(モ)40097",
+    "precedent_id": "084669",
+    "ipprecedent_id": "3922",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

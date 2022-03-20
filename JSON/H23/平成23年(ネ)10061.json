@@ -391,5 +391,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成23年(ネ)10061",
+    "date": "2012-02-29",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成22年(ワ)29497",
+    "precedent_id": "082095",
+    "ipprecedent_id": "2886",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

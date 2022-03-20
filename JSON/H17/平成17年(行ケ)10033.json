@@ -681,5 +681,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10033",
+    "date": "2006-12-26",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "033979",
+    "ipprecedent_id": "80",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

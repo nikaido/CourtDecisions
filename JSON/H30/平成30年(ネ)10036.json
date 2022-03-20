@@ -192,5 +192,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成30年(ネ)10036",
+    "date": "2018-11-20",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成29年(ワ)25465",
+    "precedent_id": "088134",
+    "ipprecedent_id": "5048",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

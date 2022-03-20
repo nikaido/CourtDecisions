@@ -846,5 +846,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和3年(ネ)10008",
+    "date": "2021-12-24",
+    "rights_type": "その他",
+    "case_type": "",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成30年(ワ)26219",
+    "precedent_id": "090842",
+    "ipprecedent_id": "5679",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

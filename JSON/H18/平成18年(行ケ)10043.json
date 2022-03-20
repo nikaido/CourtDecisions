@@ -365,5 +365,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(行ケ)10043",
+    "date": "2006-06-29",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "033269",
+    "ipprecedent_id": "290",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

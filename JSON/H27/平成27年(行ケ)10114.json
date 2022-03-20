@@ -1402,5 +1402,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成27年(行ケ)10114",
+    "date": "2016-04-13",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "085834",
+    "ipprecedent_id": "4333",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

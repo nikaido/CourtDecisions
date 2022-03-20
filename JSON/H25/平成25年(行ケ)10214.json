@@ -274,5 +274,15 @@
   "pretext": [
     "(cid:1) (cid:2)第1  請求",
     "主文同旨"
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(行ケ)10214",
+    "date": "2014-03-25",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "084079",
+    "ipprecedent_id": "3696",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

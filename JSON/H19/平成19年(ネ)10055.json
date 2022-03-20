@@ -426,5 +426,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(ネ)10055",
+    "date": "2007-11-28",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成18年(ワ)17357",
+    "precedent_id": "035447",
+    "ipprecedent_id": "1251",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

@@ -1165,5 +1165,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成25年(行ケ)10128",
+    "date": "2014-01-22",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "083885",
+    "ipprecedent_id": "3625",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

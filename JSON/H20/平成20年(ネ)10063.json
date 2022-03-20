@@ -258,5 +258,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(ネ)10063",
+    "date": "2009-08-27",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成19年(ワ)20986",
+    "precedent_id": "037922",
+    "ipprecedent_id": "1934",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

@@ -1091,5 +1091,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成27年(ネ)10091",
+    "date": "2016-06-01",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成24年(ワ)6435",
+    "precedent_id": "085925",
+    "ipprecedent_id": "4360",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

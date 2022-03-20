@@ -182,5 +182,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(ネ)10053",
+    "date": "2008-10-20",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成20年(ワ)4",
+    "precedent_id": "036931",
+    "ipprecedent_id": "1604",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

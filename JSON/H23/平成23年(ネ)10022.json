@@ -241,5 +241,17 @@
         "よって，主文のとおり判決する。"
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成23年(ネ)10022",
+    "date": "2012-02-28",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成20年(ワ)29173",
+    "precedent_id": "082038",
+    "ipprecedent_id": "2852",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

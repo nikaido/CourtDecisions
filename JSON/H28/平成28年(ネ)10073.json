@@ -684,5 +684,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(ネ)10073",
+    "date": "2016-11-30",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "横浜地方裁判所",
+    "org_case_num": "平成26年(ワ)5240",
+    "precedent_id": "086300",
+    "ipprecedent_id": "4508",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

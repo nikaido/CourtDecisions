@@ -1874,5 +1874,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成27年(行ケ)10099",
+    "date": "2016-07-19",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "086033",
+    "ipprecedent_id": "4389",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

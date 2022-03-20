@@ -640,5 +640,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和2年(ネ)10040",
+    "date": "2020-12-17",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成31年(ワ)9997",
+    "precedent_id": "089914",
+    "ipprecedent_id": "5468",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

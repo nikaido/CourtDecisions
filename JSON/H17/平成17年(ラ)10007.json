@@ -317,5 +317,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(ラ)10007",
+    "date": "2005-11-15",
+    "rights_type": "著作権",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成16年(モ)15793",
+    "precedent_id": "009284",
+    "ipprecedent_id": "1",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

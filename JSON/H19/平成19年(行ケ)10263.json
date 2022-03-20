@@ -386,5 +386,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(行ケ)10263",
+    "date": "2007-12-20",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "035525",
+    "ipprecedent_id": "1273",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

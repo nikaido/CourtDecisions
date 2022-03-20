@@ -418,5 +418,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(行ケ)10123",
+    "date": "2016-11-30",
+    "rights_type": "意匠権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "086295",
+    "ipprecedent_id": "4505",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

@@ -393,5 +393,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(行コ)10002",
+    "date": "2010-09-22",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成21年(行ウ)517",
+    "precedent_id": "080691",
+    "ipprecedent_id": "2350",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

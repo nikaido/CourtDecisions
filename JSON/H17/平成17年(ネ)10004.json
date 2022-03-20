@@ -1078,5 +1078,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(ネ)10004",
+    "date": "2006-01-25",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成14年(ワ)9503",
+    "precedent_id": "009179",
+    "ipprecedent_id": "834",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

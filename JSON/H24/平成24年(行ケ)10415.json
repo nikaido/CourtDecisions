@@ -746,5 +746,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成24年(行ケ)10415",
+    "date": "2013-10-03",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "083624",
+    "ipprecedent_id": "3518",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

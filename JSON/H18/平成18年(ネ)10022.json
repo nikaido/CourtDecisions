@@ -453,5 +453,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(ネ)10022",
+    "date": "2006-09-28",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成17年(ワ)5652",
+    "precedent_id": "033602",
+    "ipprecedent_id": "817",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

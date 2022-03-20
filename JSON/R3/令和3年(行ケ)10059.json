@@ -568,5 +568,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和3年(行ケ)10059",
+    "date": "2021-11-29",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "090730",
+    "ipprecedent_id": "5660",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

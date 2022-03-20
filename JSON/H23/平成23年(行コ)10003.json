@@ -236,5 +236,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成23年(行コ)10003",
+    "date": "2011-12-15",
+    "rights_type": "",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成22年(行ウ)459",
+    "precedent_id": "081922",
+    "ipprecedent_id": "2806",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

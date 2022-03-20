@@ -852,5 +852,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成30年(ネ)10092",
+    "date": "2019-08-21",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成27年(ワ)16423",
+    "precedent_id": "088894",
+    "ipprecedent_id": "5222",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

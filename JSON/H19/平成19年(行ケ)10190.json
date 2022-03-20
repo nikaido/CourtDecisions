@@ -584,5 +584,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(行ケ)10190",
+    "date": "2008-01-16",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "035606",
+    "ipprecedent_id": "1300",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

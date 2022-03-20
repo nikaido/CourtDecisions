@@ -1168,5 +1168,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(行ケ)10332",
+    "date": "2008-08-06",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "036707",
+    "ipprecedent_id": "1530",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

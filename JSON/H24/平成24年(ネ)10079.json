@@ -145,5 +145,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成24年(ネ)10079",
+    "date": "2013-04-10",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成22年(ワ)46700",
+    "precedent_id": "083196",
+    "ipprecedent_id": "3376",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

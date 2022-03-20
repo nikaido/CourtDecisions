@@ -458,5 +458,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成15年(ネ)4920",
+    "date": "2004-07-28",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成11年(ワ)18380",
+    "precedent_id": "010158",
+    "ipprecedent_id": "886",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

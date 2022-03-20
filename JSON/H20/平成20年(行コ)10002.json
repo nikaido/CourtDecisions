@@ -459,5 +459,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成20年(行コ)10002",
+    "date": "2009-03-26",
+    "rights_type": "意匠権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成20年(行ウ)82",
+    "precedent_id": "037483",
+    "ipprecedent_id": "1821",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

@@ -263,5 +263,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成31年(ネ)10032",
+    "date": "2019-09-18",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成29年(ワ)1752",
+    "precedent_id": "088919",
+    "ipprecedent_id": "5229",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

@@ -320,5 +320,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10239",
+    "date": "2005-09-14",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "009390",
+    "ipprecedent_id": "569",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

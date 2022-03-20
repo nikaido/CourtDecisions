@@ -104,5 +104,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成24年(行コ)10006",
+    "date": "2012-11-19",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成23年(行ウ)728",
+    "precedent_id": "082731",
+    "ipprecedent_id": "3143",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

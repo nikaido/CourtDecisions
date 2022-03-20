@@ -483,5 +483,17 @@
         "よって，主文のとおり判決する。"
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成29年(ネ)10053",
+    "date": "2017-12-25",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成27年(ワ)22521",
+    "precedent_id": "087385",
+    "ipprecedent_id": "4834",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

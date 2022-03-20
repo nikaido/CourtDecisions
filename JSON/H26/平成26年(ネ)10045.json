@@ -729,5 +729,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成26年(ネ)10045",
+    "date": "2015-04-28",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成24年(ワ)11800",
+    "precedent_id": "085091",
+    "ipprecedent_id": "4042",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

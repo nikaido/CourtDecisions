@@ -331,5 +331,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(ラ)10008",
+    "date": "2008-09-29",
+    "rights_type": "特許権",
+    "case_type": "決定その他",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成19年(モ)59003",
+    "precedent_id": "037002",
+    "ipprecedent_id": "1633",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

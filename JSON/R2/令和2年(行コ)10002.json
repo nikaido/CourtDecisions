@@ -321,5 +321,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和2年(行コ)10002",
+    "date": "2020-07-22",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "令和1年(行ウ)278",
+    "precedent_id": "089618",
+    "ipprecedent_id": "5399",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

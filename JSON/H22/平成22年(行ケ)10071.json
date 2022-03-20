@@ -540,5 +540,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(行ケ)10071",
+    "date": "2010-10-27",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "080791",
+    "ipprecedent_id": "2390",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

@@ -445,5 +445,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成17年(行ケ)10073",
+    "date": "2005-05-17",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "009584",
+    "ipprecedent_id": "672",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

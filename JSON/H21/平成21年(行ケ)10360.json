@@ -589,5 +589,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成21年(行ケ)10360",
+    "date": "2010-05-31",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "080249",
+    "ipprecedent_id": "2241",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

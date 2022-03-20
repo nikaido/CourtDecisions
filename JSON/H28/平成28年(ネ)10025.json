@@ -138,5 +138,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(ネ)10025",
+    "date": "2016-06-23",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "千葉地方裁判所 松戸支部",
+    "org_case_num": "平成27年(ワ)209",
+    "precedent_id": "085963",
+    "ipprecedent_id": "4368",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

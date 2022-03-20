@@ -432,5 +432,17 @@
         "令和2年8月3日"
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和2年(ラ)10004",
+    "date": "2020-08-03",
+    "rights_type": "その他",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "令和1年(ワ)31210",
+    "precedent_id": "089630",
+    "ipprecedent_id": "5403",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

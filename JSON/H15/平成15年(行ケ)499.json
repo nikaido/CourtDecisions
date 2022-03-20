@@ -352,5 +352,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成15年(行ケ)499",
+    "date": "2004-03-29",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "010426",
+    "ipprecedent_id": "744",
+    "court": "東京高等裁判所",
+    "court_section": "東京高等裁判所第3民事部"
+  }
 }

@@ -591,5 +591,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(行ケ)10170",
+    "date": "2007-01-23",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "034056",
+    "ipprecedent_id": "15",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

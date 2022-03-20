@@ -331,5 +331,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(行ケ)10177",
+    "date": "2017-02-08",
+    "rights_type": "商標権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "086500",
+    "ipprecedent_id": "4579",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

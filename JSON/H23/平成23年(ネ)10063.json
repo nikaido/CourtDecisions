@@ -193,5 +193,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成23年(ネ)10063",
+    "date": "2012-02-29",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "大阪地方裁判所",
+    "org_case_num": "平成23年(ワ)6526",
+    "precedent_id": "082091",
+    "ipprecedent_id": "2883",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

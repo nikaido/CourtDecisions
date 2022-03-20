@@ -916,5 +916,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(ネ)10085",
+    "date": "2008-09-08",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成18年(ワ)15809",
+    "precedent_id": "036785",
+    "ipprecedent_id": "1560",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第2部"
+  }
 }

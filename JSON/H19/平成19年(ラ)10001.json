@@ -117,5 +117,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成19年(ラ)10001",
+    "date": "2007-04-11",
+    "rights_type": "商標権",
+    "case_type": "決定その他",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成19年(モ)121",
+    "precedent_id": "034512",
+    "ipprecedent_id": "991",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

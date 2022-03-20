@@ -669,5 +669,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(ネ)10046",
+    "date": "2010-11-10",
+    "rights_type": "著作権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成20年(ワ)36380",
+    "precedent_id": "080832",
+    "ipprecedent_id": "2407",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

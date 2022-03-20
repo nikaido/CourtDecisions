@@ -948,5 +948,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成18年(ネ)10070",
+    "date": "2007-09-27",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成16年(ワ)23624",
+    "precedent_id": "035180",
+    "ipprecedent_id": "1177",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

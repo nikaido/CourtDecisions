@@ -1144,5 +1144,15 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成30年(行ケ)10163",
+    "date": "2020-01-21",
+    "rights_type": "特許権",
+    "case_type": "審決取消訴訟",
+    "precedent_id": "089172",
+    "ipprecedent_id": "5295",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

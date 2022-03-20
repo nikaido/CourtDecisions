@@ -393,5 +393,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和1年(ネ)10036",
+    "date": "2020-01-21",
+    "rights_type": "",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成29年(ワ)26468",
+    "precedent_id": "089173",
+    "ipprecedent_id": "5296",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第1部"
+  }
 }

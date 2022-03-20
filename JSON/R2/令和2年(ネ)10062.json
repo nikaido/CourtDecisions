@@ -375,5 +375,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "令和2年(ネ)10062",
+    "date": "2021-05-19",
+    "rights_type": "商標権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成30年(ワ)35053",
+    "precedent_id": "090384",
+    "ipprecedent_id": "5566",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

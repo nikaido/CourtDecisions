@@ -476,5 +476,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成14年(ネ)5718",
+    "date": "2004-03-31",
+    "rights_type": "不正競争",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成10年(ワ)11572",
+    "precedent_id": "010409",
+    "ipprecedent_id": "891",
+    "court": "東京高等裁判所",
+    "court_section": "東京高等裁判所第13民事部"
+  }
 }

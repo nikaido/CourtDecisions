@@ -173,5 +173,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成22年(行コ)10003",
+    "date": "2010-11-30",
+    "rights_type": "その他",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成21年(行ウ)590",
+    "precedent_id": "080883",
+    "ipprecedent_id": "2423",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }

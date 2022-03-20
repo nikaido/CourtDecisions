@@ -218,5 +218,17 @@
         }
       ]
     }
-  ]
+  ],
+  "meta": {
+    "case_num": "平成28年(行コ)10002",
+    "date": "2017-03-07",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成27年(行ウ)615",
+    "precedent_id": "086577",
+    "ipprecedent_id": "4597",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第4部"
+  }
 }

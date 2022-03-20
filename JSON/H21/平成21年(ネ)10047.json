@@ -2106,5 +2106,17 @@
   ],
   "pretext": [
     "以下の用語については，一審判決の例による。"
-  ]
+  ],
+  "meta": {
+    "case_num": "平成21年(ネ)10047",
+    "date": "2010-03-25",
+    "rights_type": "特許権",
+    "case_type": "侵害訴訟等控訴事件",
+    "org_court_name": "東京地方裁判所",
+    "org_case_num": "平成19年(ワ)23883",
+    "precedent_id": "080031",
+    "ipprecedent_id": "2170",
+    "court": "知的財産高等裁判所",
+    "court_section": "知的財産高等裁判所第3部"
+  }
 }
